@@ -1,0 +1,11 @@
+export type Level = 'A0'|'A1'|'A2'|'B1'|'B2'|'C1'|'C2';
+export type Skill = 'grammar'|'listening'|'reading';
+export type Question = {id:string;skill:Skill;prompt:string;options?:string[];answer:string;explanation:string;audio?:string};
+export type Timing = {text:string;start:number;end:number};
+export type Lesson = {id:string;level:string;order:number;title:string;rule:string;example:string;readingId:string;vocab:string[];audio:string;timings:Timing[];minutes:number;questions:Question[]};
+export type Reader = {id:string;title:string;titleVi:string;text:string;translation:string;level:string;image:string;audio:string;timings:Timing[];analysis:{text:string;role:string}[];questions:Question[]};
+export type Word = {id:string;word:string;ipa:string;meaning:string;context:string;contextVi:string;image:string;audio:string;audioType:string;level:string};
+export type Node = {id:string;title:string;level:string;kind:'lesson'|'milestone';lesson?:Lesson;order:number};
+export type Attempt = {id:string;nodeId:string;score:number;date:string;answers:Record<string,string>;source:'local'|'cloud';speakingPractised?:boolean};
+export type ReviewCard = {wordId:string;due:string;interval:number;ease:number;repetitions:number};
+export type Progress = {attempts:Attempt[];reviews:ReviewCard[];dailyGoal:number;name:string;studySeconds:Record<string,number>};

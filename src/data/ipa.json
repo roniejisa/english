@@ -1,0 +1,412 @@
+[
+  {
+    "id": "ae",
+    "symbol": "/æ/",
+    "title": "Miệng mở, lưỡi thấp",
+    "words": "Apple. Cat. Bag.",
+    "tip": "Mở miệng rộng vừa phải; lưỡi ở phía trước và thấp. Âm ngắn, không đọc thành /e/.",
+    "kind": "vowel",
+    "mouth": "open",
+    "voiced": true
+  },
+  {
+    "id": "i",
+    "symbol": "/iː/",
+    "title": "Lưỡi cao, môi hơi căng",
+    "words": "See. Tea. Green.",
+    "tip": "Lưỡi ở phía trước và cao. Môi kéo nhẹ sang hai bên; giữ âm dài, không thêm âm cuối.",
+    "kind": "vowel",
+    "mouth": "spread",
+    "voiced": true
+  },
+  {
+    "id": "p",
+    "symbol": "/p/",
+    "title": "Khép môi rồi bật hơi",
+    "words": "Pen. Park. Paper.",
+    "tip": "Khép hai môi, chặn khí rồi bật ra. Không rung dây thanh. Đầu từ có hơi bật nhẹ; đừng thêm “ờ”.",
+    "kind": "consonant",
+    "mouth": "closed",
+    "voiced": false
+  },
+  {
+    "id": "b",
+    "symbol": "/b/",
+    "title": "Khép môi, có rung",
+    "words": "Book. Bag. Baby.",
+    "tip": "Khép rồi mở hai môi như /p/, nhưng có rung dây thanh. Đặt tay lên cổ để cảm nhận.",
+    "kind": "consonant",
+    "mouth": "closed",
+    "voiced": true
+  },
+  {
+    "id": "ih",
+    "symbol": "/ɪ/",
+    "title": "Âm ngắn, lưỡi thả lỏng",
+    "words": "Sit. Big. Fish.",
+    "tip": "Lưỡi trước và hơi cao nhưng thấp hơn /iː/. Giữ âm ngắn, môi thả lỏng.",
+    "kind": "vowel",
+    "mouth": "spread",
+    "voiced": true
+  },
+  {
+    "id": "eh",
+    "symbol": "/ɛ/",
+    "title": "Mở miệng vừa",
+    "words": "Bed. Pen. Red.",
+    "tip": "Mở miệng vừa phải; lưỡi phía trước, thấp hơn /ɪ/. Không kéo dài thành hai âm.",
+    "kind": "vowel",
+    "mouth": "open",
+    "voiced": true
+  },
+  {
+    "id": "ah",
+    "symbol": "/ɑː/",
+    "title": "Lưỡi thấp phía sau",
+    "words": "Hot. Car. Father.",
+    "tip": "Há miệng rộng, lưỡi thấp và hơi lùi về sau; môi không tròn. Trong giọng Mỹ “car” còn có âm /r/.",
+    "kind": "vowel",
+    "mouth": "open",
+    "voiced": true
+  },
+  {
+    "id": "aw",
+    "symbol": "/ɔː/",
+    "title": "Lưỡi sau, môi tròn",
+    "words": "Law. Thought. Talk.",
+    "tip": "Lưỡi sau, môi tròn vừa. Một số giọng Mỹ nhập âm này với /ɑː/; nghe biến thể trong từ mẫu.",
+    "kind": "vowel",
+    "mouth": "round",
+    "voiced": true
+  },
+  {
+    "id": "uh",
+    "symbol": "/ʊ/",
+    "title": "Tròn môi nhẹ, âm ngắn",
+    "words": "Book. Good. Foot.",
+    "tip": "Môi hơi tròn, lưỡi nâng về phía sau. Thả lỏng và ngắn hơn /uː/.",
+    "kind": "vowel",
+    "mouth": "round",
+    "voiced": true
+  },
+  {
+    "id": "u",
+    "symbol": "/uː/",
+    "title": "Môi tròn, âm dài",
+    "words": "Food. Blue. Moon.",
+    "tip": "Môi tròn; lưỡi cao phía sau. Giữ âm đều, tránh kết thúc bằng một âm “u” khác.",
+    "kind": "vowel",
+    "mouth": "round",
+    "voiced": true
+  },
+  {
+    "id": "strut",
+    "symbol": "/ʌ/",
+    "title": "Mở vừa, lưỡi giữa",
+    "words": "Cup. Love. Bus.",
+    "tip": "Lưỡi ở giữa và thấp, môi thả lỏng. Giữ âm ngắn ở âm tiết có trọng âm.",
+    "kind": "vowel",
+    "mouth": "open",
+    "voiced": true
+  },
+  {
+    "id": "schwa",
+    "symbol": "/ə/",
+    "title": "Âm yếu nhất",
+    "words": "About. Again. Banana.",
+    "tip": "Miệng và lưỡi thư giãn. /ə/ nằm ở âm tiết không nhấn, như đầu từ “about”; không nhấn mạnh mọi âm tiết.",
+    "kind": "vowel",
+    "mouth": "open",
+    "voiced": true
+  },
+  {
+    "id": "er",
+    "symbol": "/ɝ/",
+    "title": "Nguyên âm có âm r",
+    "words": "Bird. Word. Learn.",
+    "tip": "Lưỡi co nhẹ hoặc nâng phần giữa để tạo âm r; không chạm vòm miệng. Âm tiết có trọng âm.",
+    "kind": "vowel",
+    "mouth": "tongue",
+    "voiced": true
+  },
+  {
+    "id": "ers",
+    "symbol": "/ɚ/",
+    "title": "Âm r ở âm tiết yếu",
+    "words": "Teacher. Water. Better.",
+    "tip": "Là âm r ở âm tiết không nhấn, thường cuối từ giọng Mỹ. Giữ lưỡi gần vị trí /r/, không thêm “ờ” tách rời.",
+    "kind": "vowel",
+    "mouth": "tongue",
+    "voiced": true
+  },
+  {
+    "id": "ay",
+    "symbol": "/eɪ/",
+    "title": "Trượt từ e đến i",
+    "words": "Day. Name. Face.",
+    "tip": "Bắt đầu gần /ɛ/ rồi nâng lưỡi về /ɪ/. Trượt liền mạch trong một âm tiết.",
+    "kind": "vowel",
+    "mouth": "spread",
+    "voiced": true
+  },
+  {
+    "id": "ai",
+    "symbol": "/aɪ/",
+    "title": "Mở rồi thu hẹp",
+    "words": "My. Time. Nice.",
+    "tip": "Bắt đầu với miệng mở, rồi nâng lưỡi phía trước về /ɪ/. Không tách thành hai âm tiết.",
+    "kind": "vowel",
+    "mouth": "open",
+    "voiced": true
+  },
+  {
+    "id": "oy",
+    "symbol": "/ɔɪ/",
+    "title": "Môi tròn rồi mở",
+    "words": "Boy. Choice. Voice.",
+    "tip": "Bắt đầu với môi tròn /ɔ/, rồi chuyển về /ɪ/ ở phía trước. Trượt liên tục.",
+    "kind": "vowel",
+    "mouth": "round",
+    "voiced": true
+  },
+  {
+    "id": "oh",
+    "symbol": "/oʊ/",
+    "title": "Môi tròn dần",
+    "words": "Go. Home. Boat.",
+    "tip": "Bắt đầu ở /o/, rồi môi tròn hơn khi chuyển về /ʊ/. Đây là biến thể thường gặp trong giọng Mỹ.",
+    "kind": "vowel",
+    "mouth": "round",
+    "voiced": true
+  },
+  {
+    "id": "ow",
+    "symbol": "/aʊ/",
+    "title": "Mở rồi tròn môi",
+    "words": "Now. House. Mouth.",
+    "tip": "Bắt đầu miệng mở; nâng lưỡi về sau và tròn môi nhẹ ở cuối. Giữ một âm tiết.",
+    "kind": "vowel",
+    "mouth": "open",
+    "voiced": true
+  },
+  {
+    "id": "t",
+    "symbol": "/t/",
+    "title": "Đầu lưỡi chạm lợi trên",
+    "words": "Tea. Top. Time.",
+    "tip": "Đặt đầu lưỡi ở gờ lợi sau răng trên rồi bật ra. Không rung dây thanh; không thêm nguyên âm sau phụ âm.",
+    "kind": "consonant",
+    "mouth": "tongue",
+    "voiced": false
+  },
+  {
+    "id": "d",
+    "symbol": "/d/",
+    "title": "Chạm lợi, có rung",
+    "words": "Day. Dog. Door.",
+    "tip": "Đầu lưỡi chạm gờ lợi như /t/, nhưng có rung dây thanh. Đừng đọc thành một âm tiết “đờ”.",
+    "kind": "consonant",
+    "mouth": "tongue",
+    "voiced": true
+  },
+  {
+    "id": "k",
+    "symbol": "/k/",
+    "title": "Chặn khí phía sau",
+    "words": "Cat. Key. Back.",
+    "tip": "Phần sau lưỡi chạm vòm mềm rồi nhả ra. Không rung dây thanh; đầu từ thường có hơi bật.",
+    "kind": "consonant",
+    "mouth": "tongue",
+    "voiced": false
+  },
+  {
+    "id": "g",
+    "symbol": "/ɡ/",
+    "title": "Phía sau lưỡi, có rung",
+    "words": "Go. Game. Bag.",
+    "tip": "Phần sau lưỡi chạm vòm mềm như /k/ nhưng có rung dây thanh. Không thêm “ờ”.",
+    "kind": "consonant",
+    "mouth": "tongue",
+    "voiced": true
+  },
+  {
+    "id": "f",
+    "symbol": "/f/",
+    "title": "Răng trên chạm môi dưới",
+    "words": "Fish. Fine. Coffee.",
+    "tip": "Chạm nhẹ răng trên vào môi dưới; thổi khí qua khe. Không rung dây thanh.",
+    "kind": "consonant",
+    "mouth": "teeth",
+    "voiced": false
+  },
+  {
+    "id": "v",
+    "symbol": "/v/",
+    "title": "Răng–môi, có rung",
+    "words": "Very. Voice. Love.",
+    "tip": "Giữ vị trí răng trên–môi dưới như /f/, nhưng có rung dây thanh.",
+    "kind": "consonant",
+    "mouth": "teeth",
+    "voiced": true
+  },
+  {
+    "id": "th",
+    "symbol": "/θ/",
+    "title": "Đầu lưỡi giữa hai răng",
+    "words": "Think. Three. Mouth.",
+    "tip": "Đưa đầu lưỡi hơi ra giữa hai hàm răng; đẩy khí nhẹ, không rung. Đừng thay bằng /t/ hay /s/.",
+    "kind": "consonant",
+    "mouth": "between",
+    "voiced": false
+  },
+  {
+    "id": "dh",
+    "symbol": "/ð/",
+    "title": "Lưỡi–răng, có rung",
+    "words": "This. That. Mother.",
+    "tip": "Đầu lưỡi ở giữa hai hàm răng như /θ/, nhưng có rung dây thanh. Đừng thay bằng /d/.",
+    "kind": "consonant",
+    "mouth": "between",
+    "voiced": true
+  },
+  {
+    "id": "s",
+    "symbol": "/s/",
+    "title": "Khe hẹp, khí liên tục",
+    "words": "See. Sun. Rice.",
+    "tip": "Lưỡi gần gờ lợi nhưng không chạm. Đẩy khí liên tục, không rung dây thanh.",
+    "kind": "consonant",
+    "mouth": "tongue",
+    "voiced": false
+  },
+  {
+    "id": "z",
+    "symbol": "/z/",
+    "title": "Giữ vị trí s, thêm rung",
+    "words": "Zoo. Zero. Busy.",
+    "tip": "Miệng giống /s/, thêm rung dây thanh. Âm cuối từ như “is” cũng thường là /z/.",
+    "kind": "consonant",
+    "mouth": "tongue",
+    "voiced": true
+  },
+  {
+    "id": "sh",
+    "symbol": "/ʃ/",
+    "title": "Môi hơi tròn, khí mềm",
+    "words": "She. Shoe. Fish.",
+    "tip": "Lưỡi lùi hơn /s/, môi hơi tròn; thổi khí liên tục. Không rung dây thanh.",
+    "kind": "consonant",
+    "mouth": "round",
+    "voiced": false
+  },
+  {
+    "id": "zh",
+    "symbol": "/ʒ/",
+    "title": "Âm như sh nhưng có rung",
+    "words": "Measure. Vision. Pleasure.",
+    "tip": "Giữ vị trí /ʃ/ và thêm rung dây thanh. Luyện giữa từ “measure” và “vision”.",
+    "kind": "consonant",
+    "mouth": "round",
+    "voiced": true
+  },
+  {
+    "id": "h",
+    "symbol": "/h/",
+    "title": "Hơi nhẹ qua miệng",
+    "words": "He. Home. Happy.",
+    "tip": "Thả lỏng họng, để hơi nhẹ thoát ra; miệng chuẩn bị cho nguyên âm tiếp theo. Không tạo tiếng khàn mạnh.",
+    "kind": "consonant",
+    "mouth": "open",
+    "voiced": false
+  },
+  {
+    "id": "ch",
+    "symbol": "/tʃ/",
+    "title": "Chặn rồi xát",
+    "words": "Chair. Choose. Teacher.",
+    "tip": "Đầu tiên chặn khí như /t/, rồi nhả sang /ʃ/. Hai phần thành một âm, không thêm nguyên âm.",
+    "kind": "consonant",
+    "mouth": "round",
+    "voiced": false
+  },
+  {
+    "id": "j",
+    "symbol": "/dʒ/",
+    "title": "Chặn–xát có rung",
+    "words": "Job. Juice. Orange.",
+    "tip": "Bắt đầu gần /d/ rồi chuyển sang /ʒ/; có rung dây thanh. Đừng tách thành hai âm tiết.",
+    "kind": "consonant",
+    "mouth": "round",
+    "voiced": true
+  },
+  {
+    "id": "m",
+    "symbol": "/m/",
+    "title": "Khép môi, khí qua mũi",
+    "words": "My. Moon. Milk.",
+    "tip": "Khép môi, giữ tiếng rung; luồng khí đi qua mũi. Miệng không mở để thêm nguyên âm.",
+    "kind": "consonant",
+    "mouth": "closed",
+    "voiced": true
+  },
+  {
+    "id": "n",
+    "symbol": "/n/",
+    "title": "Lưỡi chạm lợi, khí qua mũi",
+    "words": "No. Name. Pen.",
+    "tip": "Đầu lưỡi chạm gờ lợi trên, luồng khí đi qua mũi. Giữ tiếng rung nhẹ.",
+    "kind": "consonant",
+    "mouth": "tongue",
+    "voiced": true
+  },
+  {
+    "id": "ng",
+    "symbol": "/ŋ/",
+    "title": "Nâng sau lưỡi, khí qua mũi",
+    "words": "Sing. Long. Thing.",
+    "tip": "Phần sau lưỡi chạm vòm mềm; khí đi qua mũi. Cuối “sing” không thêm /ɡ/.",
+    "kind": "consonant",
+    "mouth": "tongue",
+    "voiced": true
+  },
+  {
+    "id": "l",
+    "symbol": "/l/",
+    "title": "Đầu lưỡi chạm lợi",
+    "words": "Light. Love. Feel.",
+    "tip": "Đầu lưỡi chạm gờ lợi; khí thoát hai bên. /l/ cuối từ trong giọng Mỹ thường có phần sau lưỡi nâng hơn.",
+    "kind": "consonant",
+    "mouth": "tongue",
+    "voiced": true
+  },
+  {
+    "id": "r",
+    "symbol": "/r/",
+    "title": "Lưỡi không chạm vòm",
+    "words": "Red. Right. Rain.",
+    "tip": "Co nhẹ đầu lưỡi hoặc nâng phần giữa; không chạm gờ lợi, không rung lưỡi như r tiếng Việt.",
+    "kind": "consonant",
+    "mouth": "tongue",
+    "voiced": true
+  },
+  {
+    "id": "w",
+    "symbol": "/w/",
+    "title": "Tròn môi rồi mở",
+    "words": "We. Water. Window.",
+    "tip": "Tròn môi, lưỡi cao phía sau rồi chuyển nhanh sang nguyên âm kế tiếp. Không chạm răng vào môi như /v/.",
+    "kind": "consonant",
+    "mouth": "round",
+    "voiced": true
+  },
+  {
+    "id": "y",
+    "symbol": "/j/",
+    "title": "Trượt từ vị trí i",
+    "words": "Yes. You. Yellow.",
+    "tip": "Lưỡi cao phía trước gần /i/ rồi chuyển nhanh sang nguyên âm. Đây là âm đầu trong “yes”, không phải âm /dʒ/.",
+    "kind": "consonant",
+    "mouth": "spread",
+    "voiced": true
+  }
+]
