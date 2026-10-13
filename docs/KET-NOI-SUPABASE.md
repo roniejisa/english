@@ -9,7 +9,7 @@
 3. Copy **toàn bộ** nội dung vào SQL Editor, rồi bấm **Run**.
 4. Sau khi thành công, kết quả cuối cho biết `learning_nodes = 49`; một bảng kết quả khác cho biết số câu hỏi đã nạp.
 
-File bao gồm 3 migration và dữ liệu chuẩn của ứng dụng. Không phải chạy seed từ Terminal và không cần gửi service-role key. Có thể chạy lại file sau khi cài thành công để cập nhật bộ nội dung; file không xóa dữ liệu người học.
+File v2.1 bao gồm 5 migration và dữ liệu chuẩn của ứng dụng. Không phải chạy seed từ Terminal và không cần gửi service-role key. Có thể chạy lại file sau khi cài thành công để cập nhật bộ nội dung; file không xóa dữ liệu người học.
 
 ## Bước 2 — Đặt đường dẫn xác nhận email
 
@@ -31,10 +31,11 @@ Mở [LingoStep](https://lingo-step-english.truongtrungcaphanoi3.chatgpt.site), 
 - Tên, mục tiêu mỗi ngày.
 - Thời gian học theo ngày, cộng từ các thiết bị mà không nhân đôi một lượt đồng bộ.
 - Bài học và bước gần nhất để tiếp tục khi mở lại bài.
+- Lịch sử trạm luyện tập, kết quả luyện viết và bản nháp đã bấm lưu lên tài khoản.
 
 Trong **Cài đặt → Tài khoản & đồng bộ**, xem trạng thái **Đã lưu trên Supabase** và dùng **Đồng bộ ngay** khi cần. Tự tải tiến độ khi đăng nhập, trở lại tab, có mạng trở lại và mỗi 45 giây lúc ứng dụng hiển thị.
 
-Thời gian học được giữ cục bộ sau mỗi 15 giây và gửi theo tổng của từng thiết bị; gửi lại cùng dữ liệu không làm tăng thời gian hai lần. Tên/mục tiêu/vị trí bài được lưu tự động sau khi thay đổi. Nếu mất mạng, thông tin này được giữ trên thiết bị và thử gửi khi có mạng. Kết quả làm bài tài khoản cần nộp online để được server xác nhận; không đánh dấu đã lưu cloud nếu nộp lỗi.
+Thời gian học được giữ cục bộ sau mỗi 15 giây và gửi theo tổng của từng thiết bị; gửi lại cùng dữ liệu không làm tăng thời gian hai lần. Tên/mục tiêu/vị trí bài được lưu tự động sau khi thay đổi. Nếu mất mạng, thông tin này được giữ trên thiết bị và thử gửi khi có mạng. Kết quả tài khoản được giữ trong hàng chờ khi mất mạng và chỉ được xác nhận sau khi máy chủ chấm. Vào Luyện viết để gửi các lượt viết còn chờ; nháp viết tự lưu trên thiết bị, bấm Lưu nháp lên tài khoản để tiếp tục trên thiết bị khác.
 
 ## Tiến độ đã học ở chế độ khách
 

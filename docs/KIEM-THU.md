@@ -1,15 +1,20 @@
-# Kết quả kiểm thử bản 1.1
+# Kết quả kiểm thử bản 2.0
 
 - Next.js 16.4.0 build production: thành công, xuất static `out/`.
 - TypeScript strict: thành công.
-- 13 nhóm kiểm thử tự động: thành công.
-- 42 bài nhỏ, 49 bước gồm 7 trạm; ID và thứ tự không trùng.
+- 18 nhóm kiểm thử tự động: thành công.
+- 42 bài nhỏ, 49 bước gồm 7 trạm; ID và thứ tự không trùng, giữ từ v1.1.
+- 42 truyện riêng 50–100 từ; 420 câu hỏi; 12 hội thoại đủ audio cả hai vai.
+- Luyện tập không mở khóa; chọn từ bài đã mở; sổ lỗi dựa trên lần trả lời mới nhất.
+- Database v1.1 được nâng lên v2 mà điểm, tên, mục tiêu và thời gian không đổi.
+- Lượt nộp cùng request ID trả cùng kết quả; payload khác dùng lại ID bị từ chối.
+- Đề 6 câu cũ tiếp tục được chấm sau khi nạp đề 10 câu mới.
 - Kiểm tra ngưỡng 79/80%, toàn bộ bài trước và yêu cầu tham gia nói ở cột mốc.
 - Chấm câu nghe bỏ qua hoa/thường và dấu câu, vẫn kiểm tra thứ tự từ.
 - Đề cột mốc 9 câu, chia đều ngữ pháp/nghe/đọc, không lặp ID.
 - Mỗi bài đọc 50–100 từ, có 3 câu hỏi và glossary phủ mọi từ.
-- 42 thẻ từ đều có hình, IPA, ngữ cảnh và file nghe.
-- 138 MP3 được đóng gói; file không rỗng; 23 từ có bản thu người thật, 19 từ dùng giọng tổng hợp được ghi nhãn.
+- 126 thẻ từ đều có hình, IPA, ngữ cảnh và file nghe.
+- 407 MP3 được đóng gói; file không rỗng; 23 từ có bản thu người thật, 103 từ dùng giọng tổng hợp được ghi nhãn.
 - Timestamps phủ mọi từ bài đọc, chạy tăng dần; chênh lệch từ cuối với cuối file audio khoảng 0.14–0.19 giây do khoảng nghỉ/encoding.
 - Service worker hợp lệ về cú pháp; static HTML tham chiếu đúng tài nguyên hiện hữu.
 - PGlite chạy migration PostgreSQL thực: RLS giữa 2 người học; không tự ghi điểm; khóa server; seed quản trị; phiên ngẫu nhiên; ngăn nộp lại sinh trùng attempt; quota 20 lượt chấm/ngày/người.
@@ -21,7 +26,7 @@
 
 ## Trạng thái dịch vụ thực tế
 
-Đã kiểm tra live dự án Supabase được cấp: khóa publishable hợp lệ, Auth email bật và cần xác nhận email. Database chưa có bảng LingoStep; đã chuẩn bị file SQL cài đặt đầy đủ và kiểm thử trên PostgreSQL qua PGlite. Chưa kiểm tra ghi/đọc bằng tài khoản thật vì chưa thể cài bảng bằng publishable key. Azure vẫn chưa được cấu hình. Chưa có kiểm thử tương tác trực tiếp bằng trình duyệt được hỗ trợ trong môi trường làm việc: chưa xác nhận quyền micro, cài đặt PWA, quota cache và tương tác chạm trên các thiết bị cụ thể.
+Đã kiểm tra live dự án Supabase được cấp: khóa publishable hợp lệ, Auth email bật và cần xác nhận email. Database thực đã có bảng LingoStep v1.1; đã chuẩn bị file SQL cài đặt đầy đủ và kiểm thử trên PostgreSQL qua PGlite. Chưa chạy migration v2 trên dịch vụ thực do không có quyền quản trị SQL bằng publishable key. Azure vẫn chưa được cấu hình. Chưa có kiểm thử tương tác trực tiếp bằng trình duyệt được hỗ trợ trong môi trường làm việc: chưa xác nhận quyền micro, cài đặt PWA, quota cache và tương tác chạm trên các thiết bị cụ thể.
 
 ## Kiểm tra thực tế sau cài đặt
 

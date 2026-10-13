@@ -1,0 +1,864 @@
+[
+  {
+    "id": "write-a0-1",
+    "nodeId": "a0-1",
+    "level": "A0",
+    "title": "Tôi là…",
+    "prompt": "Tôi là một học sinh.",
+    "hint": "Dùng “am” ngay sau chủ ngữ “I”.",
+    "words": [
+      "I",
+      "am",
+      "a",
+      "student"
+    ],
+    "accepted": [
+      "I am a student.",
+      "I'm a student."
+    ],
+    "explanation": "Dùng “am” ngay sau chủ ngữ “I”.",
+    "image": "/images/study.svg"
+  },
+  {
+    "id": "write-a0-2",
+    "nodeId": "a0-2",
+    "level": "A0",
+    "title": "Bạn là…",
+    "prompt": "Bạn là bạn của tôi.",
+    "hint": "Dùng “are” sau “you”.",
+    "words": [
+      "You",
+      "are",
+      "my",
+      "friend"
+    ],
+    "accepted": [
+      "You are my friend.",
+      "You're my friend."
+    ],
+    "explanation": "Dùng “are” sau “you”.",
+    "image": "/images/study.svg"
+  },
+  {
+    "id": "write-a0-3",
+    "nodeId": "a0-3",
+    "level": "A0",
+    "title": "Cô ấy là…",
+    "prompt": "Cô ấy là một giáo viên.",
+    "hint": "Dùng “is” sau “he”, “she” hoặc “it”.",
+    "words": [
+      "She",
+      "is",
+      "a",
+      "teacher"
+    ],
+    "accepted": [
+      "She is a teacher.",
+      "She's a teacher."
+    ],
+    "explanation": "Dùng “is” sau “he”, “she” hoặc “it”.",
+    "image": "/images/study.svg"
+  },
+  {
+    "id": "write-a0-4",
+    "nodeId": "a0-4",
+    "level": "A0",
+    "title": "Một đồ vật: a",
+    "prompt": "Đây là một quyển sách.",
+    "hint": "Dùng “a” trước danh từ số ít bắt đầu bằng âm phụ âm.",
+    "words": [
+      "This",
+      "is",
+      "a",
+      "book"
+    ],
+    "accepted": [
+      "This is a book."
+    ],
+    "explanation": "Dùng “a” trước danh từ số ít bắt đầu bằng âm phụ âm.",
+    "image": "/images/study.svg"
+  },
+  {
+    "id": "write-a0-5",
+    "nodeId": "a0-5",
+    "level": "A0",
+    "title": "Một đồ vật: an",
+    "prompt": "Nó là một quả táo.",
+    "hint": "Dùng “an” trước danh từ số ít bắt đầu bằng âm nguyên âm.",
+    "words": [
+      "It",
+      "is",
+      "an",
+      "apple"
+    ],
+    "accepted": [
+      "It is an apple."
+    ],
+    "explanation": "Dùng “an” trước danh từ số ít bắt đầu bằng âm nguyên âm.",
+    "image": "/images/study.svg"
+  },
+  {
+    "id": "write-a0-6",
+    "nodeId": "a0-6",
+    "level": "A0",
+    "title": "Thêm một chữ s",
+    "prompt": "Tôi có hai quyển sách.",
+    "hint": "Thêm “s” để nói về nhiều đồ vật với danh từ thông thường.",
+    "words": [
+      "I",
+      "have",
+      "two",
+      "books"
+    ],
+    "accepted": [
+      "I have two books."
+    ],
+    "explanation": "Thêm “s” để nói về nhiều đồ vật với danh từ thông thường.",
+    "image": "/images/study.svg"
+  },
+  {
+    "id": "write-a1-1",
+    "nodeId": "a1-1",
+    "level": "A1",
+    "title": "He + động từ thêm s",
+    "prompt": "Anh ấy uống trà.",
+    "hint": "Ở hiện tại đơn, thêm “s” vào động từ thông thường sau “he”.",
+    "words": [
+      "He",
+      "drinks",
+      "tea"
+    ],
+    "accepted": [
+      "He drinks tea."
+    ],
+    "explanation": "Ở hiện tại đơn, thêm “s” vào động từ thông thường sau “he”.",
+    "image": "/images/coffee.svg"
+  },
+  {
+    "id": "write-a1-2",
+    "nodeId": "a1-2",
+    "level": "A1",
+    "title": "Khi nào thêm es?",
+    "prompt": "Cô ấy rửa những chiếc cốc.",
+    "hint": "Thêm “es” sau động từ kết thúc bằng “sh”.",
+    "words": [
+      "She",
+      "washes",
+      "cups"
+    ],
+    "accepted": [
+      "She washes cups."
+    ],
+    "explanation": "Thêm “es” sau động từ kết thúc bằng “sh”.",
+    "image": "/images/coffee.svg"
+  },
+  {
+    "id": "write-a1-3",
+    "nodeId": "a1-3",
+    "level": "A1",
+    "title": "Phủ định với don't",
+    "prompt": "Tôi không uống cà phê.",
+    "hint": "Dùng “don't” + động từ nguyên mẫu sau “I”.",
+    "words": [
+      "I",
+      "do",
+      "not",
+      "drink",
+      "coffee"
+    ],
+    "accepted": [
+      "I do not drink coffee.",
+      "I don't drink coffee."
+    ],
+    "explanation": "Dùng “don't” + động từ nguyên mẫu sau “I”.",
+    "image": "/images/coffee.svg"
+  },
+  {
+    "id": "write-a1-4",
+    "nodeId": "a1-4",
+    "level": "A1",
+    "title": "Phủ định với doesn't",
+    "prompt": "Cô ấy không thích sữa.",
+    "hint": "Sau “doesn't”, động từ trở về nguyên mẫu.",
+    "words": [
+      "She",
+      "does",
+      "not",
+      "like",
+      "milk"
+    ],
+    "accepted": [
+      "She does not like milk.",
+      "She doesn't like milk."
+    ],
+    "explanation": "Sau “doesn't”, động từ trở về nguyên mẫu.",
+    "image": "/images/coffee.svg"
+  },
+  {
+    "id": "write-a1-5",
+    "nodeId": "a1-5",
+    "level": "A1",
+    "title": "Hỏi với Do you…?",
+    "prompt": "Bạn có thích cà phê không?",
+    "hint": "Đặt “Do” trước “you” để hỏi thói quen.",
+    "words": [
+      "Do",
+      "you",
+      "like",
+      "coffee"
+    ],
+    "accepted": [
+      "Do you like coffee?"
+    ],
+    "explanation": "Đặt “Do” trước “you” để hỏi thói quen.",
+    "image": "/images/coffee.svg"
+  },
+  {
+    "id": "write-a1-6",
+    "nodeId": "a1-6",
+    "level": "A1",
+    "title": "Có thể: can",
+    "prompt": "Tôi có thể bơi.",
+    "hint": "Sau “can”, dùng động từ nguyên mẫu.",
+    "words": [
+      "I",
+      "can",
+      "swim"
+    ],
+    "accepted": [
+      "I can swim."
+    ],
+    "explanation": "Sau “can”, dùng động từ nguyên mẫu.",
+    "image": "/images/coffee.svg"
+  },
+  {
+    "id": "write-a2-1",
+    "nodeId": "a2-1",
+    "level": "A2",
+    "title": "Đang làm: am + ing",
+    "prompt": "Tôi đang đọc bây giờ.",
+    "hint": "Dùng “am” + động từ đuôi “ing” để nói việc đang xảy ra với “I”.",
+    "words": [
+      "I",
+      "am",
+      "reading",
+      "now"
+    ],
+    "accepted": [
+      "I am reading now.",
+      "I'm reading now."
+    ],
+    "explanation": "Dùng “am” + động từ đuôi “ing” để nói việc đang xảy ra với “I”.",
+    "image": "/images/garden.svg"
+  },
+  {
+    "id": "write-a2-2",
+    "nodeId": "a2-2",
+    "level": "A2",
+    "title": "Hôm qua: thêm ed",
+    "prompt": "Chúng tôi đã đi bộ về nhà hôm qua.",
+    "hint": "Thêm “ed” vào động từ thông thường khi kể việc đã kết thúc trong quá khứ.",
+    "words": [
+      "We",
+      "walked",
+      "home",
+      "yesterday"
+    ],
+    "accepted": [
+      "We walked home yesterday."
+    ],
+    "explanation": "Thêm “ed” vào động từ thông thường khi kể việc đã kết thúc trong quá khứ.",
+    "image": "/images/garden.svg"
+  },
+  {
+    "id": "write-a2-3",
+    "nodeId": "a2-3",
+    "level": "A2",
+    "title": "Quá khứ của go",
+    "prompt": "Chúng tôi đã đến công viên.",
+    "hint": "Quá khứ của “go” là “went”.",
+    "words": [
+      "We",
+      "went",
+      "to",
+      "the",
+      "park"
+    ],
+    "accepted": [
+      "We went to the park."
+    ],
+    "explanation": "Quá khứ của “go” là “went”.",
+    "image": "/images/garden.svg"
+  },
+  {
+    "id": "write-a2-4",
+    "nodeId": "a2-4",
+    "level": "A2",
+    "title": "Sau did: nguyên mẫu",
+    "prompt": "Bạn đã đến thăm London chưa? (Hỏi về chuyến đi trong quá khứ.)",
+    "hint": "Sau “did” trong câu hỏi, động từ dùng nguyên mẫu.",
+    "words": [
+      "Did",
+      "you",
+      "visit",
+      "London"
+    ],
+    "accepted": [
+      "Did you visit London?"
+    ],
+    "explanation": "Sau “did” trong câu hỏi, động từ dùng nguyên mẫu.",
+    "image": "/images/garden.svg"
+  },
+  {
+    "id": "write-a2-5",
+    "nodeId": "a2-5",
+    "level": "A2",
+    "title": "So sánh ngắn: er",
+    "prompt": "Sam cao hơn Tom.",
+    "hint": "Thêm “er” vào tính từ ngắn như “tall” khi so sánh hai đối tượng.",
+    "words": [
+      "Sam",
+      "is",
+      "taller",
+      "than",
+      "Tom"
+    ],
+    "accepted": [
+      "Sam is taller than Tom."
+    ],
+    "explanation": "Thêm “er” vào tính từ ngắn như “tall” khi so sánh hai đối tượng.",
+    "image": "/images/garden.svg"
+  },
+  {
+    "id": "write-a2-6",
+    "nodeId": "a2-6",
+    "level": "A2",
+    "title": "Dự định: going to",
+    "prompt": "Tôi dự định đi du lịch.",
+    "hint": "Dùng “be going to” + động từ nguyên mẫu cho dự định.",
+    "words": [
+      "I",
+      "am",
+      "going",
+      "to",
+      "travel"
+    ],
+    "accepted": [
+      "I am going to travel.",
+      "I'm going to travel."
+    ],
+    "explanation": "Dùng “be going to” + động từ nguyên mẫu cho dự định.",
+    "image": "/images/garden.svg"
+  },
+  {
+    "id": "write-b1-1",
+    "nodeId": "b1-1",
+    "level": "B1",
+    "title": "Trải nghiệm: have + V3",
+    "prompt": "Tôi đã từng đến thăm London. (Không nêu thời điểm.)",
+    "hint": "Dùng “have” + quá khứ phân từ với “I” để nói trải nghiệm không nêu thời gian quá khứ cụ thể.",
+    "words": [
+      "I",
+      "have",
+      "visited",
+      "London"
+    ],
+    "accepted": [
+      "I have visited London.",
+      "I've visited London."
+    ],
+    "explanation": "Dùng “have” + quá khứ phân từ với “I” để nói trải nghiệm không nêu thời gian quá khứ cụ thể.",
+    "image": "/images/garden.svg"
+  },
+  {
+    "id": "write-b1-2",
+    "nodeId": "b1-2",
+    "level": "B1",
+    "title": "Since + mốc thời gian",
+    "prompt": "Tôi đã sống ở đây từ năm 2020.",
+    "hint": "Dùng “since” trước mốc bắt đầu.",
+    "words": [
+      "I",
+      "have",
+      "lived",
+      "here",
+      "since",
+      "2020"
+    ],
+    "accepted": [
+      "I have lived here since 2020.",
+      "I've lived here since 2020."
+    ],
+    "explanation": "Dùng “since” trước mốc bắt đầu.",
+    "image": "/images/garden.svg"
+  },
+  {
+    "id": "write-b1-3",
+    "nodeId": "b1-3",
+    "level": "B1",
+    "title": "For + khoảng thời gian",
+    "prompt": "Tôi đã sống ở đây nhiều năm.",
+    "hint": "Dùng “for” trước khoảng thời lượng.",
+    "words": [
+      "I",
+      "have",
+      "lived",
+      "here",
+      "for",
+      "years"
+    ],
+    "accepted": [
+      "I have lived here for years.",
+      "I've lived here for years."
+    ],
+    "explanation": "Dùng “for” trước khoảng thời lượng.",
+    "image": "/images/garden.svg"
+  },
+  {
+    "id": "write-b1-4",
+    "nodeId": "b1-4",
+    "level": "B1",
+    "title": "Nếu có thật: if + hiện tại",
+    "prompt": "Nếu trời mưa, tôi sẽ ở lại.",
+    "hint": "Trong câu điều kiện loại 1, mệnh đề “if” dùng hiện tại đơn.",
+    "words": [
+      "If",
+      "it",
+      "rains",
+      "I",
+      "will",
+      "stay"
+    ],
+    "accepted": [
+      "If it rains, I will stay.",
+      "If it rains, I'll stay."
+    ],
+    "explanation": "Trong câu điều kiện loại 1, mệnh đề “if” dùng hiện tại đơn.",
+    "image": "/images/garden.svg"
+  },
+  {
+    "id": "write-b1-5",
+    "nodeId": "b1-5",
+    "level": "B1",
+    "title": "Who thay cho người",
+    "prompt": "Người phụ nữ đã gọi điện đang ở đây.",
+    "hint": "Dùng “who” để nối thông tin mô tả người.",
+    "words": [
+      "The",
+      "woman",
+      "who",
+      "called",
+      "is",
+      "here"
+    ],
+    "accepted": [
+      "The woman who called is here."
+    ],
+    "explanation": "Dùng “who” để nối thông tin mô tả người.",
+    "image": "/images/garden.svg"
+  },
+  {
+    "id": "write-b1-6",
+    "nodeId": "b1-6",
+    "level": "B1",
+    "title": "Used to + nguyên mẫu",
+    "prompt": "Tôi từng đi bộ đến trường.",
+    "hint": "Dùng “used to” + động từ nguyên mẫu cho thói quen cũ đã thay đổi.",
+    "words": [
+      "I",
+      "used",
+      "to",
+      "walk",
+      "to",
+      "school"
+    ],
+    "accepted": [
+      "I used to walk to school."
+    ],
+    "explanation": "Dùng “used to” + động từ nguyên mẫu cho thói quen cũ đã thay đổi.",
+    "image": "/images/garden.svg"
+  },
+  {
+    "id": "write-b2-1",
+    "nodeId": "b2-1",
+    "level": "B2",
+    "title": "Bị động: be + V3",
+    "prompt": "Báo cáo đã được viết hôm qua.",
+    "hint": "Trong câu bị động, sau “be” dùng quá khứ phân từ.",
+    "words": [
+      "The",
+      "report",
+      "was",
+      "written",
+      "yesterday"
+    ],
+    "accepted": [
+      "The report was written yesterday."
+    ],
+    "explanation": "Trong câu bị động, sau “be” dùng quá khứ phân từ.",
+    "image": "/images/science.svg"
+  },
+  {
+    "id": "write-b2-2",
+    "nodeId": "b2-2",
+    "level": "B2",
+    "title": "Giả định: would + nguyên mẫu",
+    "prompt": "Tôi sẽ đi du lịch nếu tôi có thể. (Tình huống giả định.)",
+    "hint": "Sau “would” ở mệnh đề kết quả, dùng động từ nguyên mẫu.",
+    "words": [
+      "I",
+      "would",
+      "travel",
+      "if",
+      "I",
+      "could"
+    ],
+    "accepted": [
+      "I would travel if I could.",
+      "I'd travel if I could."
+    ],
+    "explanation": "Sau “would” ở mệnh đề kết quả, dùng động từ nguyên mẫu.",
+    "image": "/images/science.svg"
+  },
+  {
+    "id": "write-b2-3",
+    "nodeId": "b2-3",
+    "level": "B2",
+    "title": "Although + một mệnh đề",
+    "prompt": "Mặc dù trời đã mưa, chúng tôi vẫn rời đi.",
+    "hint": "Sau “although”, cần một mệnh đề có chủ ngữ và động từ.",
+    "words": [
+      "Although",
+      "it",
+      "rained",
+      "we",
+      "left"
+    ],
+    "accepted": [
+      "Although it rained, we left."
+    ],
+    "explanation": "Sau “although”, cần một mệnh đề có chủ ngữ và động từ.",
+    "image": "/images/science.svg"
+  },
+  {
+    "id": "write-b2-4",
+    "nodeId": "b2-4",
+    "level": "B2",
+    "title": "Despite + danh từ",
+    "prompt": "Bất chấp cơn mưa, chúng tôi vẫn rời đi.",
+    "hint": "Sau “despite”, dùng danh từ hoặc cụm danh từ.",
+    "words": [
+      "Despite",
+      "the",
+      "rain",
+      "we",
+      "left"
+    ],
+    "accepted": [
+      "Despite the rain, we left."
+    ],
+    "explanation": "Sau “despite”, dùng danh từ hoặc cụm danh từ.",
+    "image": "/images/science.svg"
+  },
+  {
+    "id": "write-b2-5",
+    "nodeId": "b2-5",
+    "level": "B2",
+    "title": "Must have + V3",
+    "prompt": "Hẳn là cô ấy đã quên.",
+    "hint": "Dùng “must have” + quá khứ phân từ để suy luận chắc chắn về quá khứ.",
+    "words": [
+      "She",
+      "must",
+      "have",
+      "forgotten"
+    ],
+    "accepted": [
+      "She must have forgotten."
+    ],
+    "explanation": "Dùng “must have” + quá khứ phân từ để suy luận chắc chắn về quá khứ.",
+    "image": "/images/science.svg"
+  },
+  {
+    "id": "write-b2-6",
+    "nodeId": "b2-6",
+    "level": "B2",
+    "title": "Had + V3: trước quá khứ",
+    "prompt": "Họ đã rời đi trước khi tôi đến.",
+    "hint": "Dùng “had” + quá khứ phân từ cho hành động xảy ra trước một mốc quá khứ khác.",
+    "words": [
+      "They",
+      "had",
+      "left",
+      "before",
+      "I",
+      "arrived"
+    ],
+    "accepted": [
+      "They had left before I arrived.",
+      "They'd left before I arrived."
+    ],
+    "explanation": "Dùng “had” + quá khứ phân từ cho hành động xảy ra trước một mốc quá khứ khác.",
+    "image": "/images/science.svg"
+  },
+  {
+    "id": "write-c1-1",
+    "nodeId": "c1-1",
+    "level": "C1",
+    "title": "Đảo ngữ với Never",
+    "prompt": "Tôi chưa bao giờ thấy sự quan tâm như vậy. (Bắt đầu bằng Never.)",
+    "hint": "Khi “Never” đứng đầu câu, đưa trợ động từ lên trước chủ ngữ.",
+    "words": [
+      "Never",
+      "have",
+      "I",
+      "seen",
+      "such",
+      "care"
+    ],
+    "accepted": [
+      "Never have I seen such care."
+    ],
+    "explanation": "Khi “Never” đứng đầu câu, đưa trợ động từ lên trước chủ ngữ.",
+    "image": "/images/museum.svg"
+  },
+  {
+    "id": "write-c1-2",
+    "nodeId": "c1-2",
+    "level": "C1",
+    "title": "Not only ở đầu câu",
+    "prompt": "Cô ấy không chỉ giúp mà còn ở lại. (Bắt đầu bằng Not only.)",
+    "hint": "Khi “Not only” đứng đầu một mệnh đề, đảo trợ động từ và chủ ngữ.",
+    "words": [
+      "Not",
+      "only",
+      "did",
+      "she",
+      "help",
+      "she",
+      "stayed"
+    ],
+    "accepted": [
+      "Not only did she help, she stayed.",
+      "Not only did she help, but she also stayed."
+    ],
+    "explanation": "Khi “Not only” đứng đầu một mệnh đề, đảo trợ động từ và chủ ngữ.",
+    "image": "/images/museum.svg"
+  },
+  {
+    "id": "write-c1-3",
+    "nodeId": "c1-3",
+    "level": "C1",
+    "title": "It is… that: nhấn mạnh",
+    "prompt": "Chính Anna là người giải quyết việc đó.",
+    "hint": "Dùng “It was … that …” để nhấn mạnh thành phần của câu.",
+    "words": [
+      "It",
+      "was",
+      "Anna",
+      "that",
+      "solved",
+      "it"
+    ],
+    "accepted": [
+      "It was Anna that solved it.",
+      "It was Anna who solved it."
+    ],
+    "explanation": "Dùng “It was … that …” để nhấn mạnh thành phần của câu.",
+    "image": "/images/museum.svg"
+  },
+  {
+    "id": "write-c1-4",
+    "nodeId": "c1-4",
+    "level": "C1",
+    "title": "Having + V3: việc đã xong",
+    "prompt": "Sau khi hoàn thành, cô ấy về nhà. (Bắt đầu bằng Having.)",
+    "hint": "Dùng “Having” + V3 cho hành động hoàn tất trước hành động chính, cùng chủ ngữ.",
+    "words": [
+      "Having",
+      "finished",
+      "she",
+      "went",
+      "home"
+    ],
+    "accepted": [
+      "Having finished, she went home."
+    ],
+    "explanation": "Dùng “Having” + V3 cho hành động hoàn tất trước hành động chính, cùng chủ ngữ.",
+    "image": "/images/museum.svg"
+  },
+  {
+    "id": "write-c1-5",
+    "nodeId": "c1-5",
+    "level": "C1",
+    "title": "Were I…: giả định trang trọng",
+    "prompt": "Nếu tôi là bạn, tôi sẽ chờ. (Bắt đầu bằng Were.)",
+    "hint": "“Were I…” có thể thay cho “If I were…” trong giả định trang trọng.",
+    "words": [
+      "Were",
+      "I",
+      "you",
+      "I",
+      "would",
+      "wait"
+    ],
+    "accepted": [
+      "Were I you, I would wait.",
+      "Were I you, I'd wait."
+    ],
+    "explanation": "“Were I…” có thể thay cho “If I were…” trong giả định trang trọng.",
+    "image": "/images/museum.svg"
+  },
+  {
+    "id": "write-c1-6",
+    "nodeId": "c1-6",
+    "level": "C1",
+    "title": "Suggest that + nguyên mẫu",
+    "prompt": "Tôi đề nghị anh ấy có mặt. (Dùng suggest that.)",
+    "hint": "Sau “suggest that”, dùng động từ nguyên mẫu trong cách diễn đạt giả định trang trọng.",
+    "words": [
+      "I",
+      "suggest",
+      "that",
+      "he",
+      "be",
+      "present"
+    ],
+    "accepted": [
+      "I suggest that he be present."
+    ],
+    "explanation": "Sau “suggest that”, dùng động từ nguyên mẫu trong cách diễn đạt giả định trang trọng.",
+    "image": "/images/museum.svg"
+  },
+  {
+    "id": "write-c2-1",
+    "nodeId": "c2-1",
+    "level": "C2",
+    "title": "No sooner… than",
+    "prompt": "Chúng tôi vừa rời đi thì trời mưa. (Bắt đầu bằng No sooner.)",
+    "hint": "Dùng “No sooner had… than…” khi việc thứ hai xảy ra ngay sau việc thứ nhất.",
+    "words": [
+      "No",
+      "sooner",
+      "had",
+      "we",
+      "left",
+      "than",
+      "it",
+      "rained"
+    ],
+    "accepted": [
+      "No sooner had we left than it rained."
+    ],
+    "explanation": "Dùng “No sooner had… than…” khi việc thứ hai xảy ra ngay sau việc thứ nhất.",
+    "image": "/images/report.svg"
+  },
+  {
+    "id": "write-c2-2",
+    "nodeId": "c2-2",
+    "level": "C2",
+    "title": "Hardly… when",
+    "prompt": "Chúng tôi vừa đến thì trời mưa. (Bắt đầu bằng Hardly.)",
+    "hint": "Dùng “Hardly had… when…” để diễn đạt việc thứ hai xảy ra ngay sau việc đầu.",
+    "words": [
+      "Hardly",
+      "had",
+      "we",
+      "arrived",
+      "when",
+      "it",
+      "rained"
+    ],
+    "accepted": [
+      "Hardly had we arrived when it rained."
+    ],
+    "explanation": "Dùng “Hardly had… when…” để diễn đạt việc thứ hai xảy ra ngay sau việc đầu.",
+    "image": "/images/report.svg"
+  },
+  {
+    "id": "write-c2-3",
+    "nodeId": "c2-3",
+    "level": "C2",
+    "title": "But for + danh từ",
+    "prompt": "Nếu không có sự giúp đỡ của bạn, tôi sẽ thất bại. (Giả định hiện tại, dùng But for.)",
+    "hint": "“But for” + danh từ có nghĩa “nếu không nhờ/không vì”.",
+    "words": [
+      "But",
+      "for",
+      "your",
+      "help",
+      "I",
+      "would",
+      "fail"
+    ],
+    "accepted": [
+      "But for your help, I would fail.",
+      "But for your help, I'd fail."
+    ],
+    "explanation": "“But for” + danh từ có nghĩa “nếu không nhờ/không vì”.",
+    "image": "/images/report.svg"
+  },
+  {
+    "id": "write-c2-4",
+    "nodeId": "c2-4",
+    "level": "C2",
+    "title": "Should you…: điều kiện lịch sự",
+    "prompt": "Nếu bạn cần giúp đỡ, hãy gọi tôi. (Dùng Should you.)",
+    "hint": "“Should you…” thay cho “If you should…” trong lời hướng dẫn trang trọng.",
+    "words": [
+      "Should",
+      "you",
+      "need",
+      "help",
+      "call",
+      "me"
+    ],
+    "accepted": [
+      "Should you need help, call me."
+    ],
+    "explanation": "“Should you…” thay cho “If you should…” trong lời hướng dẫn trang trọng.",
+    "image": "/images/report.svg"
+  },
+  {
+    "id": "write-c2-5",
+    "nodeId": "c2-5",
+    "level": "C2",
+    "title": "Much as…: nhượng bộ",
+    "prompt": "Dù rất ngưỡng mộ nó, tôi không đồng ý. (Dùng Much as.)",
+    "hint": "“Much as” + mệnh đề mang nghĩa “dù rất…”.",
+    "words": [
+      "Much",
+      "as",
+      "I",
+      "admire",
+      "it",
+      "I",
+      "disagree"
+    ],
+    "accepted": [
+      "Much as I admire it, I disagree."
+    ],
+    "explanation": "“Much as” + mệnh đề mang nghĩa “dù rất…”.",
+    "image": "/images/report.svg"
+  },
+  {
+    "id": "write-c2-6",
+    "nodeId": "c2-6",
+    "level": "C2",
+    "title": "Lựa chọn chính xác: imply / infer",
+    "prompt": "Người nói hàm ý; chúng ta suy ra. (Dùng imply và infer.)",
+    "hint": "Người nói “imply” (hàm ý); người nghe “infer” (suy ra).",
+    "words": [
+      "The",
+      "speaker",
+      "implies",
+      "we",
+      "infer"
+    ],
+    "accepted": [
+      "The speaker implies; we infer."
+    ],
+    "explanation": "Người nói “imply” (hàm ý); người nghe “infer” (suy ra).",
+    "image": "/images/report.svg"
+  }
+]

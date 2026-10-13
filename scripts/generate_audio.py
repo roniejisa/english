@@ -42,9 +42,17 @@ def synth(text,path,container=None):
  if container is not None:container['timings']=align_words(text,chunks);container['audioTimingMethod']='piper-phoneme-alignment';container['audioType']='tts'
  print('Generated',path,flush=True)
 for w in data['vocabulary']:
- if w.get('audioType')!='native':synth(w['word'],w['audio']);w['audioType']='tts'
-for l in data['lessons']:synth(l['example'],l['audio'],l)
-for r in data['readers']:synth(r['text'],r['audio'],r)
-for sound in json.loads((root/'src/data/ipa.json').read_text()):synth(sound['words'],f"/audio/ipa-{sound['id']}.mp3")
-for i,(a,b) in enumerate([('Good morning. What would you like?','A coffee, please.'),('Would you like milk with that?','Yes, please.'),('Here you are. Have a nice day.','Thank you. You too.')]):synth(a,f'/audio/role-a-{i}.mp3');synth(b,f'/audio/role-b-{i}.mp3')
+ if w.get('audioType')!='native' and not (root/'public'/w['audio'].lstrip('/')).exists():synth(w['word'],w['audio']);w['audioType']='tts'
+for l in data['lessons']:
+ if not (root/'public'/l['audio'].lstrip('/')).exists():synth(l['example'],l['audio'],l)
+ for q in l['questions']:
+  if q.get('audio') and not (root/'public'/q['audio'].lstrip('/')).exists():synth(q['answer'],q['audio'])
+for r in data['readers']:
+ if not r.get('timings') or not (root/'public'/r['audio'].lstrip('/')).exists():synth(r['text'],r['audio'],r)
+for sound in json.loads((root/'src/data/ipa.json').read_text()):
+ if not (root/'public'/f"audio/ipa-{sound['id']}.mp3").exists():synth(sound['words'],f"/audio/ipa-{sound['id']}.mp3")
+for role in json.loads((root/'src/data/roleplays.json').read_text()):
+ for turn in role['turns']:
+  for speaker in ['a','b']:
+   if not (root/'public'/turn[speaker+'Audio'].lstrip('/')).exists():synth(turn[speaker],turn[speaker+'Audio'])
 p.write_text(json.dumps(data,ensure_ascii=False,indent=2));print('DONE',flush=True)

@@ -1,0 +1,13 @@
+'use client';
+import {useState} from 'react';
+import {ArrowLeft,ArrowRight,Check,Lock,Mic} from 'lucide-react';
+import roleplays from '@/data/roleplays.json';
+import {curriculum,isUnlocked} from '@/lib/engine';
+import type {Progress} from '@/lib/types';
+import SpeakingStudio from './SpeakingStudio';
+import AudioPlayer from './AudioPlayer';
+export default function RolePlayHub({progress}:{progress:Progress}){
+ const [roleId,setRoleId]=useState<string|null>(null),[turn,setTurn]=useState(0),[practised,setPractised]=useState(false);const role=roleplays.find(r=>r.id===roleId);const available=(level:string)=>curriculum.lessons.some(l=>l.level===level&&isUnlocked(progress,l.id));
+ if(role)return <><button className="text-btn" onClick={()=>setRoleId(null)}><ArrowLeft size={16}/>Chọn tình huống khác</button><section className="panel" style={{marginTop:18}}><div className="reader-heading"><div><span className="eyebrow">ROLE PLAY · {role.level} · LƯỢT {turn+1}/{role.turns.length}</span><h2>{role.title}</h2><p>{role.description}</p></div><img src={`/images/${role.image}.svg`} width={95} height={90} alt={role.title}/></div><div className="dialogue-bubble"><span>Người đối thoại</span><p>{role.turns[turn].a}</p><AudioPlayer key={`${role.id}-a-${turn}`} src={role.turns[turn].aAudio} label="Nghe người đối thoại"/></div><SpeakingStudio key={`${role.id}-${turn}`} text={role.turns[turn].b} audio={role.turns[turn].bAudio} onPractised={()=>setPractised(true)}/><details className="transcript"><summary>Xem nghĩa lời đáp của bạn</summary><p>{role.turns[turn].vi}</p></details><div className="lesson-footer"><span className="small muted">{practised?'Đã thu lượt này — nghe lại trước khi tiếp tục.':'Thu lời đáp để hoàn thành lượt này.'}</span><button className="btn primary" disabled={!practised} onClick={()=>{if(turn===role.turns.length-1){setRoleId(null);setTurn(0);}else setTurn(turn+1);setPractised(false);}}>{turn===role.turns.length-1?'Hoàn thành tình huống':'Lượt tiếp theo'}{turn===role.turns.length-1?<Check size={17}/>:<ArrowRight size={17}/>}</button></div></section></>;
+ return <div className="role-grid">{roleplays.map(r=><button key={r.id} disabled={!available(r.level)} className="role-card" onClick={()=>{setRoleId(r.id);setTurn(0);setPractised(false);}}><img src={`/images/${r.image}.svg`} alt=""/><div><span className="skill-tag">{r.level} · {r.turns.length} lượt nói</span><h3>{r.title}</h3><p>{r.description}</p><span className="skill-link">{available(r.level)?<><Mic size={15}/>Bắt đầu hội thoại</>:<><Lock size={14}/>Mở chặng {r.level} trước</>}</span></div></button>)}</div>;
+}

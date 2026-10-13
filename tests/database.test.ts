@@ -16,7 +16,7 @@ test('Database enforces identity, canonical grading, locks, random milestones, a
  await assert.rejects(submit('a0-2',answers('a0-2')),/chưa được mở/);
  await assert.rejects(submit('a0-1',{...answers('a0-1'),score:'100'}),/đủ các câu/);
  const bad=Object.fromEntries(Object.keys(answers('a0-1')).map(k=>[k,'wrong']));assert.equal((await submit('a0-1',bad)).score,0);await assert.rejects(submit('a0-2',answers('a0-2')));
- const first=await submit('a0-1',answers('a0-1'));assert.equal(first.score,100);assert.equal((await db.query('select * from public.reviews')).rows.length,1);
+ const first=await submit('a0-1',answers('a0-1'));assert.equal(first.score,100);assert.equal((await db.query('select * from public.reviews')).rows.length,3);
  await assert.rejects(db.query("insert into public.attempts(user_id,node_id,score,answers) values ($1,'a0-1',100,'{}')",[U1]),/permission denied/);
  await assert.rejects(db.query('select * from private.answer_keys'),/permission denied/);
  await role('authenticated',U2);assert.equal((await db.query('select * from public.attempts')).rows.length,0);await assert.rejects(submit('a0-2',answers('a0-2')));

@@ -1,0 +1,14 @@
+import content from '@/data/writing.json';
+export type WritingExercise={id:string;nodeId:string;level:string;title:string;prompt:string;hint:string;words:string[];accepted:string[];explanation:string;image:string};
+export type WritingAttempt={id:string;exerciseId:string;answer:string;correct:boolean;date:string;source:'local'|'pending'|'cloud'};
+export type WritingDraft={text:string;revision:number;dirty:boolean};
+export type WritingState={attempts:WritingAttempt[];drafts:Record<string,WritingDraft>};
+export const writingExercises=content as WritingExercise[];
+// Ignore case and punctuation; apostrophes stay significant.
+export function normalizeWriting(s:string){return s.normalize('NFKC').toLowerCase().replace(/[’‘]/g,"'").replace(/[.,!?;:“”"]/g,' ').replace(/\s+/g,' ').trim();}
+export function checkWriting(exercise:WritingExercise,text:string){const correct=exercise.accepted.some(a=>normalizeWriting(a)===normalizeWriting(text));return {correct,explanation:correct?'Bạn đã diễn đạt đúng mẫu của bài. '+exercise.explanation:exercise.explanation+' Đối chiếu các từ cần sửa bên dưới.',model:exercise.accepted[0]};}
+export type WordChange={text:string;kind:'same'|'add'|'remove'};
+export function writingDiff(answer:string,model:string):WordChange[]{const a=normalizeWriting(answer).split(' ').filter(Boolean),b=normalizeWriting(model).split(' ').filter(Boolean);const dp=Array.from({length:a.length+1},()=>Array(b.length+1).fill(0));for(let i=a.length-1;i>=0;i--)for(let j=b.length-1;j>=0;j--)dp[i][j]=a[i]===b[j]?1+dp[i+1][j+1]:Math.max(dp[i+1][j],dp[i][j+1]);const out:WordChange[]=[];let i=0,j=0;while(i<a.length||j<b.length){if(i<a.length&&j<b.length&&a[i]===b[j]){out.push({text:a[i++],kind:'same'});j++;}else if(j<b.length&&(i===a.length||dp[i][j+1]>=dp[i+1][j]))out.push({text:b[j++],kind:'add'});else out.push({text:a[i++],kind:'remove'});}return out;}
+export function emptyWriting():WritingState{return {attempts:[],drafts:{}};}
+export function restoreWriting(value:unknown):WritingState{const v=value as WritingState;if(!v||typeof v!=='object')return emptyWriting();const known=new Set(writingExercises.map(e=>e.id));const attempts=Array.isArray(v.attempts)?v.attempts.filter(a=>a&&typeof a.id==='string'&&known.has(a.exerciseId)&&typeof a.answer==='string'&&a.answer.length<=1000&&typeof a.correct==='boolean'&&['local','pending','cloud'].includes(a.source)&&Number.isFinite(Date.parse(a.date))):[];const drafts:WritingState['drafts']={};for(const [id,d]of Object.entries(v.drafts??{}))if(known.has(id)&&d&&typeof d.text==='string'&&d.text.length<=1000&&Number.isInteger(d.revision)&&d.revision>=0&&typeof d.dirty==='boolean')drafts[id]=d;return {attempts,drafts};}
+export function mergeWritingHistory(local:WritingAttempt[],remote:WritingAttempt[]){const ids=new Set(remote.map(a=>a.id));return [...local.filter(a=>a.source!=='cloud'&&!ids.has(a.id)),...remote].sort((a,b)=>Date.parse(b.date)-Date.parse(a.date));}

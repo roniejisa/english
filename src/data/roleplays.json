@@ -1,0 +1,362 @@
+[
+  {
+    "id": "cafe",
+    "title": "Gọi đồ uống",
+    "level": "A0",
+    "description": "Chào hỏi, gọi món và cảm ơn.",
+    "image": "coffee",
+    "turns": [
+      {
+        "a": "Good morning. What would you like?",
+        "b": "A coffee, please.",
+        "vi": "Một cà phê, làm ơn.",
+        "aAudio": "/audio/role-a-0.mp3",
+        "bAudio": "/audio/role-b-0.mp3"
+      },
+      {
+        "a": "Would you like milk with that?",
+        "b": "Yes, please.",
+        "vi": "Vâng, làm ơn.",
+        "aAudio": "/audio/role-a-1.mp3",
+        "bAudio": "/audio/role-b-1.mp3"
+      },
+      {
+        "a": "Here you are. Have a nice day.",
+        "b": "Thank you. You too.",
+        "vi": "Cảm ơn. Bạn cũng vậy nhé.",
+        "aAudio": "/audio/role-a-2.mp3",
+        "bAudio": "/audio/role-b-2.mp3"
+      }
+    ]
+  },
+  {
+    "id": "introductions",
+    "title": "Làm quen bạn mới",
+    "level": "A0",
+    "description": "Giới thiệu tên và nơi sống.",
+    "image": "people",
+    "turns": [
+      {
+        "a": "Hello. What is your name?",
+        "b": "My name is Anna.",
+        "vi": "Tên tôi là Anna.",
+        "aAudio": "/audio/role-introductions-a-0.mp3",
+        "bAudio": "/audio/role-introductions-b-0.mp3"
+      },
+      {
+        "a": "Nice to meet you. Are you a student?",
+        "b": "Yes, I am a student.",
+        "vi": "Vâng, tôi là học sinh.",
+        "aAudio": "/audio/role-introductions-a-1.mp3",
+        "bAudio": "/audio/role-introductions-b-1.mp3"
+      },
+      {
+        "a": "Where do you live?",
+        "b": "I live near the school.",
+        "vi": "Tôi sống gần trường.",
+        "aAudio": "/audio/role-introductions-a-2.mp3",
+        "bAudio": "/audio/role-introductions-b-2.mp3"
+      }
+    ]
+  },
+  {
+    "id": "restaurant",
+    "title": "Gọi món ở nhà hàng",
+    "level": "A1",
+    "description": "Chọn món, hỏi đồ uống và thanh toán.",
+    "image": "food",
+    "turns": [
+      {
+        "a": "Are you ready to order?",
+        "b": "I would like rice and vegetables, please.",
+        "vi": "Tôi muốn gọi cơm và rau.",
+        "aAudio": "/audio/role-restaurant-a-0.mp3",
+        "bAudio": "/audio/role-restaurant-b-0.mp3"
+      },
+      {
+        "a": "Would you like something to drink?",
+        "b": "A glass of water, please.",
+        "vi": "Một cốc nước, làm ơn.",
+        "aAudio": "/audio/role-restaurant-a-1.mp3",
+        "bAudio": "/audio/role-restaurant-b-1.mp3"
+      },
+      {
+        "a": "Did you enjoy your meal?",
+        "b": "Yes, thank you. Could I have the bill?",
+        "vi": "Có, cảm ơn. Cho tôi hóa đơn nhé.",
+        "aAudio": "/audio/role-restaurant-a-2.mp3",
+        "bAudio": "/audio/role-restaurant-b-2.mp3"
+      }
+    ]
+  },
+  {
+    "id": "directions",
+    "title": "Hỏi đường",
+    "level": "A1",
+    "description": "Hỏi vị trí và xác nhận hướng đi.",
+    "image": "walk",
+    "turns": [
+      {
+        "a": "Hello. Can I help you?",
+        "b": "Where is the library, please?",
+        "vi": "Thư viện ở đâu?",
+        "aAudio": "/audio/role-directions-a-0.mp3",
+        "bAudio": "/audio/role-directions-b-0.mp3"
+      },
+      {
+        "a": "Go straight and turn left at the park.",
+        "b": "Is it near the station?",
+        "vi": "Nó có gần ga không?",
+        "aAudio": "/audio/role-directions-a-1.mp3",
+        "bAudio": "/audio/role-directions-b-1.mp3"
+      },
+      {
+        "a": "Yes. It is opposite the station.",
+        "b": "Thank you for your help.",
+        "vi": "Cảm ơn bạn đã giúp.",
+        "aAudio": "/audio/role-directions-a-2.mp3",
+        "bAudio": "/audio/role-directions-b-2.mp3"
+      }
+    ]
+  },
+  {
+    "id": "hotel",
+    "title": "Nhận phòng khách sạn",
+    "level": "A2",
+    "description": "Xác nhận phòng và giờ ăn sáng.",
+    "image": "travel",
+    "turns": [
+      {
+        "a": "Welcome. Do you have a reservation?",
+        "b": "Yes. I booked a room for two nights.",
+        "vi": "Tôi đặt phòng hai đêm.",
+        "aAudio": "/audio/role-hotel-a-0.mp3",
+        "bAudio": "/audio/role-hotel-b-0.mp3"
+      },
+      {
+        "a": "May I see your identification, please?",
+        "b": "Of course. Here it is.",
+        "vi": "Tất nhiên. Đây nhé.",
+        "aAudio": "/audio/role-hotel-a-1.mp3",
+        "bAudio": "/audio/role-hotel-b-1.mp3"
+      },
+      {
+        "a": "Breakfast starts at seven.",
+        "b": "Thank you. Where is the dining room?",
+        "vi": "Cảm ơn. Phòng ăn ở đâu?",
+        "aAudio": "/audio/role-hotel-a-2.mp3",
+        "bAudio": "/audio/role-hotel-b-2.mp3"
+      }
+    ]
+  },
+  {
+    "id": "shop",
+    "title": "Đổi một món hàng",
+    "level": "A2",
+    "description": "Giải thích vấn đề và đề nghị đổi hàng.",
+    "image": "travel",
+    "turns": [
+      {
+        "a": "Good afternoon. How can I help?",
+        "b": "I bought this bag yesterday, but it is too small.",
+        "vi": "Tôi mua túi này hôm qua nhưng nó nhỏ quá.",
+        "aAudio": "/audio/role-shop-a-0.mp3",
+        "bAudio": "/audio/role-shop-b-0.mp3"
+      },
+      {
+        "a": "Would you like a larger one?",
+        "b": "Yes, please. Do you have it in blue?",
+        "vi": "Có. Bạn có màu xanh không?",
+        "aAudio": "/audio/role-shop-a-1.mp3",
+        "bAudio": "/audio/role-shop-b-1.mp3"
+      },
+      {
+        "a": "Yes, we do. Do you have your receipt?",
+        "b": "Yes. Here is the receipt.",
+        "vi": "Có, đây là hóa đơn.",
+        "aAudio": "/audio/role-shop-a-2.mp3",
+        "bAudio": "/audio/role-shop-b-2.mp3"
+      }
+    ]
+  },
+  {
+    "id": "plans",
+    "title": "Lên kế hoạch cùng bạn",
+    "level": "B1",
+    "description": "Đề xuất và chuẩn bị phương án khi trời mưa.",
+    "image": "garden",
+    "turns": [
+      {
+        "a": "What shall we do this weekend?",
+        "b": "We could have a picnic if the weather is good.",
+        "vi": "Chúng ta có thể dã ngoại nếu trời đẹp.",
+        "aAudio": "/audio/role-plans-a-0.mp3",
+        "bAudio": "/audio/role-plans-b-0.mp3"
+      },
+      {
+        "a": "What if it rains?",
+        "b": "If it rains, we will meet at the community hall.",
+        "vi": "Nếu mưa, chúng ta gặp ở hội trường.",
+        "aAudio": "/audio/role-plans-a-1.mp3",
+        "bAudio": "/audio/role-plans-b-1.mp3"
+      },
+      {
+        "a": "That sounds good. What should I bring?",
+        "b": "Bring something to share. I will bring drinks.",
+        "vi": "Mang gì đó để chia sẻ nhé. Tôi mang đồ uống.",
+        "aAudio": "/audio/role-plans-a-2.mp3",
+        "bAudio": "/audio/role-plans-b-2.mp3"
+      }
+    ]
+  },
+  {
+    "id": "interview",
+    "title": "Phỏng vấn công việc",
+    "level": "B1",
+    "description": "Kể kinh nghiệm và giải thích cách học từ lỗi.",
+    "image": "people",
+    "turns": [
+      {
+        "a": "Tell me about your experience.",
+        "b": "I have worked in a small team for two years.",
+        "vi": "Tôi làm trong một nhóm nhỏ hai năm.",
+        "aAudio": "/audio/role-interview-a-0.mp3",
+        "bAudio": "/audio/role-interview-b-0.mp3"
+      },
+      {
+        "a": "What have you learned from that work?",
+        "b": "I have learned to ask questions before making assumptions.",
+        "vi": "Tôi học cách hỏi trước khi đưa ra giả định.",
+        "aAudio": "/audio/role-interview-a-1.mp3",
+        "bAudio": "/audio/role-interview-b-1.mp3"
+      },
+      {
+        "a": "How do you respond to a mistake?",
+        "b": "I explain it honestly and look for a practical solution.",
+        "vi": "Tôi giải thích trung thực và tìm giải pháp thực tế.",
+        "aAudio": "/audio/role-interview-a-2.mp3",
+        "bAudio": "/audio/role-interview-b-2.mp3"
+      }
+    ]
+  },
+  {
+    "id": "meeting",
+    "title": "Nêu ý kiến trong cuộc họp",
+    "level": "B2",
+    "description": "Nêu quan điểm, đề nghị làm rõ và chốt bước tiếp.",
+    "image": "report",
+    "turns": [
+      {
+        "a": "Do you think we should begin now?",
+        "b": "I would prefer to check the evidence before deciding.",
+        "vi": "Tôi muốn kiểm tra chứng cứ trước khi quyết định.",
+        "aAudio": "/audio/role-meeting-a-0.mp3",
+        "bAudio": "/audio/role-meeting-b-0.mp3"
+      },
+      {
+        "a": "Which part needs clarification?",
+        "b": "The estimate is promising, but its assumptions are unclear.",
+        "vi": "Ước tính có triển vọng nhưng giả định chưa rõ.",
+        "aAudio": "/audio/role-meeting-a-1.mp3",
+        "bAudio": "/audio/role-meeting-b-1.mp3"
+      },
+      {
+        "a": "What do you suggest as the next step?",
+        "b": "We could review the assumptions and discuss the options tomorrow.",
+        "vi": "Chúng ta có thể xem giả định và bàn lựa chọn ngày mai.",
+        "aAudio": "/audio/role-meeting-a-2.mp3",
+        "bAudio": "/audio/role-meeting-b-2.mp3"
+      }
+    ]
+  },
+  {
+    "id": "presentation",
+    "title": "Xử lý câu hỏi sau thuyết trình",
+    "level": "B2",
+    "description": "Nêu giới hạn nghiên cứu và đề xuất bước tiếp.",
+    "image": "science",
+    "turns": [
+      {
+        "a": "Does your study prove that the treatment works?",
+        "b": "The findings are promising, but the sample was limited.",
+        "vi": "Kết quả có triển vọng nhưng mẫu hạn chế.",
+        "aAudio": "/audio/role-presentation-a-0.mp3",
+        "bAudio": "/audio/role-presentation-b-0.mp3"
+      },
+      {
+        "a": "What additional evidence would you need?",
+        "b": "A larger trial would help us test the result more reliably.",
+        "vi": "Thử nghiệm lớn hơn giúp kiểm tra đáng tin hơn.",
+        "aAudio": "/audio/role-presentation-a-1.mp3",
+        "bAudio": "/audio/role-presentation-b-1.mp3"
+      },
+      {
+        "a": "When can you make a final recommendation?",
+        "b": "Only after the new evidence has been reviewed.",
+        "vi": "Chỉ sau khi xem xét chứng cứ mới.",
+        "aAudio": "/audio/role-presentation-a-2.mp3",
+        "bAudio": "/audio/role-presentation-b-2.mp3"
+      }
+    ]
+  },
+  {
+    "id": "diplomacy",
+    "title": "Phản biện lịch sự",
+    "level": "C1",
+    "description": "Công nhận ưu điểm và nêu điều cần xem xét.",
+    "image": "people",
+    "turns": [
+      {
+        "a": "Would you support the proposal?",
+        "b": "Much as I admire its ambition, I have reservations about the timeline.",
+        "vi": "Dù ngưỡng mộ tham vọng, tôi băn khoăn về lịch trình.",
+        "aAudio": "/audio/role-diplomacy-a-0.mp3",
+        "bAudio": "/audio/role-diplomacy-b-0.mp3"
+      },
+      {
+        "a": "Could you explain your concern?",
+        "b": "Were the team given more time, the plan would be more defensible.",
+        "vi": "Nếu nhóm có thêm thời gian, kế hoạch có cơ sở hơn.",
+        "aAudio": "/audio/role-diplomacy-a-1.mp3",
+        "bAudio": "/audio/role-diplomacy-b-1.mp3"
+      },
+      {
+        "a": "What would you recommend?",
+        "b": "I suggest that we revise the schedule before committing.",
+        "vi": "Tôi đề nghị sửa lịch trước khi cam kết.",
+        "aAudio": "/audio/role-diplomacy-a-2.mp3",
+        "bAudio": "/audio/role-diplomacy-b-2.mp3"
+      }
+    ]
+  },
+  {
+    "id": "nuance",
+    "title": "Làm rõ hàm ý",
+    "level": "C2",
+    "description": "Phân biệt lời nói, hàm ý và điều người nghe suy ra.",
+    "image": "museum",
+    "turns": [
+      {
+        "a": "Can we infer that approval is guaranteed?",
+        "b": "Not necessarily. The statement implies openness, not a commitment.",
+        "vi": "Không hẳn. Tuyên bố hàm ý cởi mở, không phải cam kết.",
+        "aAudio": "/audio/role-nuance-a-0.mp3",
+        "bAudio": "/audio/role-nuance-b-0.mp3"
+      },
+      {
+        "a": "Then why did several observers expect approval?",
+        "b": "Their expectations may have influenced how they interpreted the wording.",
+        "vi": "Kỳ vọng có thể ảnh hưởng cách hiểu câu chữ.",
+        "aAudio": "/audio/role-nuance-a-1.mp3",
+        "bAudio": "/audio/role-nuance-b-1.mp3"
+      },
+      {
+        "a": "How could the message have been clearer?",
+        "b": "It could have distinguished serious consideration from a promised outcome.",
+        "vi": "Có thể tách việc xem xét nghiêm túc khỏi lời hứa kết quả.",
+        "aAudio": "/audio/role-nuance-a-2.mp3",
+        "bAudio": "/audio/role-nuance-b-2.mp3"
+      }
+    ]
+  }
+]

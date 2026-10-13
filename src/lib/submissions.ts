@@ -1,0 +1,13 @@
+import {supabase} from './supabase';
+import {curriculum,questionsByIds} from './engine';
+import type {Question} from './types';
+export type PendingJob={id:string;kind:'lesson'|'practice';nodeId?:string;questionIds:string[];answers:Record<string,string>;sessionId?:string;spoken?:boolean;createdAt:string};
+export async function serverQuestions(nodeId:string):Promise<Question[]>{const l=curriculum.lessons.find(l=>l.id===nodeId)!;const key=`lingostep-canonical:${nodeId}`;let ids=l.legacyQuestionIds??l.questions.map(q=>q.id);if(typeof window!=='undefined')try{ids=JSON.parse(localStorage.getItem(key)??'null')??ids;}catch{}if(supabase&&navigator.onLine){const {data,error}=await supabase.from('course_nodes').select('question_ids').eq('id',nodeId).single();if(error)throw new Error(error.message);ids=data.question_ids;localStorage.setItem(key,JSON.stringify(ids));}const qs=questionsByIds(ids);if(qs.length!==ids.length)throw new Error('Nội dung máy chủ và ứng dụng chưa đồng bộ. Hãy cập nhật SQL v2.0.');return qs;}
+export async function sendJob(job:PendingJob){if(!supabase)throw new Error('Chưa kết nối Supabase.');if(job.kind==='practice'){const {data,error}=await supabase.rpc('submit_practice',{p_request_id:job.id,p_question_ids:job.questionIds,p_answers:job.answers});if(error)throw error;return data;}
+ const args={p_node_id:job.nodeId,p_answers:job.answers,p_session_id:job.sessionId??null,p_speaking_practised:job.spoken??false};const {data,error}=await supabase.rpc('submit_attempt_v2',{...args,p_request_id:job.id});if(error?.code==='PGRST202'){if(!navigator.onLine)throw error;const fallback=await supabase.rpc('submit_attempt',args);if(fallback.error)throw fallback.error;return fallback.data;}if(error)throw error;return data;
+}
+export function queueKey(uid:string){return `lingostep-pending-v2:${uid}`;}
+export function readQueue(uid:string):PendingJob[]{try{const q=JSON.parse(localStorage.getItem(queueKey(uid))??'[]');return Array.isArray(q)?q.filter(j=>j&&typeof j.id==='string'&&['lesson','practice'].includes(j.kind)&&Array.isArray(j.questionIds)&&j.answers&&typeof j.answers==='object'):[];}catch{return [];}}
+export function enqueue(uid:string,job:PendingJob){const q=readQueue(uid);if(!q.some(j=>j.id===job.id)){q.push(job);localStorage.setItem(queueKey(uid),JSON.stringify(q));}return q.length;}
+export function acknowledge(uid:string,id:string){localStorage.setItem(queueKey(uid),JSON.stringify(readQueue(uid).filter(q=>q.id!==id)));}
+export function transientError(error:unknown){const e=error as {code?:string;message?:string;status?:number};return !navigator.onLine||!e?.code&&/fetch|network|timeout|connection/i.test(e?.message??'')||Number(e?.status)>=500;}
