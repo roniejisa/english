@@ -1,0 +1,5282 @@
+[
+  {
+    "word": "city",
+    "meaning": "thành phố",
+    "context": "This city has a large park.",
+    "contextVi": "Thành phố này có một công viên lớn.",
+    "topic": "travel-city",
+    "pos": "noun"
+  },
+  {
+    "word": "town",
+    "meaning": "thị trấn",
+    "context": "Our town is near the sea.",
+    "contextVi": "Thị trấn của chúng tôi ở gần biển.",
+    "topic": "travel-city",
+    "pos": "noun"
+  },
+  {
+    "word": "village",
+    "meaning": "làng",
+    "context": "My uncle lives in a small village.",
+    "contextVi": "Chú tôi sống trong một ngôi làng nhỏ.",
+    "topic": "travel-city",
+    "pos": "noun"
+  },
+  {
+    "word": "street",
+    "meaning": "phố; đường phố",
+    "context": "This street is very quiet.",
+    "contextVi": "Con phố này rất yên tĩnh.",
+    "topic": "travel-city",
+    "pos": "noun"
+  },
+  {
+    "word": "road",
+    "meaning": "đường",
+    "context": "The road is wet today.",
+    "contextVi": "Con đường hôm nay bị ướt.",
+    "topic": "travel-city",
+    "pos": "noun"
+  },
+  {
+    "word": "avenue",
+    "meaning": "đại lộ",
+    "context": "The hotel is on this avenue.",
+    "contextVi": "Khách sạn nằm trên đại lộ này.",
+    "topic": "travel-city",
+    "pos": "noun"
+  },
+  {
+    "word": "corner",
+    "meaning": "góc",
+    "context": "Turn left at the next corner.",
+    "contextVi": "Rẽ trái ở góc tiếp theo.",
+    "topic": "travel-city",
+    "pos": "noun"
+  },
+  {
+    "word": "bridge",
+    "meaning": "cầu",
+    "context": "We walk across the bridge.",
+    "contextVi": "Chúng tôi đi bộ qua cây cầu.",
+    "topic": "travel-city",
+    "pos": "noun"
+  },
+  {
+    "word": "station",
+    "meaning": "nhà ga; trạm",
+    "context": "The station is close to here.",
+    "contextVi": "Nhà ga ở gần đây.",
+    "topic": "travel-city",
+    "pos": "noun"
+  },
+  {
+    "word": "airport",
+    "meaning": "sân bay",
+    "context": "Please take me to the airport.",
+    "contextVi": "Làm ơn đưa tôi đến sân bay.",
+    "topic": "travel-city",
+    "pos": "noun"
+  },
+  {
+    "word": "flight",
+    "meaning": "chuyến bay",
+    "context": "Our flight leaves at noon.",
+    "contextVi": "Chuyến bay của chúng tôi khởi hành lúc trưa.",
+    "topic": "travel-city",
+    "pos": "noun"
+  },
+  {
+    "word": "plane",
+    "meaning": "máy bay",
+    "context": "The plane is ready to leave.",
+    "contextVi": "Máy bay đã sẵn sàng khởi hành.",
+    "topic": "travel-city",
+    "pos": "noun"
+  },
+  {
+    "word": "train",
+    "meaning": "tàu hỏa",
+    "context": "We travel by train.",
+    "contextVi": "Chúng tôi đi bằng tàu hỏa.",
+    "topic": "travel-city",
+    "pos": "noun"
+  },
+  {
+    "word": "bus",
+    "meaning": "xe buýt",
+    "context": "This bus goes to the airport.",
+    "contextVi": "Xe buýt này đi đến sân bay.",
+    "topic": "travel-city",
+    "pos": "noun"
+  },
+  {
+    "word": "taxi",
+    "meaning": "xe taxi",
+    "context": "We need a taxi now.",
+    "contextVi": "Chúng tôi cần một chiếc taxi ngay bây giờ.",
+    "topic": "travel-city",
+    "pos": "noun"
+  },
+  {
+    "word": "car",
+    "meaning": "ô tô",
+    "context": "His car is blue.",
+    "contextVi": "Ô tô của anh ấy màu xanh.",
+    "topic": "travel-city",
+    "pos": "noun"
+  },
+  {
+    "word": "bicycle",
+    "meaning": "xe đạp",
+    "context": "I ride my bicycle to work.",
+    "contextVi": "Tôi đạp xe đi làm.",
+    "topic": "travel-city",
+    "pos": "noun"
+  },
+  {
+    "word": "boat",
+    "meaning": "thuyền",
+    "context": "The boat is near the bridge.",
+    "contextVi": "Chiếc thuyền ở gần cây cầu.",
+    "topic": "travel-city",
+    "pos": "noun"
+  },
+  {
+    "word": "ship",
+    "meaning": "tàu thủy",
+    "context": "A large ship arrives today.",
+    "contextVi": "Một con tàu lớn đến hôm nay.",
+    "topic": "travel-city",
+    "pos": "noun"
+  },
+  {
+    "word": "ticket",
+    "meaning": "vé",
+    "context": "Keep your ticket in your bag.",
+    "contextVi": "Hãy giữ vé trong túi của bạn.",
+    "topic": "travel-city",
+    "pos": "noun"
+  },
+  {
+    "word": "passport",
+    "meaning": "hộ chiếu",
+    "context": "I have my passport with me.",
+    "contextVi": "Tôi mang theo hộ chiếu.",
+    "topic": "travel-city",
+    "pos": "noun"
+  },
+  {
+    "word": "visa",
+    "meaning": "thị thực",
+    "context": "You need a visa for this trip.",
+    "contextVi": "Bạn cần thị thực cho chuyến đi này.",
+    "topic": "travel-city",
+    "pos": "noun"
+  },
+  {
+    "word": "luggage",
+    "meaning": "hành lý",
+    "context": "Our luggage is still on the plane.",
+    "contextVi": "Hành lý của chúng tôi vẫn còn trên máy bay.",
+    "topic": "travel-city",
+    "pos": "noun"
+  },
+  {
+    "word": "suitcase",
+    "meaning": "va li",
+    "context": "My suitcase is quite heavy.",
+    "contextVi": "Va li của tôi khá nặng.",
+    "topic": "travel-city",
+    "pos": "noun"
+  },
+  {
+    "word": "hotel",
+    "meaning": "khách sạn",
+    "context": "The hotel is near the station.",
+    "contextVi": "Khách sạn ở gần nhà ga.",
+    "topic": "travel-city",
+    "pos": "noun"
+  },
+  {
+    "word": "hostel",
+    "meaning": "nhà nghỉ tập thể",
+    "context": "We stay at a cheap hostel.",
+    "contextVi": "Chúng tôi ở một nhà nghỉ tập thể giá rẻ.",
+    "topic": "travel-city",
+    "pos": "noun"
+  },
+  {
+    "word": "reservation",
+    "meaning": "việc đặt chỗ",
+    "context": "I have a reservation for tonight.",
+    "contextVi": "Tôi đã đặt chỗ cho tối nay.",
+    "topic": "travel-city",
+    "pos": "noun"
+  },
+  {
+    "word": "reception",
+    "meaning": "quầy lễ tân",
+    "context": "Ask at reception for a map.",
+    "contextVi": "Hãy hỏi bản đồ tại quầy lễ tân.",
+    "topic": "travel-city",
+    "pos": "noun"
+  },
+  {
+    "word": "map",
+    "meaning": "bản đồ",
+    "context": "This map shows all the streets.",
+    "contextVi": "Bản đồ này thể hiện tất cả các con phố.",
+    "topic": "travel-city",
+    "pos": "noun"
+  },
+  {
+    "word": "route",
+    "meaning": "tuyến đường",
+    "context": "This route is faster.",
+    "contextVi": "Tuyến đường này nhanh hơn.",
+    "topic": "travel-city",
+    "pos": "noun"
+  },
+  {
+    "word": "journey",
+    "meaning": "hành trình",
+    "context": "The journey takes two hours.",
+    "contextVi": "Hành trình mất hai giờ.",
+    "topic": "travel-city",
+    "pos": "noun"
+  },
+  {
+    "word": "trip",
+    "meaning": "chuyến đi",
+    "context": "Our trip starts tomorrow.",
+    "contextVi": "Chuyến đi của chúng tôi bắt đầu vào ngày mai.",
+    "topic": "travel-city",
+    "pos": "noun"
+  },
+  {
+    "word": "holiday",
+    "meaning": "kỳ nghỉ",
+    "context": "We are on holiday this week.",
+    "contextVi": "Chúng tôi đang nghỉ lễ tuần này.",
+    "topic": "travel-city",
+    "pos": "noun"
+  },
+  {
+    "word": "vacation",
+    "meaning": "kỳ nghỉ",
+    "context": "My vacation begins in June.",
+    "contextVi": "Kỳ nghỉ của tôi bắt đầu vào tháng Sáu.",
+    "topic": "travel-city",
+    "pos": "noun"
+  },
+  {
+    "word": "beach",
+    "meaning": "bãi biển",
+    "context": "The beach is quiet in the morning.",
+    "contextVi": "Bãi biển yên tĩnh vào buổi sáng.",
+    "topic": "travel-city",
+    "pos": "noun"
+  },
+  {
+    "word": "island",
+    "meaning": "đảo",
+    "context": "They live on a small island.",
+    "contextVi": "Họ sống trên một hòn đảo nhỏ.",
+    "topic": "travel-city",
+    "pos": "noun"
+  },
+  {
+    "word": "mountain",
+    "meaning": "núi",
+    "context": "We can see a mountain from here.",
+    "contextVi": "Chúng tôi có thể nhìn thấy một ngọn núi từ đây.",
+    "topic": "travel-city",
+    "pos": "noun"
+  },
+  {
+    "word": "river",
+    "meaning": "sông",
+    "context": "The river runs through the city.",
+    "contextVi": "Con sông chảy qua thành phố.",
+    "topic": "travel-city",
+    "pos": "noun"
+  },
+  {
+    "word": "lake",
+    "meaning": "hồ",
+    "context": "We walk around the lake.",
+    "contextVi": "Chúng tôi đi bộ quanh hồ.",
+    "topic": "travel-city",
+    "pos": "noun"
+  },
+  {
+    "word": "forest",
+    "meaning": "rừng",
+    "context": "The forest is full of tall trees.",
+    "contextVi": "Khu rừng có rất nhiều cây cao.",
+    "topic": "travel-city",
+    "pos": "noun"
+  },
+  {
+    "word": "park",
+    "meaning": "công viên",
+    "context": "Let's meet in the park.",
+    "contextVi": "Chúng ta hãy gặp nhau ở công viên.",
+    "topic": "travel-city",
+    "pos": "noun"
+  },
+  {
+    "word": "museum",
+    "meaning": "bảo tàng",
+    "context": "The museum closes at five.",
+    "contextVi": "Bảo tàng đóng cửa lúc năm giờ.",
+    "topic": "travel-city",
+    "pos": "noun"
+  },
+  {
+    "word": "library",
+    "meaning": "thư viện",
+    "context": "The library is next to the park.",
+    "contextVi": "Thư viện ở cạnh công viên.",
+    "topic": "travel-city",
+    "pos": "noun"
+  },
+  {
+    "word": "market",
+    "meaning": "chợ",
+    "context": "The market is busy today.",
+    "contextVi": "Chợ hôm nay rất đông.",
+    "topic": "travel-city",
+    "pos": "noun"
+  },
+  {
+    "word": "shop",
+    "meaning": "cửa hàng",
+    "context": "This shop sells local gifts.",
+    "contextVi": "Cửa hàng này bán quà lưu niệm địa phương.",
+    "topic": "travel-city",
+    "pos": "noun"
+  },
+  {
+    "word": "bank",
+    "meaning": "ngân hàng",
+    "context": "The bank opens at nine.",
+    "contextVi": "Ngân hàng mở cửa lúc chín giờ.",
+    "topic": "travel-city",
+    "pos": "noun"
+  },
+  {
+    "word": "hospital",
+    "meaning": "bệnh viện",
+    "context": "The hospital is on the right.",
+    "contextVi": "Bệnh viện ở bên phải.",
+    "topic": "travel-city",
+    "pos": "noun"
+  },
+  {
+    "word": "pharmacy",
+    "meaning": "hiệu thuốc",
+    "context": "There is a pharmacy near the hotel.",
+    "contextVi": "Có một hiệu thuốc gần khách sạn.",
+    "topic": "travel-city",
+    "pos": "noun"
+  },
+  {
+    "word": "police",
+    "meaning": "cảnh sát",
+    "context": "Call the police for help.",
+    "contextVi": "Hãy gọi cảnh sát để được giúp đỡ.",
+    "topic": "travel-city",
+    "pos": "noun"
+  },
+  {
+    "word": "traffic",
+    "meaning": "giao thông; xe cộ",
+    "context": "There is heavy traffic this morning.",
+    "contextVi": "Sáng nay có nhiều xe cộ.",
+    "topic": "travel-city",
+    "pos": "noun"
+  },
+  {
+    "word": "platform",
+    "meaning": "sân ga",
+    "context": "Our train leaves from this platform.",
+    "contextVi": "Tàu của chúng tôi khởi hành từ sân ga này.",
+    "topic": "travel-city",
+    "pos": "noun"
+  },
+  {
+    "word": "stop",
+    "meaning": "điểm dừng",
+    "context": "The next stop is the museum.",
+    "contextVi": "Điểm dừng tiếp theo là bảo tàng.",
+    "topic": "travel-city",
+    "pos": "noun"
+  },
+  {
+    "word": "gate",
+    "meaning": "cổng",
+    "context": "Wait for me at the gate.",
+    "contextVi": "Hãy đợi tôi ở cổng.",
+    "topic": "travel-city",
+    "pos": "noun"
+  },
+  {
+    "word": "entrance",
+    "meaning": "lối vào",
+    "context": "The entrance is on the left.",
+    "contextVi": "Lối vào ở bên trái.",
+    "topic": "travel-city",
+    "pos": "noun"
+  },
+  {
+    "word": "exit",
+    "meaning": "lối ra",
+    "context": "Please use the nearest exit.",
+    "contextVi": "Vui lòng dùng lối ra gần nhất.",
+    "topic": "travel-city",
+    "pos": "noun"
+  },
+  {
+    "word": "address",
+    "meaning": "địa chỉ",
+    "context": "Write the address on your phone.",
+    "contextVi": "Hãy ghi địa chỉ vào điện thoại.",
+    "topic": "travel-city",
+    "pos": "noun"
+  },
+  {
+    "word": "distance",
+    "meaning": "khoảng cách",
+    "context": "The distance is about five kilometers.",
+    "contextVi": "Khoảng cách khoảng năm ki lô mét.",
+    "topic": "travel-city",
+    "pos": "noun"
+  },
+  {
+    "word": "kilometer",
+    "meaning": "ki lô mét",
+    "context": "The station is one kilometer away.",
+    "contextVi": "Nhà ga cách đây một ki lô mét.",
+    "topic": "travel-city",
+    "pos": "noun"
+  },
+  {
+    "word": "tourist",
+    "meaning": "khách du lịch",
+    "context": "A tourist asks me for directions.",
+    "contextVi": "Một khách du lịch hỏi tôi đường đi.",
+    "topic": "travel-city",
+    "pos": "noun"
+  },
+  {
+    "word": "guide",
+    "meaning": "hướng dẫn viên",
+    "context": "Our guide knows this city well.",
+    "contextVi": "Hướng dẫn viên của chúng tôi biết rõ thành phố này.",
+    "topic": "travel-city",
+    "pos": "noun"
+  },
+  {
+    "word": "driver",
+    "meaning": "tài xế",
+    "context": "The driver waits outside.",
+    "contextVi": "Tài xế đợi ở bên ngoài.",
+    "topic": "travel-city",
+    "pos": "noun"
+  },
+  {
+    "word": "passenger",
+    "meaning": "hành khách",
+    "context": "Each passenger needs a ticket.",
+    "contextVi": "Mỗi hành khách cần một vé.",
+    "topic": "travel-city",
+    "pos": "noun"
+  },
+  {
+    "word": "seat",
+    "meaning": "chỗ ngồi",
+    "context": "Is this seat free?",
+    "contextVi": "Chỗ ngồi này có ai chưa?",
+    "topic": "travel-city",
+    "pos": "noun"
+  },
+  {
+    "word": "queue",
+    "meaning": "hàng người chờ",
+    "context": "Please join the queue.",
+    "contextVi": "Vui lòng vào hàng chờ.",
+    "topic": "travel-city",
+    "pos": "noun"
+  },
+  {
+    "word": "local",
+    "meaning": "địa phương",
+    "context": "Try a local restaurant.",
+    "contextVi": "Hãy thử một nhà hàng địa phương.",
+    "topic": "travel-city",
+    "pos": "adjective"
+  },
+  {
+    "word": "foreign",
+    "meaning": "nước ngoài",
+    "context": "She enjoys visiting foreign countries.",
+    "contextVi": "Cô ấy thích đến thăm các nước ngoài.",
+    "topic": "travel-city",
+    "pos": "adjective"
+  },
+  {
+    "word": "public",
+    "meaning": "công cộng",
+    "context": "Public transport is cheap here.",
+    "contextVi": "Phương tiện giao thông công cộng ở đây rẻ.",
+    "topic": "travel-city",
+    "pos": "adjective"
+  },
+  {
+    "word": "nearby",
+    "meaning": "gần đó",
+    "context": "We found a nearby hotel.",
+    "contextVi": "Chúng tôi tìm được một khách sạn gần đó.",
+    "topic": "travel-city",
+    "pos": "adjective"
+  },
+  {
+    "word": "crowded",
+    "meaning": "đông đúc",
+    "context": "The train is crowded today.",
+    "contextVi": "Tàu hôm nay rất đông.",
+    "topic": "travel-city",
+    "pos": "adjective"
+  },
+  {
+    "word": "travel",
+    "meaning": "đi du lịch; đi lại",
+    "context": "We travel together every summer.",
+    "contextVi": "Chúng tôi đi du lịch cùng nhau mỗi mùa hè.",
+    "topic": "travel-city",
+    "pos": "verb"
+  },
+  {
+    "word": "visit",
+    "meaning": "thăm; tham quan",
+    "context": "I want to visit this museum.",
+    "contextVi": "Tôi muốn tham quan bảo tàng này.",
+    "topic": "travel-city",
+    "pos": "verb"
+  },
+  {
+    "word": "arrive",
+    "meaning": "đến nơi",
+    "context": "We arrive at six.",
+    "contextVi": "Chúng tôi đến nơi lúc sáu giờ.",
+    "topic": "travel-city",
+    "pos": "verb"
+  },
+  {
+    "word": "depart",
+    "meaning": "khởi hành",
+    "context": "The trains depart every hour.",
+    "contextVi": "Các chuyến tàu khởi hành mỗi giờ.",
+    "topic": "travel-city",
+    "pos": "verb"
+  },
+  {
+    "word": "work",
+    "meaning": "công việc",
+    "context": "I have a lot of work today.",
+    "contextVi": "Hôm nay tôi có nhiều công việc.",
+    "topic": "work-technology",
+    "pos": "noun"
+  },
+  {
+    "word": "job",
+    "meaning": "việc làm",
+    "context": "She has a new job.",
+    "contextVi": "Cô ấy có một công việc mới.",
+    "topic": "work-technology",
+    "pos": "noun"
+  },
+  {
+    "word": "office",
+    "meaning": "văn phòng",
+    "context": "Our office is on this street.",
+    "contextVi": "Văn phòng của chúng tôi nằm trên con phố này.",
+    "topic": "work-technology",
+    "pos": "noun"
+  },
+  {
+    "word": "company",
+    "meaning": "công ty",
+    "context": "This company makes computers.",
+    "contextVi": "Công ty này sản xuất máy tính.",
+    "topic": "work-technology",
+    "pos": "noun"
+  },
+  {
+    "word": "business",
+    "meaning": "công việc kinh doanh",
+    "context": "His business is growing.",
+    "contextVi": "Công việc kinh doanh của anh ấy đang phát triển.",
+    "topic": "work-technology",
+    "pos": "noun"
+  },
+  {
+    "word": "manager",
+    "meaning": "người quản lý",
+    "context": "Ask your manager for help.",
+    "contextVi": "Hãy nhờ người quản lý giúp đỡ.",
+    "topic": "work-technology",
+    "pos": "noun"
+  },
+  {
+    "word": "worker",
+    "meaning": "người lao động",
+    "context": "Every worker gets a break.",
+    "contextVi": "Mỗi người lao động đều được nghỉ giải lao.",
+    "topic": "work-technology",
+    "pos": "noun"
+  },
+  {
+    "word": "colleague",
+    "meaning": "đồng nghiệp",
+    "context": "My colleague helps me every day.",
+    "contextVi": "Đồng nghiệp của tôi giúp tôi mỗi ngày.",
+    "topic": "work-technology",
+    "pos": "noun"
+  },
+  {
+    "word": "customer",
+    "meaning": "khách hàng",
+    "context": "The customer needs more information.",
+    "contextVi": "Khách hàng cần thêm thông tin.",
+    "topic": "work-technology",
+    "pos": "noun"
+  },
+  {
+    "word": "client",
+    "meaning": "khách hàng sử dụng dịch vụ",
+    "context": "Our client wants a simple website.",
+    "contextVi": "Khách hàng của chúng tôi muốn một trang web đơn giản.",
+    "topic": "work-technology",
+    "pos": "noun"
+  },
+  {
+    "word": "team",
+    "meaning": "nhóm",
+    "context": "Our team works well together.",
+    "contextVi": "Nhóm của chúng tôi làm việc cùng nhau rất tốt.",
+    "topic": "work-technology",
+    "pos": "noun"
+  },
+  {
+    "word": "meeting",
+    "meaning": "cuộc họp",
+    "context": "The meeting starts at ten.",
+    "contextVi": "Cuộc họp bắt đầu lúc mười giờ.",
+    "topic": "work-technology",
+    "pos": "noun"
+  },
+  {
+    "word": "project",
+    "meaning": "dự án",
+    "context": "This project takes three weeks.",
+    "contextVi": "Dự án này mất ba tuần.",
+    "topic": "work-technology",
+    "pos": "noun"
+  },
+  {
+    "word": "task",
+    "meaning": "nhiệm vụ",
+    "context": "Finish one task at a time.",
+    "contextVi": "Hãy hoàn thành từng nhiệm vụ một.",
+    "topic": "work-technology",
+    "pos": "noun"
+  },
+  {
+    "word": "plan",
+    "meaning": "kế hoạch",
+    "context": "We need a clear plan.",
+    "contextVi": "Chúng tôi cần một kế hoạch rõ ràng.",
+    "topic": "work-technology",
+    "pos": "noun"
+  },
+  {
+    "word": "report",
+    "meaning": "báo cáo",
+    "context": "Please read my report.",
+    "contextVi": "Vui lòng đọc báo cáo của tôi.",
+    "topic": "work-technology",
+    "pos": "noun"
+  },
+  {
+    "word": "salary",
+    "meaning": "lương",
+    "context": "She gets her salary each month.",
+    "contextVi": "Cô ấy nhận lương mỗi tháng.",
+    "topic": "work-technology",
+    "pos": "noun"
+  },
+  {
+    "word": "payment",
+    "meaning": "khoản thanh toán",
+    "context": "Your payment is complete.",
+    "contextVi": "Khoản thanh toán của bạn đã hoàn tất.",
+    "topic": "work-technology",
+    "pos": "noun"
+  },
+  {
+    "word": "money",
+    "meaning": "tiền",
+    "context": "Save some money for your trip.",
+    "contextVi": "Hãy tiết kiệm một ít tiền cho chuyến đi.",
+    "topic": "work-technology",
+    "pos": "noun"
+  },
+  {
+    "word": "price",
+    "meaning": "giá",
+    "context": "The price includes delivery.",
+    "contextVi": "Giá đã bao gồm phí giao hàng.",
+    "topic": "work-technology",
+    "pos": "noun"
+  },
+  {
+    "word": "cost",
+    "meaning": "chi phí",
+    "context": "The cost is too high.",
+    "contextVi": "Chi phí quá cao.",
+    "topic": "work-technology",
+    "pos": "noun"
+  },
+  {
+    "word": "budget",
+    "meaning": "ngân sách",
+    "context": "Our budget is small.",
+    "contextVi": "Ngân sách của chúng tôi nhỏ.",
+    "topic": "work-technology",
+    "pos": "noun"
+  },
+  {
+    "word": "contract",
+    "meaning": "hợp đồng",
+    "context": "Read the contract carefully.",
+    "contextVi": "Hãy đọc hợp đồng cẩn thận.",
+    "topic": "work-technology",
+    "pos": "noun"
+  },
+  {
+    "word": "interview",
+    "meaning": "buổi phỏng vấn",
+    "context": "My interview is tomorrow.",
+    "contextVi": "Buổi phỏng vấn của tôi vào ngày mai.",
+    "topic": "work-technology",
+    "pos": "noun"
+  },
+  {
+    "word": "career",
+    "meaning": "sự nghiệp",
+    "context": "She wants a career in design.",
+    "contextVi": "Cô ấy muốn theo nghề thiết kế.",
+    "topic": "work-technology",
+    "pos": "noun"
+  },
+  {
+    "word": "experience",
+    "meaning": "kinh nghiệm",
+    "context": "He has experience in sales.",
+    "contextVi": "Anh ấy có kinh nghiệm bán hàng.",
+    "topic": "work-technology",
+    "pos": "noun"
+  },
+  {
+    "word": "skill",
+    "meaning": "kỹ năng",
+    "context": "Listening is an important skill.",
+    "contextVi": "Lắng nghe là một kỹ năng quan trọng.",
+    "topic": "work-technology",
+    "pos": "noun"
+  },
+  {
+    "word": "training",
+    "meaning": "sự đào tạo",
+    "context": "The training starts next week.",
+    "contextVi": "Khóa đào tạo bắt đầu vào tuần tới.",
+    "topic": "work-technology",
+    "pos": "noun"
+  },
+  {
+    "word": "deadline",
+    "meaning": "hạn chót",
+    "context": "The deadline is Friday.",
+    "contextVi": "Hạn chót là thứ Sáu.",
+    "topic": "work-technology",
+    "pos": "noun"
+  },
+  {
+    "word": "schedule",
+    "meaning": "lịch trình",
+    "context": "Check your schedule before the meeting.",
+    "contextVi": "Hãy kiểm tra lịch trình trước cuộc họp.",
+    "topic": "work-technology",
+    "pos": "noun"
+  },
+  {
+    "word": "break",
+    "meaning": "giờ nghỉ",
+    "context": "We have a short break at noon.",
+    "contextVi": "Chúng tôi có giờ nghỉ ngắn vào buổi trưa.",
+    "topic": "work-technology",
+    "pos": "noun"
+  },
+  {
+    "word": "computer",
+    "meaning": "máy tính",
+    "context": "My computer is very slow.",
+    "contextVi": "Máy tính của tôi rất chậm.",
+    "topic": "work-technology",
+    "pos": "noun"
+  },
+  {
+    "word": "laptop",
+    "meaning": "máy tính xách tay",
+    "context": "I use a laptop for work.",
+    "contextVi": "Tôi dùng máy tính xách tay để làm việc.",
+    "topic": "work-technology",
+    "pos": "noun"
+  },
+  {
+    "word": "phone",
+    "meaning": "điện thoại",
+    "context": "Your phone is ringing.",
+    "contextVi": "Điện thoại của bạn đang đổ chuông.",
+    "topic": "work-technology",
+    "pos": "noun"
+  },
+  {
+    "word": "screen",
+    "meaning": "màn hình",
+    "context": "The screen is too bright.",
+    "contextVi": "Màn hình quá sáng.",
+    "topic": "work-technology",
+    "pos": "noun"
+  },
+  {
+    "word": "keyboard",
+    "meaning": "bàn phím",
+    "context": "This keyboard is easy to use.",
+    "contextVi": "Bàn phím này dễ sử dụng.",
+    "topic": "work-technology",
+    "pos": "noun"
+  },
+  {
+    "word": "mouse",
+    "meaning": "chuột máy tính",
+    "context": "Click the mouse once.",
+    "contextVi": "Hãy nhấp chuột một lần.",
+    "topic": "work-technology",
+    "pos": "noun"
+  },
+  {
+    "word": "printer",
+    "meaning": "máy in",
+    "context": "The printer needs more paper.",
+    "contextVi": "Máy in cần thêm giấy.",
+    "topic": "work-technology",
+    "pos": "noun"
+  },
+  {
+    "word": "internet",
+    "meaning": "Internet",
+    "context": "The internet is not working.",
+    "contextVi": "Internet không hoạt động.",
+    "topic": "work-technology",
+    "pos": "noun"
+  },
+  {
+    "word": "website",
+    "meaning": "trang web",
+    "context": "Our website has a new design.",
+    "contextVi": "Trang web của chúng tôi có thiết kế mới.",
+    "topic": "work-technology",
+    "pos": "noun"
+  },
+  {
+    "word": "email",
+    "meaning": "thư điện tử",
+    "context": "Please send me an email.",
+    "contextVi": "Vui lòng gửi cho tôi một thư điện tử.",
+    "topic": "work-technology",
+    "pos": "noun"
+  },
+  {
+    "word": "password",
+    "meaning": "mật khẩu",
+    "context": "Choose a strong password.",
+    "contextVi": "Hãy chọn một mật khẩu mạnh.",
+    "topic": "work-technology",
+    "pos": "noun"
+  },
+  {
+    "word": "account",
+    "meaning": "tài khoản",
+    "context": "I cannot access my account.",
+    "contextVi": "Tôi không truy cập được tài khoản của mình.",
+    "topic": "work-technology",
+    "pos": "noun"
+  },
+  {
+    "word": "file",
+    "meaning": "tệp",
+    "context": "Save the file before you leave.",
+    "contextVi": "Hãy lưu tệp trước khi bạn rời đi.",
+    "topic": "work-technology",
+    "pos": "noun"
+  },
+  {
+    "word": "folder",
+    "meaning": "thư mục",
+    "context": "Put the file in this folder.",
+    "contextVi": "Hãy đặt tệp vào thư mục này.",
+    "topic": "work-technology",
+    "pos": "noun"
+  },
+  {
+    "word": "document",
+    "meaning": "tài liệu",
+    "context": "This document has ten pages.",
+    "contextVi": "Tài liệu này có mười trang.",
+    "topic": "work-technology",
+    "pos": "noun"
+  },
+  {
+    "word": "data",
+    "meaning": "dữ liệu",
+    "context": "Keep your data safe.",
+    "contextVi": "Hãy giữ dữ liệu của bạn an toàn.",
+    "topic": "work-technology",
+    "pos": "noun"
+  },
+  {
+    "word": "app",
+    "meaning": "ứng dụng",
+    "context": "This app helps me learn English.",
+    "contextVi": "Ứng dụng này giúp tôi học tiếng Anh.",
+    "topic": "work-technology",
+    "pos": "noun"
+  },
+  {
+    "word": "software",
+    "meaning": "phần mềm",
+    "context": "The software needs an update.",
+    "contextVi": "Phần mềm cần được cập nhật.",
+    "topic": "work-technology",
+    "pos": "noun"
+  },
+  {
+    "word": "system",
+    "meaning": "hệ thống",
+    "context": "The system saves your work.",
+    "contextVi": "Hệ thống lưu công việc của bạn.",
+    "topic": "work-technology",
+    "pos": "noun"
+  },
+  {
+    "word": "network",
+    "meaning": "mạng",
+    "context": "Our network is working again.",
+    "contextVi": "Mạng của chúng tôi hoạt động trở lại.",
+    "topic": "work-technology",
+    "pos": "noun"
+  },
+  {
+    "word": "connection",
+    "meaning": "kết nối",
+    "context": "The connection is stable now.",
+    "contextVi": "Kết nối hiện đã ổn định.",
+    "topic": "work-technology",
+    "pos": "noun"
+  },
+  {
+    "word": "battery",
+    "meaning": "pin",
+    "context": "The battery is almost empty.",
+    "contextVi": "Pin gần hết.",
+    "topic": "work-technology",
+    "pos": "noun"
+  },
+  {
+    "word": "cable",
+    "meaning": "dây cáp",
+    "context": "Connect the cable to your phone.",
+    "contextVi": "Hãy nối dây cáp với điện thoại.",
+    "topic": "work-technology",
+    "pos": "noun"
+  },
+  {
+    "word": "charger",
+    "meaning": "bộ sạc",
+    "context": "I forgot my charger at home.",
+    "contextVi": "Tôi quên bộ sạc ở nhà.",
+    "topic": "work-technology",
+    "pos": "noun"
+  },
+  {
+    "word": "message",
+    "meaning": "tin nhắn",
+    "context": "I received your message.",
+    "contextVi": "Tôi đã nhận được tin nhắn của bạn.",
+    "topic": "work-technology",
+    "pos": "noun"
+  },
+  {
+    "word": "notification",
+    "meaning": "thông báo",
+    "context": "Turn off this notification.",
+    "contextVi": "Hãy tắt thông báo này.",
+    "topic": "work-technology",
+    "pos": "noun"
+  },
+  {
+    "word": "search",
+    "meaning": "việc tìm kiếm",
+    "context": "A quick search gives us the answer.",
+    "contextVi": "Một lần tìm kiếm nhanh cho chúng tôi câu trả lời.",
+    "topic": "work-technology",
+    "pos": "noun"
+  },
+  {
+    "word": "update",
+    "meaning": "bản cập nhật",
+    "context": "The update fixes several problems.",
+    "contextVi": "Bản cập nhật sửa một số vấn đề.",
+    "topic": "work-technology",
+    "pos": "noun"
+  },
+  {
+    "word": "backup",
+    "meaning": "bản sao lưu",
+    "context": "Make a backup of your files.",
+    "contextVi": "Hãy tạo bản sao lưu các tệp của bạn.",
+    "topic": "work-technology",
+    "pos": "noun"
+  },
+  {
+    "word": "save",
+    "meaning": "lưu",
+    "context": "Save your work every few minutes.",
+    "contextVi": "Hãy lưu công việc của bạn vài phút một lần.",
+    "topic": "work-technology",
+    "pos": "verb"
+  },
+  {
+    "word": "download",
+    "meaning": "tải xuống",
+    "context": "You can download the app here.",
+    "contextVi": "Bạn có thể tải ứng dụng tại đây.",
+    "topic": "work-technology",
+    "pos": "verb"
+  },
+  {
+    "word": "upload",
+    "meaning": "tải lên",
+    "context": "Please upload your photo.",
+    "contextVi": "Vui lòng tải ảnh của bạn lên.",
+    "topic": "work-technology",
+    "pos": "verb"
+  },
+  {
+    "word": "click",
+    "meaning": "nhấp",
+    "context": "Click this button to continue.",
+    "contextVi": "Hãy nhấp nút này để tiếp tục.",
+    "topic": "work-technology",
+    "pos": "verb"
+  },
+  {
+    "word": "print",
+    "meaning": "in",
+    "context": "Can you print this document?",
+    "contextVi": "Bạn có thể in tài liệu này không?",
+    "topic": "work-technology",
+    "pos": "verb"
+  },
+  {
+    "word": "connect",
+    "meaning": "kết nối",
+    "context": "Connect your phone to the network.",
+    "contextVi": "Hãy kết nối điện thoại với mạng.",
+    "topic": "work-technology",
+    "pos": "verb"
+  },
+  {
+    "word": "install",
+    "meaning": "cài đặt",
+    "context": "Install the app on your phone.",
+    "contextVi": "Hãy cài ứng dụng trên điện thoại.",
+    "topic": "work-technology",
+    "pos": "verb"
+  },
+  {
+    "word": "charge",
+    "meaning": "sạc",
+    "context": "I need to charge my phone.",
+    "contextVi": "Tôi cần sạc điện thoại.",
+    "topic": "work-technology",
+    "pos": "verb"
+  },
+  {
+    "word": "restart",
+    "meaning": "khởi động lại",
+    "context": "Please restart your computer.",
+    "contextVi": "Vui lòng khởi động lại máy tính.",
+    "topic": "work-technology",
+    "pos": "verb"
+  },
+  {
+    "word": "repair",
+    "meaning": "sửa chữa",
+    "context": "We can repair this printer.",
+    "contextVi": "Chúng tôi có thể sửa máy in này.",
+    "topic": "work-technology",
+    "pos": "verb"
+  },
+  {
+    "word": "online",
+    "meaning": "trực tuyến",
+    "context": "The course is online.",
+    "contextVi": "Khóa học được học trực tuyến.",
+    "topic": "work-technology",
+    "pos": "adjective"
+  },
+  {
+    "word": "offline",
+    "meaning": "ngoại tuyến",
+    "context": "These lessons are available offline.",
+    "contextVi": "Những bài học này có thể dùng ngoại tuyến.",
+    "topic": "work-technology",
+    "pos": "adjective"
+  },
+  {
+    "word": "digital",
+    "meaning": "kỹ thuật số",
+    "context": "Keep a digital copy of the receipt.",
+    "contextVi": "Hãy giữ một bản kỹ thuật số của biên lai.",
+    "topic": "work-technology",
+    "pos": "adjective"
+  },
+  {
+    "word": "time",
+    "meaning": "thời gian",
+    "context": "We still have time.",
+    "contextVi": "Chúng ta vẫn còn thời gian.",
+    "topic": "time-weather",
+    "pos": "noun"
+  },
+  {
+    "word": "day",
+    "meaning": "ngày",
+    "context": "Today is a busy day.",
+    "contextVi": "Hôm nay là một ngày bận rộn.",
+    "topic": "time-weather",
+    "pos": "noun"
+  },
+  {
+    "word": "night",
+    "meaning": "đêm",
+    "context": "The city is quiet at night.",
+    "contextVi": "Thành phố yên tĩnh vào ban đêm.",
+    "topic": "time-weather",
+    "pos": "noun"
+  },
+  {
+    "word": "morning",
+    "meaning": "buổi sáng",
+    "context": "I walk every morning.",
+    "contextVi": "Tôi đi bộ mỗi buổi sáng.",
+    "topic": "time-weather",
+    "pos": "noun"
+  },
+  {
+    "word": "afternoon",
+    "meaning": "buổi chiều",
+    "context": "The meeting is in the afternoon.",
+    "contextVi": "Cuộc họp diễn ra vào buổi chiều.",
+    "topic": "time-weather",
+    "pos": "noun"
+  },
+  {
+    "word": "evening",
+    "meaning": "buổi tối",
+    "context": "We meet every evening.",
+    "contextVi": "Chúng tôi gặp nhau mỗi buổi tối.",
+    "topic": "time-weather",
+    "pos": "noun"
+  },
+  {
+    "word": "week",
+    "meaning": "tuần",
+    "context": "I work five days a week.",
+    "contextVi": "Tôi làm việc năm ngày mỗi tuần.",
+    "topic": "time-weather",
+    "pos": "noun"
+  },
+  {
+    "word": "month",
+    "meaning": "tháng",
+    "context": "She visits us every month.",
+    "contextVi": "Cô ấy thăm chúng tôi mỗi tháng.",
+    "topic": "time-weather",
+    "pos": "noun"
+  },
+  {
+    "word": "year",
+    "meaning": "năm",
+    "context": "This year is important to me.",
+    "contextVi": "Năm nay rất quan trọng với tôi.",
+    "topic": "time-weather",
+    "pos": "noun"
+  },
+  {
+    "word": "hour",
+    "meaning": "giờ",
+    "context": "The trip takes one hour.",
+    "contextVi": "Chuyến đi mất một giờ.",
+    "topic": "time-weather",
+    "pos": "noun"
+  },
+  {
+    "word": "minute",
+    "meaning": "phút",
+    "context": "Wait one minute, please.",
+    "contextVi": "Vui lòng đợi một phút.",
+    "topic": "time-weather",
+    "pos": "noun"
+  },
+  {
+    "word": "second",
+    "meaning": "giây",
+    "context": "The door opens in one second.",
+    "contextVi": "Cửa mở sau một giây.",
+    "topic": "time-weather",
+    "pos": "noun"
+  },
+  {
+    "word": "weekend",
+    "meaning": "cuối tuần",
+    "context": "We are free this weekend.",
+    "contextVi": "Chúng tôi rảnh vào cuối tuần này.",
+    "topic": "time-weather",
+    "pos": "noun"
+  },
+  {
+    "word": "Monday",
+    "meaning": "thứ Hai",
+    "context": "The office opens on Monday.",
+    "contextVi": "Văn phòng mở cửa vào thứ Hai.",
+    "topic": "time-weather",
+    "pos": "noun"
+  },
+  {
+    "word": "Tuesday",
+    "meaning": "thứ Ba",
+    "context": "My class is on Tuesday.",
+    "contextVi": "Lớp học của tôi diễn ra vào thứ Ba.",
+    "topic": "time-weather",
+    "pos": "noun"
+  },
+  {
+    "word": "Wednesday",
+    "meaning": "thứ Tư",
+    "context": "We meet on Wednesday.",
+    "contextVi": "Chúng tôi gặp nhau vào thứ Tư.",
+    "topic": "time-weather",
+    "pos": "noun"
+  },
+  {
+    "word": "Thursday",
+    "meaning": "thứ Năm",
+    "context": "She arrives on Thursday.",
+    "contextVi": "Cô ấy đến vào thứ Năm.",
+    "topic": "time-weather",
+    "pos": "noun"
+  },
+  {
+    "word": "Friday",
+    "meaning": "thứ Sáu",
+    "context": "The shop closes early on Friday.",
+    "contextVi": "Cửa hàng đóng cửa sớm vào thứ Sáu.",
+    "topic": "time-weather",
+    "pos": "noun"
+  },
+  {
+    "word": "Saturday",
+    "meaning": "thứ Bảy",
+    "context": "We travel on Saturday.",
+    "contextVi": "Chúng tôi đi du lịch vào thứ Bảy.",
+    "topic": "time-weather",
+    "pos": "noun"
+  },
+  {
+    "word": "Sunday",
+    "meaning": "Chủ nhật",
+    "context": "I rest on Sunday.",
+    "contextVi": "Tôi nghỉ ngơi vào Chủ nhật.",
+    "topic": "time-weather",
+    "pos": "noun"
+  },
+  {
+    "word": "January",
+    "meaning": "tháng Một",
+    "context": "The year starts in January.",
+    "contextVi": "Năm bắt đầu vào tháng Một.",
+    "topic": "time-weather",
+    "pos": "noun"
+  },
+  {
+    "word": "February",
+    "meaning": "tháng Hai",
+    "context": "My birthday is in February.",
+    "contextVi": "Sinh nhật của tôi vào tháng Hai.",
+    "topic": "time-weather",
+    "pos": "noun"
+  },
+  {
+    "word": "March",
+    "meaning": "tháng Ba",
+    "context": "The course starts in March.",
+    "contextVi": "Khóa học bắt đầu vào tháng Ba.",
+    "topic": "time-weather",
+    "pos": "noun"
+  },
+  {
+    "word": "April",
+    "meaning": "tháng Tư",
+    "context": "We visit the city in April.",
+    "contextVi": "Chúng tôi thăm thành phố vào tháng Tư.",
+    "topic": "time-weather",
+    "pos": "noun"
+  },
+  {
+    "word": "May",
+    "meaning": "tháng Năm",
+    "context": "She travels in May.",
+    "contextVi": "Cô ấy đi du lịch vào tháng Năm.",
+    "topic": "time-weather",
+    "pos": "noun"
+  },
+  {
+    "word": "June",
+    "meaning": "tháng Sáu",
+    "context": "Our holiday begins in June.",
+    "contextVi": "Kỳ nghỉ của chúng tôi bắt đầu vào tháng Sáu.",
+    "topic": "time-weather",
+    "pos": "noun"
+  },
+  {
+    "word": "July",
+    "meaning": "tháng Bảy",
+    "context": "The weather is hot in July.",
+    "contextVi": "Thời tiết nóng vào tháng Bảy.",
+    "topic": "time-weather",
+    "pos": "noun"
+  },
+  {
+    "word": "August",
+    "meaning": "tháng Tám",
+    "context": "We return in August.",
+    "contextVi": "Chúng tôi trở về vào tháng Tám.",
+    "topic": "time-weather",
+    "pos": "noun"
+  },
+  {
+    "word": "September",
+    "meaning": "tháng Chín",
+    "context": "The new course starts in September.",
+    "contextVi": "Khóa học mới bắt đầu vào tháng Chín.",
+    "topic": "time-weather",
+    "pos": "noun"
+  },
+  {
+    "word": "October",
+    "meaning": "tháng Mười",
+    "context": "The festival is in October.",
+    "contextVi": "Lễ hội diễn ra vào tháng Mười.",
+    "topic": "time-weather",
+    "pos": "noun"
+  },
+  {
+    "word": "November",
+    "meaning": "tháng Mười Một",
+    "context": "It often rains in November.",
+    "contextVi": "Trời thường mưa vào tháng Mười Một.",
+    "topic": "time-weather",
+    "pos": "noun"
+  },
+  {
+    "word": "December",
+    "meaning": "tháng Mười Hai",
+    "context": "The project ends in December.",
+    "contextVi": "Dự án kết thúc vào tháng Mười Hai.",
+    "topic": "time-weather",
+    "pos": "noun"
+  },
+  {
+    "word": "spring",
+    "meaning": "mùa xuân",
+    "context": "Flowers appear in spring.",
+    "contextVi": "Hoa nở vào mùa xuân.",
+    "topic": "time-weather",
+    "pos": "noun"
+  },
+  {
+    "word": "summer",
+    "meaning": "mùa hè",
+    "context": "We swim in summer.",
+    "contextVi": "Chúng tôi bơi vào mùa hè.",
+    "topic": "time-weather",
+    "pos": "noun"
+  },
+  {
+    "word": "autumn",
+    "meaning": "mùa thu",
+    "context": "The leaves change color in autumn.",
+    "contextVi": "Lá đổi màu vào mùa thu.",
+    "topic": "time-weather",
+    "pos": "noun"
+  },
+  {
+    "word": "winter",
+    "meaning": "mùa đông",
+    "context": "Winter is cold here.",
+    "contextVi": "Mùa đông ở đây lạnh.",
+    "topic": "time-weather",
+    "pos": "noun"
+  },
+  {
+    "word": "season",
+    "meaning": "mùa",
+    "context": "This is the rainy season.",
+    "contextVi": "Đây là mùa mưa.",
+    "topic": "time-weather",
+    "pos": "noun"
+  },
+  {
+    "word": "weather",
+    "meaning": "thời tiết",
+    "context": "The weather is nice today.",
+    "contextVi": "Thời tiết hôm nay đẹp.",
+    "topic": "time-weather",
+    "pos": "noun"
+  },
+  {
+    "word": "rain",
+    "meaning": "mưa",
+    "context": "Heavy rain delays our trip.",
+    "contextVi": "Mưa lớn làm chậm chuyến đi của chúng tôi.",
+    "topic": "time-weather",
+    "pos": "noun"
+  },
+  {
+    "word": "snow",
+    "meaning": "tuyết",
+    "context": "Snow covers the mountain.",
+    "contextVi": "Tuyết phủ ngọn núi.",
+    "topic": "time-weather",
+    "pos": "noun"
+  },
+  {
+    "word": "wind",
+    "meaning": "gió",
+    "context": "The wind is strong today.",
+    "contextVi": "Gió hôm nay mạnh.",
+    "topic": "time-weather",
+    "pos": "noun"
+  },
+  {
+    "word": "storm",
+    "meaning": "bão; giông",
+    "context": "A storm is coming tonight.",
+    "contextVi": "Một cơn bão sẽ đến tối nay.",
+    "topic": "time-weather",
+    "pos": "noun"
+  },
+  {
+    "word": "cloud",
+    "meaning": "mây",
+    "context": "A dark cloud covers the sun.",
+    "contextVi": "Một đám mây đen che mặt trời.",
+    "topic": "time-weather",
+    "pos": "noun"
+  },
+  {
+    "word": "sky",
+    "meaning": "bầu trời",
+    "context": "The sky is clear now.",
+    "contextVi": "Bầu trời bây giờ quang đãng.",
+    "topic": "time-weather",
+    "pos": "noun"
+  },
+  {
+    "word": "sun",
+    "meaning": "mặt trời",
+    "context": "The sun is bright today.",
+    "contextVi": "Mặt trời hôm nay sáng rực.",
+    "topic": "time-weather",
+    "pos": "noun"
+  },
+  {
+    "word": "moon",
+    "meaning": "mặt trăng",
+    "context": "The moon is full tonight.",
+    "contextVi": "Mặt trăng tối nay tròn.",
+    "topic": "time-weather",
+    "pos": "noun"
+  },
+  {
+    "word": "star",
+    "meaning": "ngôi sao",
+    "context": "I can see one bright star.",
+    "contextVi": "Tôi có thể nhìn thấy một ngôi sao sáng.",
+    "topic": "time-weather",
+    "pos": "noun"
+  },
+  {
+    "word": "fog",
+    "meaning": "sương mù",
+    "context": "Fog covers the road.",
+    "contextVi": "Sương mù phủ kín con đường.",
+    "topic": "time-weather",
+    "pos": "noun"
+  },
+  {
+    "word": "temperature",
+    "meaning": "nhiệt độ",
+    "context": "The temperature is rising.",
+    "contextVi": "Nhiệt độ đang tăng.",
+    "topic": "time-weather",
+    "pos": "noun"
+  },
+  {
+    "word": "date",
+    "meaning": "ngày tháng",
+    "context": "Please check the date on your ticket.",
+    "contextVi": "Vui lòng kiểm tra ngày tháng trên vé.",
+    "topic": "time-weather",
+    "pos": "noun"
+  },
+  {
+    "word": "calendar",
+    "meaning": "lịch",
+    "context": "Mark the date on your calendar.",
+    "contextVi": "Hãy đánh dấu ngày trên lịch.",
+    "topic": "time-weather",
+    "pos": "noun"
+  },
+  {
+    "word": "past",
+    "meaning": "quá khứ",
+    "context": "We can learn from the past.",
+    "contextVi": "Chúng ta có thể học từ quá khứ.",
+    "topic": "time-weather",
+    "pos": "noun"
+  },
+  {
+    "word": "future",
+    "meaning": "tương lai",
+    "context": "She has plans for the future.",
+    "contextVi": "Cô ấy có kế hoạch cho tương lai.",
+    "topic": "time-weather",
+    "pos": "noun"
+  },
+  {
+    "word": "today",
+    "meaning": "hôm nay",
+    "context": "I am busy today.",
+    "contextVi": "Hôm nay tôi bận.",
+    "topic": "time-weather",
+    "pos": "adverb"
+  },
+  {
+    "word": "tomorrow",
+    "meaning": "ngày mai",
+    "context": "We leave tomorrow.",
+    "contextVi": "Chúng tôi đi vào ngày mai.",
+    "topic": "time-weather",
+    "pos": "adverb"
+  },
+  {
+    "word": "yesterday",
+    "meaning": "hôm qua",
+    "context": "He called me yesterday.",
+    "contextVi": "Anh ấy gọi tôi hôm qua.",
+    "topic": "time-weather",
+    "pos": "adverb"
+  },
+  {
+    "word": "tonight",
+    "meaning": "tối nay",
+    "context": "Are you free tonight?",
+    "contextVi": "Bạn có rảnh tối nay không?",
+    "topic": "time-weather",
+    "pos": "adverb"
+  },
+  {
+    "word": "now",
+    "meaning": "bây giờ",
+    "context": "We need to leave now.",
+    "contextVi": "Chúng ta cần đi ngay bây giờ.",
+    "topic": "time-weather",
+    "pos": "adverb"
+  },
+  {
+    "word": "soon",
+    "meaning": "sớm; chẳng bao lâu",
+    "context": "I will see you soon.",
+    "contextVi": "Tôi sẽ sớm gặp bạn.",
+    "topic": "time-weather",
+    "pos": "adverb"
+  },
+  {
+    "word": "later",
+    "meaning": "sau đó; muộn hơn",
+    "context": "Call me later.",
+    "contextVi": "Hãy gọi cho tôi sau.",
+    "topic": "time-weather",
+    "pos": "adverb"
+  },
+  {
+    "word": "early",
+    "meaning": "sớm",
+    "context": "She arrives early.",
+    "contextVi": "Cô ấy đến sớm.",
+    "topic": "time-weather",
+    "pos": "adverb"
+  },
+  {
+    "word": "late",
+    "meaning": "muộn",
+    "context": "The bus arrives late.",
+    "contextVi": "Xe buýt đến muộn.",
+    "topic": "time-weather",
+    "pos": "adverb"
+  },
+  {
+    "word": "already",
+    "meaning": "đã; rồi",
+    "context": "I have already finished.",
+    "contextVi": "Tôi đã hoàn thành rồi.",
+    "topic": "time-weather",
+    "pos": "adverb"
+  },
+  {
+    "word": "still",
+    "meaning": "vẫn",
+    "context": "He is still at work.",
+    "contextVi": "Anh ấy vẫn đang làm việc.",
+    "topic": "time-weather",
+    "pos": "adverb"
+  },
+  {
+    "word": "yet",
+    "meaning": "chưa",
+    "context": "The train has not arrived yet.",
+    "contextVi": "Tàu vẫn chưa đến.",
+    "topic": "time-weather",
+    "pos": "adverb"
+  },
+  {
+    "word": "sunny",
+    "meaning": "có nắng",
+    "context": "It is sunny today.",
+    "contextVi": "Hôm nay trời có nắng.",
+    "topic": "time-weather",
+    "pos": "adjective"
+  },
+  {
+    "word": "rainy",
+    "meaning": "có mưa",
+    "context": "It is a rainy morning.",
+    "contextVi": "Đó là một buổi sáng có mưa.",
+    "topic": "time-weather",
+    "pos": "adjective"
+  },
+  {
+    "word": "cloudy",
+    "meaning": "nhiều mây",
+    "context": "The sky is cloudy.",
+    "contextVi": "Bầu trời nhiều mây.",
+    "topic": "time-weather",
+    "pos": "adjective"
+  },
+  {
+    "word": "windy",
+    "meaning": "có gió",
+    "context": "It is windy outside.",
+    "contextVi": "Bên ngoài trời có gió.",
+    "topic": "time-weather",
+    "pos": "adjective"
+  },
+  {
+    "word": "hot",
+    "meaning": "nóng",
+    "context": "The room is hot.",
+    "contextVi": "Căn phòng nóng.",
+    "topic": "time-weather",
+    "pos": "adjective"
+  },
+  {
+    "word": "cold",
+    "meaning": "lạnh",
+    "context": "The air is cold tonight.",
+    "contextVi": "Không khí tối nay lạnh.",
+    "topic": "time-weather",
+    "pos": "adjective"
+  },
+  {
+    "word": "warm",
+    "meaning": "ấm",
+    "context": "The weather is warm today.",
+    "contextVi": "Thời tiết hôm nay ấm áp.",
+    "topic": "time-weather",
+    "pos": "adjective"
+  },
+  {
+    "word": "cool",
+    "meaning": "mát",
+    "context": "The evening air is cool.",
+    "contextVi": "Không khí buổi tối mát mẻ.",
+    "topic": "time-weather",
+    "pos": "adjective"
+  },
+  {
+    "word": "wet",
+    "meaning": "ướt",
+    "context": "My shoes are wet.",
+    "contextVi": "Giày của tôi bị ướt.",
+    "topic": "time-weather",
+    "pos": "adjective"
+  },
+  {
+    "word": "dry",
+    "meaning": "khô",
+    "context": "The road is dry now.",
+    "contextVi": "Con đường bây giờ đã khô.",
+    "topic": "time-weather",
+    "pos": "adjective"
+  },
+  {
+    "word": "go",
+    "meaning": "đi",
+    "context": "I go to work by bus.",
+    "contextVi": "Tôi đi làm bằng xe buýt.",
+    "topic": "actions-routines",
+    "pos": "verb"
+  },
+  {
+    "word": "come",
+    "meaning": "đến",
+    "context": "Please come here.",
+    "contextVi": "Vui lòng đến đây.",
+    "topic": "actions-routines",
+    "pos": "verb"
+  },
+  {
+    "word": "get",
+    "meaning": "nhận; lấy",
+    "context": "I get many messages.",
+    "contextVi": "Tôi nhận được nhiều tin nhắn.",
+    "topic": "actions-routines",
+    "pos": "verb"
+  },
+  {
+    "word": "give",
+    "meaning": "cho; đưa",
+    "context": "Give me a minute.",
+    "contextVi": "Hãy cho tôi một phút.",
+    "topic": "actions-routines",
+    "pos": "verb"
+  },
+  {
+    "word": "take",
+    "meaning": "lấy; mang",
+    "context": "Take your passport with you.",
+    "contextVi": "Hãy mang theo hộ chiếu.",
+    "topic": "actions-routines",
+    "pos": "verb"
+  },
+  {
+    "word": "make",
+    "meaning": "làm; tạo ra",
+    "context": "We make a plan together.",
+    "contextVi": "Chúng tôi cùng lập kế hoạch.",
+    "topic": "actions-routines",
+    "pos": "verb"
+  },
+  {
+    "word": "do",
+    "meaning": "làm",
+    "context": "What do you want to do?",
+    "contextVi": "Bạn muốn làm gì?",
+    "topic": "actions-routines",
+    "pos": "verb"
+  },
+  {
+    "word": "have",
+    "meaning": "có",
+    "context": "I have a question.",
+    "contextVi": "Tôi có một câu hỏi.",
+    "topic": "actions-routines",
+    "pos": "verb"
+  },
+  {
+    "word": "be",
+    "meaning": "là; ở; thì",
+    "context": "I want to be a doctor.",
+    "contextVi": "Tôi muốn trở thành bác sĩ.",
+    "topic": "actions-routines",
+    "pos": "verb"
+  },
+  {
+    "word": "use",
+    "meaning": "dùng",
+    "context": "You can use my phone.",
+    "contextVi": "Bạn có thể dùng điện thoại của tôi.",
+    "topic": "actions-routines",
+    "pos": "verb"
+  },
+  {
+    "word": "need",
+    "meaning": "cần",
+    "context": "We need more time.",
+    "contextVi": "Chúng tôi cần thêm thời gian.",
+    "topic": "actions-routines",
+    "pos": "verb"
+  },
+  {
+    "word": "want",
+    "meaning": "muốn",
+    "context": "I want a quiet room.",
+    "contextVi": "Tôi muốn một căn phòng yên tĩnh.",
+    "topic": "actions-routines",
+    "pos": "verb"
+  },
+  {
+    "word": "like",
+    "meaning": "thích",
+    "context": "I like this city.",
+    "contextVi": "Tôi thích thành phố này.",
+    "topic": "actions-routines",
+    "pos": "verb"
+  },
+  {
+    "word": "love",
+    "meaning": "yêu; rất thích",
+    "context": "We love our family.",
+    "contextVi": "Chúng tôi yêu gia đình mình.",
+    "topic": "actions-routines",
+    "pos": "verb"
+  },
+  {
+    "word": "know",
+    "meaning": "biết",
+    "context": "Do you know this place?",
+    "contextVi": "Bạn có biết nơi này không?",
+    "topic": "actions-routines",
+    "pos": "verb"
+  },
+  {
+    "word": "think",
+    "meaning": "nghĩ",
+    "context": "I think the answer is right.",
+    "contextVi": "Tôi nghĩ câu trả lời đúng.",
+    "topic": "actions-routines",
+    "pos": "verb"
+  },
+  {
+    "word": "believe",
+    "meaning": "tin",
+    "context": "I believe you.",
+    "contextVi": "Tôi tin bạn.",
+    "topic": "actions-routines",
+    "pos": "verb"
+  },
+  {
+    "word": "understand",
+    "meaning": "hiểu",
+    "context": "I understand the problem.",
+    "contextVi": "Tôi hiểu vấn đề.",
+    "topic": "actions-routines",
+    "pos": "verb"
+  },
+  {
+    "word": "remember",
+    "meaning": "nhớ",
+    "context": "Remember to save your work.",
+    "contextVi": "Hãy nhớ lưu công việc của bạn.",
+    "topic": "actions-routines",
+    "pos": "verb"
+  },
+  {
+    "word": "forget",
+    "meaning": "quên",
+    "context": "Do not forget your ticket.",
+    "contextVi": "Đừng quên vé của bạn.",
+    "topic": "actions-routines",
+    "pos": "verb"
+  },
+  {
+    "word": "learn",
+    "meaning": "học",
+    "context": "We learn something new every day.",
+    "contextVi": "Chúng tôi học điều mới mỗi ngày.",
+    "topic": "actions-routines",
+    "pos": "verb"
+  },
+  {
+    "word": "try",
+    "meaning": "thử; cố gắng",
+    "context": "Try this route first.",
+    "contextVi": "Hãy thử tuyến đường này trước.",
+    "topic": "actions-routines",
+    "pos": "verb"
+  },
+  {
+    "word": "help",
+    "meaning": "giúp",
+    "context": "Can you help me?",
+    "contextVi": "Bạn có thể giúp tôi không?",
+    "topic": "actions-routines",
+    "pos": "verb"
+  },
+  {
+    "word": "start",
+    "meaning": "bắt đầu",
+    "context": "We start at nine.",
+    "contextVi": "Chúng tôi bắt đầu lúc chín giờ.",
+    "topic": "actions-routines",
+    "pos": "verb"
+  },
+  {
+    "word": "finish",
+    "meaning": "kết thúc; hoàn thành",
+    "context": "I finish work at five.",
+    "contextVi": "Tôi kết thúc công việc lúc năm giờ.",
+    "topic": "actions-routines",
+    "pos": "verb"
+  },
+  {
+    "word": "continue",
+    "meaning": "tiếp tục",
+    "context": "Please continue your story.",
+    "contextVi": "Vui lòng kể tiếp câu chuyện của bạn.",
+    "topic": "actions-routines",
+    "pos": "verb"
+  },
+  {
+    "word": "wait",
+    "meaning": "đợi",
+    "context": "Wait here for me.",
+    "contextVi": "Hãy đợi tôi ở đây.",
+    "topic": "actions-routines",
+    "pos": "verb"
+  },
+  {
+    "word": "leave",
+    "meaning": "rời đi",
+    "context": "We leave before noon.",
+    "contextVi": "Chúng tôi rời đi trước buổi trưa.",
+    "topic": "actions-routines",
+    "pos": "verb"
+  },
+  {
+    "word": "stay",
+    "meaning": "ở lại",
+    "context": "You can stay here tonight.",
+    "contextVi": "Bạn có thể ở đây tối nay.",
+    "topic": "actions-routines",
+    "pos": "verb"
+  },
+  {
+    "word": "return",
+    "meaning": "trở về; trả lại",
+    "context": "I return home at six.",
+    "contextVi": "Tôi trở về nhà lúc sáu giờ.",
+    "topic": "actions-routines",
+    "pos": "verb"
+  },
+  {
+    "word": "move",
+    "meaning": "di chuyển",
+    "context": "Please move a little closer.",
+    "contextVi": "Vui lòng di chuyển lại gần một chút.",
+    "topic": "actions-routines",
+    "pos": "verb"
+  },
+  {
+    "word": "walk",
+    "meaning": "đi bộ",
+    "context": "We walk to the station.",
+    "contextVi": "Chúng tôi đi bộ đến nhà ga.",
+    "topic": "actions-routines",
+    "pos": "verb"
+  },
+  {
+    "word": "run",
+    "meaning": "chạy",
+    "context": "I run in the park.",
+    "contextVi": "Tôi chạy trong công viên.",
+    "topic": "actions-routines",
+    "pos": "verb"
+  },
+  {
+    "word": "ride",
+    "meaning": "đi; cưỡi",
+    "context": "I ride my bicycle every day.",
+    "contextVi": "Tôi đạp xe mỗi ngày.",
+    "topic": "actions-routines",
+    "pos": "verb"
+  },
+  {
+    "word": "drive",
+    "meaning": "lái xe",
+    "context": "Can you drive a car?",
+    "contextVi": "Bạn có biết lái ô tô không?",
+    "topic": "actions-routines",
+    "pos": "verb"
+  },
+  {
+    "word": "fly",
+    "meaning": "bay",
+    "context": "We fly to the island tomorrow.",
+    "contextVi": "Chúng tôi bay đến hòn đảo vào ngày mai.",
+    "topic": "actions-routines",
+    "pos": "verb"
+  },
+  {
+    "word": "swim",
+    "meaning": "bơi",
+    "context": "I swim every weekend.",
+    "contextVi": "Tôi bơi mỗi cuối tuần.",
+    "topic": "actions-routines",
+    "pos": "verb"
+  },
+  {
+    "word": "sit",
+    "meaning": "ngồi",
+    "context": "Please sit next to me.",
+    "contextVi": "Vui lòng ngồi cạnh tôi.",
+    "topic": "actions-routines",
+    "pos": "verb"
+  },
+  {
+    "word": "stand",
+    "meaning": "đứng",
+    "context": "Stand near the entrance.",
+    "contextVi": "Hãy đứng gần lối vào.",
+    "topic": "actions-routines",
+    "pos": "verb"
+  },
+  {
+    "word": "sleep",
+    "meaning": "ngủ",
+    "context": "I sleep for eight hours.",
+    "contextVi": "Tôi ngủ tám giờ.",
+    "topic": "actions-routines",
+    "pos": "verb"
+  },
+  {
+    "word": "wake",
+    "meaning": "thức dậy; đánh thức",
+    "context": "I wake at six each morning.",
+    "contextVi": "Tôi thức dậy lúc sáu giờ mỗi sáng.",
+    "topic": "actions-routines",
+    "pos": "verb"
+  },
+  {
+    "word": "rest",
+    "meaning": "nghỉ ngơi",
+    "context": "You need to rest today.",
+    "contextVi": "Bạn cần nghỉ ngơi hôm nay.",
+    "topic": "actions-routines",
+    "pos": "verb"
+  },
+  {
+    "word": "open",
+    "meaning": "mở",
+    "context": "Open the window, please.",
+    "contextVi": "Vui lòng mở cửa sổ.",
+    "topic": "actions-routines",
+    "pos": "verb"
+  },
+  {
+    "word": "close",
+    "meaning": "đóng",
+    "context": "Please close the door.",
+    "contextVi": "Vui lòng đóng cửa.",
+    "topic": "actions-routines",
+    "pos": "verb"
+  },
+  {
+    "word": "turn",
+    "meaning": "rẽ; xoay",
+    "context": "Turn right at the bank.",
+    "contextVi": "Rẽ phải ở ngân hàng.",
+    "topic": "actions-routines",
+    "pos": "verb"
+  },
+  {
+    "word": "push",
+    "meaning": "đẩy",
+    "context": "Push the door gently.",
+    "contextVi": "Hãy đẩy cửa nhẹ nhàng.",
+    "topic": "actions-routines",
+    "pos": "verb"
+  },
+  {
+    "word": "pull",
+    "meaning": "kéo",
+    "context": "Pull the door toward you.",
+    "contextVi": "Hãy kéo cửa về phía bạn.",
+    "topic": "actions-routines",
+    "pos": "verb"
+  },
+  {
+    "word": "lift",
+    "meaning": "nhấc; nâng",
+    "context": "Can you lift this box?",
+    "contextVi": "Bạn có thể nhấc chiếc hộp này không?",
+    "topic": "actions-routines",
+    "pos": "verb"
+  },
+  {
+    "word": "carry",
+    "meaning": "mang; vác",
+    "context": "I can carry your bag.",
+    "contextVi": "Tôi có thể mang túi giúp bạn.",
+    "topic": "actions-routines",
+    "pos": "verb"
+  },
+  {
+    "word": "hold",
+    "meaning": "cầm; giữ",
+    "context": "Hold my hand.",
+    "contextVi": "Hãy nắm tay tôi.",
+    "topic": "actions-routines",
+    "pos": "verb"
+  },
+  {
+    "word": "put",
+    "meaning": "đặt; để",
+    "context": "Put your phone on the desk.",
+    "contextVi": "Hãy đặt điện thoại lên bàn.",
+    "topic": "actions-routines",
+    "pos": "verb"
+  },
+  {
+    "word": "keep",
+    "meaning": "giữ",
+    "context": "Keep your ticket safe.",
+    "contextVi": "Hãy giữ vé của bạn cẩn thận.",
+    "topic": "actions-routines",
+    "pos": "verb"
+  },
+  {
+    "word": "find",
+    "meaning": "tìm thấy",
+    "context": "I cannot find my phone.",
+    "contextVi": "Tôi không tìm thấy điện thoại.",
+    "topic": "actions-routines",
+    "pos": "verb"
+  },
+  {
+    "word": "look",
+    "meaning": "nhìn",
+    "context": "Look at this map.",
+    "contextVi": "Hãy nhìn bản đồ này.",
+    "topic": "actions-routines",
+    "pos": "verb"
+  },
+  {
+    "word": "watch",
+    "meaning": "xem; theo dõi",
+    "context": "We watch the sunset.",
+    "contextVi": "Chúng tôi ngắm hoàng hôn.",
+    "topic": "actions-routines",
+    "pos": "verb"
+  },
+  {
+    "word": "see",
+    "meaning": "thấy",
+    "context": "I can see the station.",
+    "contextVi": "Tôi có thể thấy nhà ga.",
+    "topic": "actions-routines",
+    "pos": "verb"
+  },
+  {
+    "word": "hear",
+    "meaning": "nghe thấy",
+    "context": "Can you hear the music?",
+    "contextVi": "Bạn có nghe thấy nhạc không?",
+    "topic": "actions-routines",
+    "pos": "verb"
+  },
+  {
+    "word": "listen",
+    "meaning": "lắng nghe",
+    "context": "Listen to the message carefully.",
+    "contextVi": "Hãy nghe kỹ tin nhắn.",
+    "topic": "actions-routines",
+    "pos": "verb"
+  },
+  {
+    "word": "feel",
+    "meaning": "cảm thấy",
+    "context": "I feel better today.",
+    "contextVi": "Hôm nay tôi cảm thấy khá hơn.",
+    "topic": "actions-routines",
+    "pos": "verb"
+  },
+  {
+    "word": "show",
+    "meaning": "cho xem",
+    "context": "Show me your ticket.",
+    "contextVi": "Hãy cho tôi xem vé của bạn.",
+    "topic": "actions-routines",
+    "pos": "verb"
+  },
+  {
+    "word": "choose",
+    "meaning": "chọn",
+    "context": "Choose the best answer.",
+    "contextVi": "Hãy chọn câu trả lời tốt nhất.",
+    "topic": "actions-routines",
+    "pos": "verb"
+  },
+  {
+    "word": "buy",
+    "meaning": "mua",
+    "context": "I need to buy a ticket.",
+    "contextVi": "Tôi cần mua một vé.",
+    "topic": "actions-routines",
+    "pos": "verb"
+  },
+  {
+    "word": "sell",
+    "meaning": "bán",
+    "context": "They sell local gifts.",
+    "contextVi": "Họ bán quà lưu niệm địa phương.",
+    "topic": "actions-routines",
+    "pos": "verb"
+  },
+  {
+    "word": "pay",
+    "meaning": "trả tiền",
+    "context": "Can I pay by card?",
+    "contextVi": "Tôi có thể trả bằng thẻ không?",
+    "topic": "actions-routines",
+    "pos": "verb"
+  },
+  {
+    "word": "spend",
+    "meaning": "dành; tiêu",
+    "context": "We spend time together.",
+    "contextVi": "Chúng tôi dành thời gian cho nhau.",
+    "topic": "actions-routines",
+    "pos": "verb"
+  },
+  {
+    "word": "bring",
+    "meaning": "mang đến",
+    "context": "Bring your laptop tomorrow.",
+    "contextVi": "Hãy mang máy tính xách tay đến vào ngày mai.",
+    "topic": "actions-routines",
+    "pos": "verb"
+  },
+  {
+    "word": "send",
+    "meaning": "gửi",
+    "context": "Send me the address.",
+    "contextVi": "Hãy gửi địa chỉ cho tôi.",
+    "topic": "actions-routines",
+    "pos": "verb"
+  },
+  {
+    "word": "receive",
+    "meaning": "nhận",
+    "context": "I receive a report every week.",
+    "contextVi": "Tôi nhận một báo cáo mỗi tuần.",
+    "topic": "actions-routines",
+    "pos": "verb"
+  },
+  {
+    "word": "meet",
+    "meaning": "gặp",
+    "context": "We meet at the station.",
+    "contextVi": "Chúng tôi gặp nhau ở nhà ga.",
+    "topic": "actions-routines",
+    "pos": "verb"
+  },
+  {
+    "word": "live",
+    "meaning": "sống",
+    "context": "I live near the park.",
+    "contextVi": "Tôi sống gần công viên.",
+    "topic": "actions-routines",
+    "pos": "verb"
+  },
+  {
+    "word": "happy",
+    "meaning": "vui; hạnh phúc",
+    "context": "I am happy to see you.",
+    "contextVi": "Tôi vui khi gặp bạn.",
+    "topic": "feelings-character",
+    "pos": "adjective"
+  },
+  {
+    "word": "sad",
+    "meaning": "buồn",
+    "context": "She feels sad today.",
+    "contextVi": "Hôm nay cô ấy cảm thấy buồn.",
+    "topic": "feelings-character",
+    "pos": "adjective"
+  },
+  {
+    "word": "angry",
+    "meaning": "tức giận",
+    "context": "He is angry about the delay.",
+    "contextVi": "Anh ấy tức giận vì sự chậm trễ.",
+    "topic": "feelings-character",
+    "pos": "adjective"
+  },
+  {
+    "word": "afraid",
+    "meaning": "sợ",
+    "context": "I am afraid of the dark.",
+    "contextVi": "Tôi sợ bóng tối.",
+    "topic": "feelings-character",
+    "pos": "adjective"
+  },
+  {
+    "word": "scared",
+    "meaning": "sợ hãi",
+    "context": "The child looks scared.",
+    "contextVi": "Đứa trẻ trông có vẻ sợ hãi.",
+    "topic": "feelings-character",
+    "pos": "adjective"
+  },
+  {
+    "word": "worried",
+    "meaning": "lo lắng",
+    "context": "She is worried about her test.",
+    "contextVi": "Cô ấy lo lắng về bài kiểm tra.",
+    "topic": "feelings-character",
+    "pos": "adjective"
+  },
+  {
+    "word": "nervous",
+    "meaning": "hồi hộp; lo lắng",
+    "context": "I feel nervous before an interview.",
+    "contextVi": "Tôi cảm thấy hồi hộp trước buổi phỏng vấn.",
+    "topic": "feelings-character",
+    "pos": "adjective"
+  },
+  {
+    "word": "excited",
+    "meaning": "hào hứng",
+    "context": "We are excited about the trip.",
+    "contextVi": "Chúng tôi hào hứng về chuyến đi.",
+    "topic": "feelings-character",
+    "pos": "adjective"
+  },
+  {
+    "word": "surprised",
+    "meaning": "ngạc nhiên",
+    "context": "I am surprised by the news.",
+    "contextVi": "Tôi ngạc nhiên trước tin này.",
+    "topic": "feelings-character",
+    "pos": "adjective"
+  },
+  {
+    "word": "tired",
+    "meaning": "mệt",
+    "context": "He looks tired after work.",
+    "contextVi": "Anh ấy trông mệt sau giờ làm.",
+    "topic": "feelings-character",
+    "pos": "adjective"
+  },
+  {
+    "word": "bored",
+    "meaning": "chán",
+    "context": "I am bored with this game.",
+    "contextVi": "Tôi chán trò chơi này.",
+    "topic": "feelings-character",
+    "pos": "adjective"
+  },
+  {
+    "word": "lonely",
+    "meaning": "cô đơn",
+    "context": "She feels lonely in the new city.",
+    "contextVi": "Cô ấy cảm thấy cô đơn ở thành phố mới.",
+    "topic": "feelings-character",
+    "pos": "adjective"
+  },
+  {
+    "word": "calm",
+    "meaning": "bình tĩnh",
+    "context": "Stay calm and listen.",
+    "contextVi": "Hãy bình tĩnh và lắng nghe.",
+    "topic": "feelings-character",
+    "pos": "adjective"
+  },
+  {
+    "word": "proud",
+    "meaning": "tự hào",
+    "context": "We are proud of our team.",
+    "contextVi": "Chúng tôi tự hào về nhóm của mình.",
+    "topic": "feelings-character",
+    "pos": "adjective"
+  },
+  {
+    "word": "confident",
+    "meaning": "tự tin",
+    "context": "She is confident about her answer.",
+    "contextVi": "Cô ấy tự tin về câu trả lời.",
+    "topic": "feelings-character",
+    "pos": "adjective"
+  },
+  {
+    "word": "shy",
+    "meaning": "nhút nhát",
+    "context": "He is shy around new people.",
+    "contextVi": "Anh ấy nhút nhát khi ở cạnh người mới.",
+    "topic": "feelings-character",
+    "pos": "adjective"
+  },
+  {
+    "word": "kind",
+    "meaning": "tốt bụng",
+    "context": "Your neighbor is very kind.",
+    "contextVi": "Hàng xóm của bạn rất tốt bụng.",
+    "topic": "feelings-character",
+    "pos": "adjective"
+  },
+  {
+    "word": "friendly",
+    "meaning": "thân thiện",
+    "context": "The staff are friendly.",
+    "contextVi": "Nhân viên rất thân thiện.",
+    "topic": "feelings-character",
+    "pos": "adjective"
+  },
+  {
+    "word": "polite",
+    "meaning": "lịch sự",
+    "context": "He is always polite to customers.",
+    "contextVi": "Anh ấy luôn lịch sự với khách hàng.",
+    "topic": "feelings-character",
+    "pos": "adjective"
+  },
+  {
+    "word": "rude",
+    "meaning": "thô lỗ",
+    "context": "That comment was rude.",
+    "contextVi": "Lời nhận xét đó thô lỗ.",
+    "topic": "feelings-character",
+    "pos": "adjective"
+  },
+  {
+    "word": "honest",
+    "meaning": "trung thực",
+    "context": "Please be honest with me.",
+    "contextVi": "Hãy trung thực với tôi.",
+    "topic": "feelings-character",
+    "pos": "adjective"
+  },
+  {
+    "word": "patient",
+    "meaning": "kiên nhẫn",
+    "context": "Our guide is very patient.",
+    "contextVi": "Hướng dẫn viên của chúng tôi rất kiên nhẫn.",
+    "topic": "feelings-character",
+    "pos": "adjective"
+  },
+  {
+    "word": "lazy",
+    "meaning": "lười biếng",
+    "context": "I feel lazy on rainy days.",
+    "contextVi": "Tôi thấy lười vào những ngày mưa.",
+    "topic": "feelings-character",
+    "pos": "adjective"
+  },
+  {
+    "word": "busy",
+    "meaning": "bận rộn",
+    "context": "I am busy this morning.",
+    "contextVi": "Sáng nay tôi bận.",
+    "topic": "feelings-character",
+    "pos": "adjective"
+  },
+  {
+    "word": "clever",
+    "meaning": "thông minh; lanh lợi",
+    "context": "She has a clever solution.",
+    "contextVi": "Cô ấy có một giải pháp thông minh.",
+    "topic": "feelings-character",
+    "pos": "adjective"
+  },
+  {
+    "word": "smart",
+    "meaning": "thông minh",
+    "context": "That is a smart choice.",
+    "contextVi": "Đó là một lựa chọn thông minh.",
+    "topic": "feelings-character",
+    "pos": "adjective"
+  },
+  {
+    "word": "brave",
+    "meaning": "dũng cảm",
+    "context": "The rescue team is brave.",
+    "contextVi": "Đội cứu hộ rất dũng cảm.",
+    "topic": "feelings-character",
+    "pos": "adjective"
+  },
+  {
+    "word": "careful",
+    "meaning": "cẩn thận",
+    "context": "Be careful on this road.",
+    "contextVi": "Hãy cẩn thận trên con đường này.",
+    "topic": "feelings-character",
+    "pos": "adjective"
+  },
+  {
+    "word": "careless",
+    "meaning": "bất cẩn",
+    "context": "A careless mistake caused the problem.",
+    "contextVi": "Một sai sót bất cẩn gây ra vấn đề.",
+    "topic": "feelings-character",
+    "pos": "adjective"
+  },
+  {
+    "word": "quiet",
+    "meaning": "yên tĩnh; ít nói",
+    "context": "He is a quiet person.",
+    "contextVi": "Anh ấy là người ít nói.",
+    "topic": "feelings-character",
+    "pos": "adjective"
+  },
+  {
+    "word": "serious",
+    "meaning": "nghiêm túc; nghiêm trọng",
+    "context": "This is a serious problem.",
+    "contextVi": "Đây là một vấn đề nghiêm trọng.",
+    "topic": "feelings-character",
+    "pos": "adjective"
+  },
+  {
+    "word": "funny",
+    "meaning": "buồn cười; hài hước",
+    "context": "Your story is funny.",
+    "contextVi": "Câu chuyện của bạn rất buồn cười.",
+    "topic": "feelings-character",
+    "pos": "adjective"
+  },
+  {
+    "word": "helpful",
+    "meaning": "hay giúp đỡ; hữu ích",
+    "context": "The hotel staff are helpful.",
+    "contextVi": "Nhân viên khách sạn rất hay giúp đỡ.",
+    "topic": "feelings-character",
+    "pos": "adjective"
+  },
+  {
+    "word": "generous",
+    "meaning": "hào phóng",
+    "context": "She is generous with her time.",
+    "contextVi": "Cô ấy sẵn lòng dành nhiều thời gian giúp người khác.",
+    "topic": "feelings-character",
+    "pos": "adjective"
+  },
+  {
+    "word": "selfish",
+    "meaning": "ích kỷ",
+    "context": "That was a selfish decision.",
+    "contextVi": "Đó là một quyết định ích kỷ.",
+    "topic": "feelings-character",
+    "pos": "adjective"
+  },
+  {
+    "word": "strong",
+    "meaning": "mạnh mẽ; khỏe",
+    "context": "She stays strong during hard times.",
+    "contextVi": "Cô ấy luôn mạnh mẽ trong những lúc khó khăn.",
+    "topic": "feelings-character",
+    "pos": "adjective"
+  },
+  {
+    "word": "weak",
+    "meaning": "yếu",
+    "context": "I feel weak after the illness.",
+    "contextVi": "Tôi thấy yếu sau trận ốm.",
+    "topic": "feelings-character",
+    "pos": "adjective"
+  },
+  {
+    "word": "healthy",
+    "meaning": "khỏe mạnh",
+    "context": "He is healthy and active.",
+    "contextVi": "Anh ấy khỏe mạnh và năng động.",
+    "topic": "feelings-character",
+    "pos": "adjective"
+  },
+  {
+    "word": "sick",
+    "meaning": "ốm; bệnh",
+    "context": "She is sick today.",
+    "contextVi": "Hôm nay cô ấy bị ốm.",
+    "topic": "feelings-character",
+    "pos": "adjective"
+  },
+  {
+    "word": "safe",
+    "meaning": "an toàn",
+    "context": "You are safe here.",
+    "contextVi": "Bạn an toàn ở đây.",
+    "topic": "feelings-character",
+    "pos": "adjective"
+  },
+  {
+    "word": "dangerous",
+    "meaning": "nguy hiểm",
+    "context": "This road is dangerous at night.",
+    "contextVi": "Con đường này nguy hiểm vào ban đêm.",
+    "topic": "feelings-character",
+    "pos": "adjective"
+  },
+  {
+    "word": "comfortable",
+    "meaning": "thoải mái",
+    "context": "This seat is comfortable.",
+    "contextVi": "Chỗ ngồi này thoải mái.",
+    "topic": "feelings-character",
+    "pos": "adjective"
+  },
+  {
+    "word": "uncomfortable",
+    "meaning": "không thoải mái",
+    "context": "I feel uncomfortable in this chair.",
+    "contextVi": "Tôi thấy không thoải mái trên chiếc ghế này.",
+    "topic": "feelings-character",
+    "pos": "adjective"
+  },
+  {
+    "word": "curious",
+    "meaning": "tò mò",
+    "context": "I am curious about your project.",
+    "contextVi": "Tôi tò mò về dự án của bạn.",
+    "topic": "feelings-character",
+    "pos": "adjective"
+  },
+  {
+    "word": "creative",
+    "meaning": "sáng tạo",
+    "context": "Our team has creative ideas.",
+    "contextVi": "Nhóm của chúng tôi có những ý tưởng sáng tạo.",
+    "topic": "feelings-character",
+    "pos": "adjective"
+  },
+  {
+    "word": "responsible",
+    "meaning": "có trách nhiệm",
+    "context": "She is a responsible manager.",
+    "contextVi": "Cô ấy là một người quản lý có trách nhiệm.",
+    "topic": "feelings-character",
+    "pos": "adjective"
+  },
+  {
+    "word": "reliable",
+    "meaning": "đáng tin cậy",
+    "context": "He is a reliable colleague.",
+    "contextVi": "Anh ấy là một đồng nghiệp đáng tin cậy.",
+    "topic": "feelings-character",
+    "pos": "adjective"
+  },
+  {
+    "word": "fair",
+    "meaning": "công bằng",
+    "context": "The rules are fair.",
+    "contextVi": "Các quy tắc công bằng.",
+    "topic": "feelings-character",
+    "pos": "adjective"
+  },
+  {
+    "word": "unfair",
+    "meaning": "không công bằng",
+    "context": "This price seems unfair.",
+    "contextVi": "Giá này có vẻ không công bằng.",
+    "topic": "feelings-character",
+    "pos": "adjective"
+  },
+  {
+    "word": "grateful",
+    "meaning": "biết ơn",
+    "context": "I am grateful for your help.",
+    "contextVi": "Tôi biết ơn sự giúp đỡ của bạn.",
+    "topic": "feelings-character",
+    "pos": "adjective"
+  },
+  {
+    "word": "hopeful",
+    "meaning": "đầy hy vọng",
+    "context": "We remain hopeful about the future.",
+    "contextVi": "Chúng tôi vẫn đầy hy vọng về tương lai.",
+    "topic": "feelings-character",
+    "pos": "adjective"
+  },
+  {
+    "word": "disappointed",
+    "meaning": "thất vọng",
+    "context": "I am disappointed with the result.",
+    "contextVi": "Tôi thất vọng về kết quả.",
+    "topic": "feelings-character",
+    "pos": "adjective"
+  },
+  {
+    "word": "confused",
+    "meaning": "bối rối",
+    "context": "She looks confused by the directions.",
+    "contextVi": "Cô ấy có vẻ bối rối vì lời chỉ đường.",
+    "topic": "feelings-character",
+    "pos": "adjective"
+  },
+  {
+    "word": "relaxed",
+    "meaning": "thư giãn; thoải mái",
+    "context": "I feel relaxed after the walk.",
+    "contextVi": "Tôi thấy thư giãn sau khi đi bộ.",
+    "topic": "feelings-character",
+    "pos": "adjective"
+  },
+  {
+    "word": "upset",
+    "meaning": "buồn bực",
+    "context": "He is upset about the mistake.",
+    "contextVi": "Anh ấy buồn bực vì sai sót.",
+    "topic": "feelings-character",
+    "pos": "adjective"
+  },
+  {
+    "word": "jealous",
+    "meaning": "ghen; ghen tị",
+    "context": "She is jealous of his success.",
+    "contextVi": "Cô ấy ghen tị với thành công của anh ấy.",
+    "topic": "feelings-character",
+    "pos": "adjective"
+  },
+  {
+    "word": "positive",
+    "meaning": "tích cực",
+    "context": "Try to stay positive.",
+    "contextVi": "Hãy cố giữ thái độ tích cực.",
+    "topic": "feelings-character",
+    "pos": "adjective"
+  },
+  {
+    "word": "negative",
+    "meaning": "tiêu cực",
+    "context": "Avoid negative comments.",
+    "contextVi": "Hãy tránh những lời nhận xét tiêu cực.",
+    "topic": "feelings-character",
+    "pos": "adjective"
+  },
+  {
+    "word": "feeling",
+    "meaning": "cảm giác",
+    "context": "I have a good feeling about this.",
+    "contextVi": "Tôi có cảm giác tốt về điều này.",
+    "topic": "feelings-character",
+    "pos": "noun"
+  },
+  {
+    "word": "emotion",
+    "meaning": "cảm xúc",
+    "context": "Music can express emotion.",
+    "contextVi": "Âm nhạc có thể thể hiện cảm xúc.",
+    "topic": "feelings-character",
+    "pos": "noun"
+  },
+  {
+    "word": "fear",
+    "meaning": "nỗi sợ",
+    "context": "Her fear slowly disappears.",
+    "contextVi": "Nỗi sợ của cô ấy dần biến mất.",
+    "topic": "feelings-character",
+    "pos": "noun"
+  },
+  {
+    "word": "hope",
+    "meaning": "hy vọng",
+    "context": "There is still hope.",
+    "contextVi": "Vẫn còn hy vọng.",
+    "topic": "feelings-character",
+    "pos": "noun"
+  },
+  {
+    "word": "joy",
+    "meaning": "niềm vui",
+    "context": "His visit brings us joy.",
+    "contextVi": "Chuyến thăm của anh ấy mang đến niềm vui cho chúng tôi.",
+    "topic": "feelings-character",
+    "pos": "noun"
+  },
+  {
+    "word": "stress",
+    "meaning": "căng thẳng",
+    "context": "Exercise helps reduce stress.",
+    "contextVi": "Tập thể dục giúp giảm căng thẳng.",
+    "topic": "feelings-character",
+    "pos": "noun"
+  },
+  {
+    "word": "confidence",
+    "meaning": "sự tự tin",
+    "context": "Practice builds confidence.",
+    "contextVi": "Luyện tập tạo sự tự tin.",
+    "topic": "feelings-character",
+    "pos": "noun"
+  },
+  {
+    "word": "courage",
+    "meaning": "lòng can đảm",
+    "context": "It takes courage to ask for help.",
+    "contextVi": "Cần có lòng can đảm để nhờ giúp đỡ.",
+    "topic": "feelings-character",
+    "pos": "noun"
+  },
+  {
+    "word": "patience",
+    "meaning": "sự kiên nhẫn",
+    "context": "Learning takes patience.",
+    "contextVi": "Việc học cần sự kiên nhẫn.",
+    "topic": "feelings-character",
+    "pos": "noun"
+  },
+  {
+    "word": "trust",
+    "meaning": "sự tin tưởng",
+    "context": "Trust is important in a team.",
+    "contextVi": "Sự tin tưởng rất quan trọng trong một nhóm.",
+    "topic": "feelings-character",
+    "pos": "noun"
+  },
+  {
+    "word": "respect",
+    "meaning": "sự tôn trọng",
+    "context": "Everyone deserves respect.",
+    "contextVi": "Mọi người đều xứng đáng được tôn trọng.",
+    "topic": "feelings-character",
+    "pos": "noun"
+  },
+  {
+    "word": "attitude",
+    "meaning": "thái độ",
+    "context": "A good attitude helps at work.",
+    "contextVi": "Một thái độ tốt giúp ích trong công việc.",
+    "topic": "feelings-character",
+    "pos": "noun"
+  },
+  {
+    "word": "character",
+    "meaning": "tính cách",
+    "context": "Her character is warm and honest.",
+    "contextVi": "Cô ấy có tính cách ấm áp và trung thực.",
+    "topic": "feelings-character",
+    "pos": "noun"
+  },
+  {
+    "word": "say",
+    "meaning": "nói",
+    "context": "What did you say?",
+    "contextVi": "Bạn đã nói gì?",
+    "topic": "communication",
+    "pos": "verb"
+  },
+  {
+    "word": "tell",
+    "meaning": "nói; kể",
+    "context": "Tell me about your day.",
+    "contextVi": "Hãy kể cho tôi về ngày của bạn.",
+    "topic": "communication",
+    "pos": "verb"
+  },
+  {
+    "word": "speak",
+    "meaning": "nói",
+    "context": "Can you speak more slowly?",
+    "contextVi": "Bạn có thể nói chậm hơn không?",
+    "topic": "communication",
+    "pos": "verb"
+  },
+  {
+    "word": "talk",
+    "meaning": "nói chuyện",
+    "context": "We talk after work.",
+    "contextVi": "Chúng tôi nói chuyện sau giờ làm.",
+    "topic": "communication",
+    "pos": "verb"
+  },
+  {
+    "word": "ask",
+    "meaning": "hỏi",
+    "context": "Ask me a question.",
+    "contextVi": "Hãy hỏi tôi một câu.",
+    "topic": "communication",
+    "pos": "verb"
+  },
+  {
+    "word": "answer",
+    "meaning": "trả lời",
+    "context": "Please answer my question.",
+    "contextVi": "Vui lòng trả lời câu hỏi của tôi.",
+    "topic": "communication",
+    "pos": "verb"
+  },
+  {
+    "word": "reply",
+    "meaning": "đáp lại; trả lời",
+    "context": "Please reply to my email.",
+    "contextVi": "Vui lòng trả lời thư của tôi.",
+    "topic": "communication",
+    "pos": "verb"
+  },
+  {
+    "word": "explain",
+    "meaning": "giải thích",
+    "context": "Can you explain this rule?",
+    "contextVi": "Bạn có thể giải thích quy tắc này không?",
+    "topic": "communication",
+    "pos": "verb"
+  },
+  {
+    "word": "describe",
+    "meaning": "mô tả",
+    "context": "Describe the place you visited.",
+    "contextVi": "Hãy mô tả nơi bạn đã đến.",
+    "topic": "communication",
+    "pos": "verb"
+  },
+  {
+    "word": "discuss",
+    "meaning": "thảo luận",
+    "context": "We need to discuss the plan.",
+    "contextVi": "Chúng ta cần thảo luận kế hoạch.",
+    "topic": "communication",
+    "pos": "verb"
+  },
+  {
+    "word": "agree",
+    "meaning": "đồng ý",
+    "context": "I agree with your idea.",
+    "contextVi": "Tôi đồng ý với ý tưởng của bạn.",
+    "topic": "communication",
+    "pos": "verb"
+  },
+  {
+    "word": "disagree",
+    "meaning": "không đồng ý",
+    "context": "It is fine to disagree politely.",
+    "contextVi": "Không sao nếu bạn bất đồng một cách lịch sự.",
+    "topic": "communication",
+    "pos": "verb"
+  },
+  {
+    "word": "suggest",
+    "meaning": "đề xuất",
+    "context": "I suggest a shorter route.",
+    "contextVi": "Tôi đề xuất một tuyến đường ngắn hơn.",
+    "topic": "communication",
+    "pos": "verb"
+  },
+  {
+    "word": "offer",
+    "meaning": "đề nghị; cung cấp",
+    "context": "Can I offer you some help?",
+    "contextVi": "Tôi có thể giúp gì cho bạn không?",
+    "topic": "communication",
+    "pos": "verb"
+  },
+  {
+    "word": "invite",
+    "meaning": "mời",
+    "context": "I want to invite you to dinner.",
+    "contextVi": "Tôi muốn mời bạn ăn tối.",
+    "topic": "communication",
+    "pos": "verb"
+  },
+  {
+    "word": "accept",
+    "meaning": "chấp nhận",
+    "context": "I accept your invitation.",
+    "contextVi": "Tôi nhận lời mời của bạn.",
+    "topic": "communication",
+    "pos": "verb"
+  },
+  {
+    "word": "refuse",
+    "meaning": "từ chối",
+    "context": "You can refuse politely.",
+    "contextVi": "Bạn có thể từ chối một cách lịch sự.",
+    "topic": "communication",
+    "pos": "verb"
+  },
+  {
+    "word": "promise",
+    "meaning": "hứa",
+    "context": "I promise to call you.",
+    "contextVi": "Tôi hứa sẽ gọi cho bạn.",
+    "topic": "communication",
+    "pos": "verb"
+  },
+  {
+    "word": "apologize",
+    "meaning": "xin lỗi",
+    "context": "I apologize for the delay.",
+    "contextVi": "Tôi xin lỗi vì sự chậm trễ.",
+    "topic": "communication",
+    "pos": "verb"
+  },
+  {
+    "word": "thank",
+    "meaning": "cảm ơn",
+    "context": "I want to thank you.",
+    "contextVi": "Tôi muốn cảm ơn bạn.",
+    "topic": "communication",
+    "pos": "verb"
+  },
+  {
+    "word": "welcome",
+    "meaning": "chào đón",
+    "context": "We welcome new members.",
+    "contextVi": "Chúng tôi chào đón thành viên mới.",
+    "topic": "communication",
+    "pos": "verb"
+  },
+  {
+    "word": "introduce",
+    "meaning": "giới thiệu",
+    "context": "Let me introduce my colleague.",
+    "contextVi": "Để tôi giới thiệu đồng nghiệp của mình.",
+    "topic": "communication",
+    "pos": "verb"
+  },
+  {
+    "word": "greet",
+    "meaning": "chào",
+    "context": "We greet each visitor warmly.",
+    "contextVi": "Chúng tôi chào đón từng khách đến một cách niềm nở.",
+    "topic": "communication",
+    "pos": "verb"
+  },
+  {
+    "word": "call",
+    "meaning": "gọi",
+    "context": "Call me when you arrive.",
+    "contextVi": "Hãy gọi tôi khi bạn đến.",
+    "topic": "communication",
+    "pos": "verb"
+  },
+  {
+    "word": "contact",
+    "meaning": "liên hệ",
+    "context": "You can contact us by email.",
+    "contextVi": "Bạn có thể liên hệ với chúng tôi qua thư điện tử.",
+    "topic": "communication",
+    "pos": "verb"
+  },
+  {
+    "word": "share",
+    "meaning": "chia sẻ",
+    "context": "Share your ideas with the team.",
+    "contextVi": "Hãy chia sẻ ý tưởng với nhóm.",
+    "topic": "communication",
+    "pos": "verb"
+  },
+  {
+    "word": "repeat",
+    "meaning": "lặp lại",
+    "context": "Can you repeat the address?",
+    "contextVi": "Bạn có thể nhắc lại địa chỉ không?",
+    "topic": "communication",
+    "pos": "verb"
+  },
+  {
+    "word": "pronounce",
+    "meaning": "phát âm",
+    "context": "How do you pronounce this word?",
+    "contextVi": "Bạn phát âm từ này như thế nào?",
+    "topic": "communication",
+    "pos": "verb"
+  },
+  {
+    "word": "spell",
+    "meaning": "đánh vần",
+    "context": "Please spell your name.",
+    "contextVi": "Vui lòng đánh vần tên của bạn.",
+    "topic": "communication",
+    "pos": "verb"
+  },
+  {
+    "word": "translate",
+    "meaning": "dịch",
+    "context": "Can you translate this sentence?",
+    "contextVi": "Bạn có thể dịch câu này không?",
+    "topic": "communication",
+    "pos": "verb"
+  },
+  {
+    "word": "read",
+    "meaning": "đọc",
+    "context": "Read the message carefully.",
+    "contextVi": "Hãy đọc kỹ tin nhắn.",
+    "topic": "communication",
+    "pos": "verb"
+  },
+  {
+    "word": "write",
+    "meaning": "viết",
+    "context": "Write a short reply.",
+    "contextVi": "Hãy viết một lời hồi đáp ngắn.",
+    "topic": "communication",
+    "pos": "verb"
+  },
+  {
+    "word": "mean",
+    "meaning": "có nghĩa là",
+    "context": "What does this word mean?",
+    "contextVi": "Từ này có nghĩa là gì?",
+    "topic": "communication",
+    "pos": "verb"
+  },
+  {
+    "word": "mention",
+    "meaning": "đề cập",
+    "context": "Please mention the date in your email.",
+    "contextVi": "Vui lòng đề cập ngày tháng trong thư.",
+    "topic": "communication",
+    "pos": "verb"
+  },
+  {
+    "word": "notice",
+    "meaning": "nhận thấy",
+    "context": "Did you notice the new sign?",
+    "contextVi": "Bạn có nhận thấy biển báo mới không?",
+    "topic": "communication",
+    "pos": "verb"
+  },
+  {
+    "word": "warn",
+    "meaning": "cảnh báo",
+    "context": "Please warn me about any delays.",
+    "contextVi": "Vui lòng báo trước cho tôi nếu có chậm trễ.",
+    "topic": "communication",
+    "pos": "verb"
+  },
+  {
+    "word": "advise",
+    "meaning": "khuyên",
+    "context": "I advise you to book early.",
+    "contextVi": "Tôi khuyên bạn nên đặt chỗ sớm.",
+    "topic": "communication",
+    "pos": "verb"
+  },
+  {
+    "word": "recommend",
+    "meaning": "giới thiệu; khuyên dùng",
+    "context": "Can you recommend a hotel?",
+    "contextVi": "Bạn có thể giới thiệu một khách sạn không?",
+    "topic": "communication",
+    "pos": "verb"
+  },
+  {
+    "word": "complain",
+    "meaning": "phàn nàn",
+    "context": "Customers sometimes complain about delays.",
+    "contextVi": "Khách hàng đôi khi phàn nàn về sự chậm trễ.",
+    "topic": "communication",
+    "pos": "verb"
+  },
+  {
+    "word": "confirm",
+    "meaning": "xác nhận",
+    "context": "Please confirm your reservation.",
+    "contextVi": "Vui lòng xác nhận đặt chỗ của bạn.",
+    "topic": "communication",
+    "pos": "verb"
+  },
+  {
+    "word": "check",
+    "meaning": "kiểm tra",
+    "context": "Check the details before you send it.",
+    "contextVi": "Hãy kiểm tra thông tin trước khi gửi.",
+    "topic": "communication",
+    "pos": "verb"
+  },
+  {
+    "word": "word",
+    "meaning": "từ",
+    "context": "I learn one new word each day.",
+    "contextVi": "Tôi học một từ mới mỗi ngày.",
+    "topic": "communication",
+    "pos": "noun"
+  },
+  {
+    "word": "sentence",
+    "meaning": "câu",
+    "context": "This sentence is easy to understand.",
+    "contextVi": "Câu này dễ hiểu.",
+    "topic": "communication",
+    "pos": "noun"
+  },
+  {
+    "word": "conversation",
+    "meaning": "cuộc trò chuyện",
+    "context": "Our conversation lasts ten minutes.",
+    "contextVi": "Cuộc trò chuyện của chúng tôi kéo dài mười phút.",
+    "topic": "communication",
+    "pos": "noun"
+  },
+  {
+    "word": "question",
+    "meaning": "câu hỏi",
+    "context": "I have a simple question.",
+    "contextVi": "Tôi có một câu hỏi đơn giản.",
+    "topic": "communication",
+    "pos": "noun"
+  },
+  {
+    "word": "language",
+    "meaning": "ngôn ngữ",
+    "context": "English is a useful language.",
+    "contextVi": "Tiếng Anh là một ngôn ngữ hữu ích.",
+    "topic": "communication",
+    "pos": "noun"
+  },
+  {
+    "word": "voice",
+    "meaning": "giọng nói",
+    "context": "Her voice is clear.",
+    "contextVi": "Giọng của cô ấy rõ ràng.",
+    "topic": "communication",
+    "pos": "noun"
+  },
+  {
+    "word": "sound",
+    "meaning": "âm thanh",
+    "context": "I hear a strange sound.",
+    "contextVi": "Tôi nghe thấy một âm thanh lạ.",
+    "topic": "communication",
+    "pos": "noun"
+  },
+  {
+    "word": "accent",
+    "meaning": "giọng; cách phát âm đặc trưng",
+    "context": "I like your accent.",
+    "contextVi": "Tôi thích giọng nói của bạn.",
+    "topic": "communication",
+    "pos": "noun"
+  },
+  {
+    "word": "meaning",
+    "meaning": "nghĩa",
+    "context": "The meaning is clear from the sentence.",
+    "contextVi": "Nghĩa đã rõ qua câu.",
+    "topic": "communication",
+    "pos": "noun"
+  },
+  {
+    "word": "idea",
+    "meaning": "ý tưởng",
+    "context": "That is a useful idea.",
+    "contextVi": "Đó là một ý tưởng hữu ích.",
+    "topic": "communication",
+    "pos": "noun"
+  },
+  {
+    "word": "opinion",
+    "meaning": "ý kiến",
+    "context": "What is your opinion?",
+    "contextVi": "Ý kiến của bạn là gì?",
+    "topic": "communication",
+    "pos": "noun"
+  },
+  {
+    "word": "information",
+    "meaning": "thông tin",
+    "context": "We need more information.",
+    "contextVi": "Chúng tôi cần thêm thông tin.",
+    "topic": "communication",
+    "pos": "noun"
+  },
+  {
+    "word": "news",
+    "meaning": "tin tức",
+    "context": "Have you heard the news?",
+    "contextVi": "Bạn đã nghe tin chưa?",
+    "topic": "communication",
+    "pos": "noun"
+  },
+  {
+    "word": "story",
+    "meaning": "câu chuyện",
+    "context": "Tell us a short story.",
+    "contextVi": "Hãy kể cho chúng tôi một câu chuyện ngắn.",
+    "topic": "communication",
+    "pos": "noun"
+  },
+  {
+    "word": "letter",
+    "meaning": "thư",
+    "context": "She writes a letter to her friend.",
+    "contextVi": "Cô ấy viết thư cho bạn.",
+    "topic": "communication",
+    "pos": "noun"
+  },
+  {
+    "word": "note",
+    "meaning": "ghi chú",
+    "context": "Leave a note on my desk.",
+    "contextVi": "Hãy để một ghi chú trên bàn tôi.",
+    "topic": "communication",
+    "pos": "noun"
+  },
+  {
+    "word": "text",
+    "meaning": "văn bản; tin nhắn",
+    "context": "This text is easy to read.",
+    "contextVi": "Văn bản này dễ đọc.",
+    "topic": "communication",
+    "pos": "noun"
+  },
+  {
+    "word": "advice",
+    "meaning": "lời khuyên",
+    "context": "Thank you for your advice.",
+    "contextVi": "Cảm ơn lời khuyên của bạn.",
+    "topic": "communication",
+    "pos": "noun"
+  },
+  {
+    "word": "reason",
+    "meaning": "lý do",
+    "context": "What is the reason for the delay?",
+    "contextVi": "Lý do chậm trễ là gì?",
+    "topic": "communication",
+    "pos": "noun"
+  },
+  {
+    "word": "example",
+    "meaning": "ví dụ",
+    "context": "Give me one example.",
+    "contextVi": "Hãy cho tôi một ví dụ.",
+    "topic": "communication",
+    "pos": "noun"
+  },
+  {
+    "word": "detail",
+    "meaning": "chi tiết",
+    "context": "Check every detail carefully.",
+    "contextVi": "Hãy kiểm tra kỹ từng chi tiết.",
+    "topic": "communication",
+    "pos": "noun"
+  },
+  {
+    "word": "request",
+    "meaning": "yêu cầu",
+    "context": "Your request is clear.",
+    "contextVi": "Yêu cầu của bạn rõ ràng.",
+    "topic": "communication",
+    "pos": "noun"
+  },
+  {
+    "word": "instruction",
+    "meaning": "chỉ dẫn",
+    "context": "Follow each instruction carefully.",
+    "contextVi": "Hãy làm theo kỹ từng chỉ dẫn.",
+    "topic": "communication",
+    "pos": "noun"
+  },
+  {
+    "word": "invitation",
+    "meaning": "lời mời",
+    "context": "Thank you for the invitation.",
+    "contextVi": "Cảm ơn lời mời của bạn.",
+    "topic": "communication",
+    "pos": "noun"
+  },
+  {
+    "word": "explanation",
+    "meaning": "lời giải thích",
+    "context": "Your explanation helps me understand.",
+    "contextVi": "Lời giải thích của bạn giúp tôi hiểu.",
+    "topic": "communication",
+    "pos": "noun"
+  },
+  {
+    "word": "communication",
+    "meaning": "sự giao tiếp",
+    "context": "Good communication helps our team.",
+    "contextVi": "Giao tiếp tốt giúp ích cho nhóm của chúng tôi.",
+    "topic": "communication",
+    "pos": "noun"
+  },
+  {
+    "word": "clear",
+    "meaning": "rõ ràng",
+    "context": "Please give clear directions.",
+    "contextVi": "Vui lòng chỉ đường rõ ràng.",
+    "topic": "communication",
+    "pos": "adjective"
+  },
+  {
+    "word": "simple",
+    "meaning": "đơn giản",
+    "context": "Use simple words.",
+    "contextVi": "Hãy dùng từ đơn giản.",
+    "topic": "communication",
+    "pos": "adjective"
+  },
+  {
+    "word": "formal",
+    "meaning": "trang trọng",
+    "context": "This is a formal invitation.",
+    "contextVi": "Đây là một lời mời trang trọng.",
+    "topic": "communication",
+    "pos": "adjective"
+  },
+  {
+    "word": "informal",
+    "meaning": "không trang trọng",
+    "context": "The meeting is informal.",
+    "contextVi": "Cuộc gặp không mang tính trang trọng.",
+    "topic": "communication",
+    "pos": "adjective"
+  },
+  {
+    "word": "I",
+    "meaning": "tôi",
+    "context": "I am ready to leave.",
+    "contextVi": "Tôi đã sẵn sàng đi.",
+    "topic": "quantities-relations",
+    "pos": "other"
+  },
+  {
+    "word": "you",
+    "meaning": "bạn",
+    "context": "You can sit here.",
+    "contextVi": "Bạn có thể ngồi đây.",
+    "topic": "quantities-relations",
+    "pos": "other"
+  },
+  {
+    "word": "he",
+    "meaning": "anh ấy; ông ấy",
+    "context": "He works near the station.",
+    "contextVi": "Anh ấy làm việc gần nhà ga.",
+    "topic": "quantities-relations",
+    "pos": "other"
+  },
+  {
+    "word": "she",
+    "meaning": "cô ấy; bà ấy",
+    "context": "She lives in this city.",
+    "contextVi": "Cô ấy sống ở thành phố này.",
+    "topic": "quantities-relations",
+    "pos": "other"
+  },
+  {
+    "word": "it",
+    "meaning": "nó; đại từ dùng khi nói về thời tiết",
+    "context": "It is raining now.",
+    "contextVi": "Trời đang mưa.",
+    "topic": "quantities-relations",
+    "pos": "other"
+  },
+  {
+    "word": "we",
+    "meaning": "chúng tôi; chúng ta",
+    "context": "We learn together.",
+    "contextVi": "Chúng tôi học cùng nhau.",
+    "topic": "quantities-relations",
+    "pos": "other"
+  },
+  {
+    "word": "they",
+    "meaning": "họ; chúng nó",
+    "context": "They are waiting outside.",
+    "contextVi": "Họ đang đợi bên ngoài.",
+    "topic": "quantities-relations",
+    "pos": "other"
+  },
+  {
+    "word": "me",
+    "meaning": "tôi",
+    "context": "Please help me.",
+    "contextVi": "Vui lòng giúp tôi.",
+    "topic": "quantities-relations",
+    "pos": "other"
+  },
+  {
+    "word": "him",
+    "meaning": "anh ấy; ông ấy",
+    "context": "I called him yesterday.",
+    "contextVi": "Tôi đã gọi anh ấy hôm qua.",
+    "topic": "quantities-relations",
+    "pos": "other"
+  },
+  {
+    "word": "her",
+    "meaning": "cô ấy; bà ấy",
+    "context": "Please ask her.",
+    "contextVi": "Vui lòng hỏi cô ấy.",
+    "topic": "quantities-relations",
+    "pos": "other"
+  },
+  {
+    "word": "us",
+    "meaning": "chúng tôi; chúng ta",
+    "context": "Come with us.",
+    "contextVi": "Hãy đi cùng chúng tôi.",
+    "topic": "quantities-relations",
+    "pos": "other"
+  },
+  {
+    "word": "them",
+    "meaning": "họ; chúng nó",
+    "context": "I know them well.",
+    "contextVi": "Tôi biết rõ họ.",
+    "topic": "quantities-relations",
+    "pos": "other"
+  },
+  {
+    "word": "my",
+    "meaning": "của tôi",
+    "context": "This is my ticket.",
+    "contextVi": "Đây là vé của tôi.",
+    "topic": "quantities-relations",
+    "pos": "other"
+  },
+  {
+    "word": "your",
+    "meaning": "của bạn",
+    "context": "Is this your phone?",
+    "contextVi": "Đây có phải điện thoại của bạn không?",
+    "topic": "quantities-relations",
+    "pos": "other"
+  },
+  {
+    "word": "his",
+    "meaning": "của anh ấy; của ông ấy",
+    "context": "His office is near here.",
+    "contextVi": "Văn phòng của anh ấy ở gần đây.",
+    "topic": "quantities-relations",
+    "pos": "other"
+  },
+  {
+    "word": "our",
+    "meaning": "của chúng tôi; của chúng ta",
+    "context": "Our team is ready.",
+    "contextVi": "Nhóm của chúng tôi đã sẵn sàng.",
+    "topic": "quantities-relations",
+    "pos": "other"
+  },
+  {
+    "word": "their",
+    "meaning": "của họ",
+    "context": "Their hotel is near the beach.",
+    "contextVi": "Khách sạn của họ ở gần bãi biển.",
+    "topic": "quantities-relations",
+    "pos": "other"
+  },
+  {
+    "word": "mine",
+    "meaning": "cái của tôi",
+    "context": "This bag is mine.",
+    "contextVi": "Chiếc túi này là của tôi.",
+    "topic": "quantities-relations",
+    "pos": "other"
+  },
+  {
+    "word": "yours",
+    "meaning": "cái của bạn",
+    "context": "Is this seat yours?",
+    "contextVi": "Chỗ ngồi này là của bạn à?",
+    "topic": "quantities-relations",
+    "pos": "other"
+  },
+  {
+    "word": "ours",
+    "meaning": "cái của chúng tôi",
+    "context": "The next turn is ours.",
+    "contextVi": "Lượt tiếp theo là của chúng tôi.",
+    "topic": "quantities-relations",
+    "pos": "other"
+  },
+  {
+    "word": "theirs",
+    "meaning": "cái của họ",
+    "context": "That car is theirs.",
+    "contextVi": "Ô tô đó là của họ.",
+    "topic": "quantities-relations",
+    "pos": "other"
+  },
+  {
+    "word": "myself",
+    "meaning": "bản thân tôi",
+    "context": "I made it myself.",
+    "contextVi": "Tôi tự làm nó.",
+    "topic": "quantities-relations",
+    "pos": "other"
+  },
+  {
+    "word": "yourself",
+    "meaning": "bản thân bạn",
+    "context": "Please introduce yourself.",
+    "contextVi": "Vui lòng giới thiệu bản thân.",
+    "topic": "quantities-relations",
+    "pos": "other"
+  },
+  {
+    "word": "this",
+    "meaning": "này",
+    "context": "This route is shorter.",
+    "contextVi": "Tuyến đường này ngắn hơn.",
+    "topic": "quantities-relations",
+    "pos": "other"
+  },
+  {
+    "word": "that",
+    "meaning": "đó; kia",
+    "context": "That hotel is expensive.",
+    "contextVi": "Khách sạn đó đắt.",
+    "topic": "quantities-relations",
+    "pos": "other"
+  },
+  {
+    "word": "these",
+    "meaning": "những cái này",
+    "context": "These seats are free.",
+    "contextVi": "Những chỗ ngồi này còn trống.",
+    "topic": "quantities-relations",
+    "pos": "other"
+  },
+  {
+    "word": "those",
+    "meaning": "những cái đó",
+    "context": "Those people are waiting.",
+    "contextVi": "Những người đó đang đợi.",
+    "topic": "quantities-relations",
+    "pos": "other"
+  },
+  {
+    "word": "a",
+    "meaning": "một",
+    "context": "I need a ticket.",
+    "contextVi": "Tôi cần một vé.",
+    "topic": "quantities-relations",
+    "pos": "other"
+  },
+  {
+    "word": "an",
+    "meaning": "một",
+    "context": "She has an idea.",
+    "contextVi": "Cô ấy có một ý tưởng.",
+    "topic": "quantities-relations",
+    "pos": "other"
+  },
+  {
+    "word": "the",
+    "meaning": "mạo từ xác định",
+    "context": "The bus is here.",
+    "contextVi": "Xe buýt đến rồi.",
+    "topic": "quantities-relations",
+    "pos": "other"
+  },
+  {
+    "word": "some",
+    "meaning": "một ít; một vài",
+    "context": "I need some help.",
+    "contextVi": "Tôi cần một chút giúp đỡ.",
+    "topic": "quantities-relations",
+    "pos": "other"
+  },
+  {
+    "word": "any",
+    "meaning": "bất kỳ; chút nào",
+    "context": "Do you have any questions?",
+    "contextVi": "Bạn có câu hỏi nào không?",
+    "topic": "quantities-relations",
+    "pos": "other"
+  },
+  {
+    "word": "all",
+    "meaning": "tất cả",
+    "context": "All the rooms are full.",
+    "contextVi": "Tất cả các phòng đều đã kín.",
+    "topic": "quantities-relations",
+    "pos": "other"
+  },
+  {
+    "word": "both",
+    "meaning": "cả hai",
+    "context": "Both routes are safe.",
+    "contextVi": "Cả hai tuyến đường đều an toàn.",
+    "topic": "quantities-relations",
+    "pos": "other"
+  },
+  {
+    "word": "each",
+    "meaning": "mỗi",
+    "context": "Each person needs a ticket.",
+    "contextVi": "Mỗi người cần một vé.",
+    "topic": "quantities-relations",
+    "pos": "other"
+  },
+  {
+    "word": "every",
+    "meaning": "mọi; mỗi",
+    "context": "We practice every day.",
+    "contextVi": "Chúng tôi luyện tập mỗi ngày.",
+    "topic": "quantities-relations",
+    "pos": "other"
+  },
+  {
+    "word": "either",
+    "meaning": "một trong hai; bất cứ cái nào trong hai",
+    "context": "You can choose either route.",
+    "contextVi": "Bạn có thể chọn một trong hai tuyến đường.",
+    "topic": "quantities-relations",
+    "pos": "other"
+  },
+  {
+    "word": "neither",
+    "meaning": "không cái nào trong hai",
+    "context": "Neither answer is correct.",
+    "contextVi": "Cả hai câu trả lời đều sai.",
+    "topic": "quantities-relations",
+    "pos": "other"
+  },
+  {
+    "word": "no",
+    "meaning": "không; không có",
+    "context": "There is no bus today.",
+    "contextVi": "Hôm nay không có xe buýt.",
+    "topic": "quantities-relations",
+    "pos": "other"
+  },
+  {
+    "word": "none",
+    "meaning": "không ai; không cái nào",
+    "context": "None of the seats are free.",
+    "contextVi": "Không có chỗ ngồi nào còn trống.",
+    "topic": "quantities-relations",
+    "pos": "other"
+  },
+  {
+    "word": "more",
+    "meaning": "nhiều hơn; thêm",
+    "context": "We need more time.",
+    "contextVi": "Chúng tôi cần thêm thời gian.",
+    "topic": "quantities-relations",
+    "pos": "other"
+  },
+  {
+    "word": "less",
+    "meaning": "ít hơn",
+    "context": "This route takes less time.",
+    "contextVi": "Tuyến đường này mất ít thời gian hơn.",
+    "topic": "quantities-relations",
+    "pos": "other"
+  },
+  {
+    "word": "much",
+    "meaning": "nhiều",
+    "context": "How much time do we have?",
+    "contextVi": "Chúng ta có bao nhiêu thời gian?",
+    "topic": "quantities-relations",
+    "pos": "other"
+  },
+  {
+    "word": "many",
+    "meaning": "nhiều",
+    "context": "Many people travel by bus.",
+    "contextVi": "Nhiều người đi bằng xe buýt.",
+    "topic": "quantities-relations",
+    "pos": "other"
+  },
+  {
+    "word": "few",
+    "meaning": "ít; một vài",
+    "context": "Only a few tickets remain.",
+    "contextVi": "Chỉ còn lại một vài vé.",
+    "topic": "quantities-relations",
+    "pos": "other"
+  },
+  {
+    "word": "little",
+    "meaning": "ít; một chút",
+    "context": "We have very little time.",
+    "contextVi": "Chúng ta có rất ít thời gian.",
+    "topic": "quantities-relations",
+    "pos": "other"
+  },
+  {
+    "word": "most",
+    "meaning": "hầu hết; nhiều nhất",
+    "context": "Most people agree with you.",
+    "contextVi": "Hầu hết mọi người đồng ý với bạn.",
+    "topic": "quantities-relations",
+    "pos": "other"
+  },
+  {
+    "word": "enough",
+    "meaning": "đủ",
+    "context": "We have enough time.",
+    "contextVi": "Chúng ta có đủ thời gian.",
+    "topic": "quantities-relations",
+    "pos": "other"
+  },
+  {
+    "word": "several",
+    "meaning": "một số; vài",
+    "context": "Several people are waiting.",
+    "contextVi": "Một số người đang đợi.",
+    "topic": "quantities-relations",
+    "pos": "other"
+  },
+  {
+    "word": "another",
+    "meaning": "một cái khác; thêm một",
+    "context": "Let's try another route.",
+    "contextVi": "Hãy thử một tuyến đường khác.",
+    "topic": "quantities-relations",
+    "pos": "other"
+  },
+  {
+    "word": "other",
+    "meaning": "khác",
+    "context": "The other entrance is closed.",
+    "contextVi": "Lối vào còn lại đã đóng.",
+    "topic": "quantities-relations",
+    "pos": "other"
+  },
+  {
+    "word": "who",
+    "meaning": "ai",
+    "context": "Who is at the door?",
+    "contextVi": "Ai đang ở cửa?",
+    "topic": "quantities-relations",
+    "pos": "other"
+  },
+  {
+    "word": "what",
+    "meaning": "cái gì",
+    "context": "What is your name?",
+    "contextVi": "Tên bạn là gì?",
+    "topic": "quantities-relations",
+    "pos": "other"
+  },
+  {
+    "word": "which",
+    "meaning": "cái nào",
+    "context": "Which bus goes to the station?",
+    "contextVi": "Xe buýt nào đi đến nhà ga?",
+    "topic": "quantities-relations",
+    "pos": "other"
+  },
+  {
+    "word": "whose",
+    "meaning": "của ai",
+    "context": "Whose phone is this?",
+    "contextVi": "Đây là điện thoại của ai?",
+    "topic": "quantities-relations",
+    "pos": "other"
+  },
+  {
+    "word": "where",
+    "meaning": "ở đâu",
+    "context": "Where is the airport?",
+    "contextVi": "Sân bay ở đâu?",
+    "topic": "quantities-relations",
+    "pos": "other"
+  },
+  {
+    "word": "when",
+    "meaning": "khi nào",
+    "context": "When does the shop open?",
+    "contextVi": "Khi nào cửa hàng mở cửa?",
+    "topic": "quantities-relations",
+    "pos": "other"
+  },
+  {
+    "word": "why",
+    "meaning": "tại sao",
+    "context": "Why is the train late?",
+    "contextVi": "Tại sao tàu đến muộn?",
+    "topic": "quantities-relations",
+    "pos": "other"
+  },
+  {
+    "word": "how",
+    "meaning": "như thế nào",
+    "context": "How do you feel today?",
+    "contextVi": "Hôm nay bạn cảm thấy thế nào?",
+    "topic": "quantities-relations",
+    "pos": "other"
+  },
+  {
+    "word": "in",
+    "meaning": "trong; ở",
+    "context": "She lives in this city.",
+    "contextVi": "Cô ấy sống ở thành phố này.",
+    "topic": "quantities-relations",
+    "pos": "other"
+  },
+  {
+    "word": "on",
+    "meaning": "trên; vào",
+    "context": "The meeting is on Monday.",
+    "contextVi": "Cuộc họp diễn ra vào thứ Hai.",
+    "topic": "quantities-relations",
+    "pos": "other"
+  },
+  {
+    "word": "at",
+    "meaning": "ở; vào lúc",
+    "context": "Meet me at the station.",
+    "contextVi": "Hãy gặp tôi ở nhà ga.",
+    "topic": "quantities-relations",
+    "pos": "other"
+  },
+  {
+    "word": "to",
+    "meaning": "đến",
+    "context": "We go to the park.",
+    "contextVi": "Chúng tôi đến công viên.",
+    "topic": "quantities-relations",
+    "pos": "other"
+  },
+  {
+    "word": "from",
+    "meaning": "từ",
+    "context": "He comes from Vietnam.",
+    "contextVi": "Anh ấy đến từ Việt Nam.",
+    "topic": "quantities-relations",
+    "pos": "other"
+  },
+  {
+    "word": "with",
+    "meaning": "với",
+    "context": "I travel with my friends.",
+    "contextVi": "Tôi đi du lịch với bạn bè.",
+    "topic": "quantities-relations",
+    "pos": "other"
+  },
+  {
+    "word": "without",
+    "meaning": "không có",
+    "context": "I cannot work without my computer.",
+    "contextVi": "Tôi không thể làm việc nếu không có máy tính.",
+    "topic": "quantities-relations",
+    "pos": "other"
+  },
+  {
+    "word": "for",
+    "meaning": "cho; trong khoảng",
+    "context": "This ticket is for you.",
+    "contextVi": "Vé này dành cho bạn.",
+    "topic": "quantities-relations",
+    "pos": "other"
+  },
+  {
+    "word": "about",
+    "meaning": "về; khoảng",
+    "context": "Tell me about your trip.",
+    "contextVi": "Hãy kể tôi nghe về chuyến đi của bạn.",
+    "topic": "quantities-relations",
+    "pos": "other"
+  },
+  {
+    "word": "of",
+    "meaning": "của",
+    "context": "The name of the hotel is short.",
+    "contextVi": "Tên của khách sạn ngắn.",
+    "topic": "quantities-relations",
+    "pos": "other"
+  },
+  {
+    "word": "by",
+    "meaning": "bằng; trước thời điểm",
+    "context": "We travel by train.",
+    "contextVi": "Chúng tôi đi bằng tàu hỏa.",
+    "topic": "quantities-relations",
+    "pos": "other"
+  },
+  {
+    "word": "through",
+    "meaning": "qua; xuyên qua",
+    "context": "The bus goes through the city.",
+    "contextVi": "Xe buýt đi xuyên qua thành phố.",
+    "topic": "quantities-relations",
+    "pos": "other"
+  },
+  {
+    "word": "across",
+    "meaning": "qua bên kia",
+    "context": "Walk across the bridge.",
+    "contextVi": "Hãy đi bộ qua cầu.",
+    "topic": "quantities-relations",
+    "pos": "other"
+  },
+  {
+    "word": "between",
+    "meaning": "giữa hai",
+    "context": "The bank is between two shops.",
+    "contextVi": "Ngân hàng ở giữa hai cửa hàng.",
+    "topic": "quantities-relations",
+    "pos": "other"
+  },
+  {
+    "word": "among",
+    "meaning": "giữa nhiều",
+    "context": "She feels comfortable among friends.",
+    "contextVi": "Cô ấy thấy thoải mái giữa bạn bè.",
+    "topic": "quantities-relations",
+    "pos": "other"
+  },
+  {
+    "word": "under",
+    "meaning": "dưới",
+    "context": "The bag is under the seat.",
+    "contextVi": "Chiếc túi ở dưới chỗ ngồi.",
+    "topic": "quantities-relations",
+    "pos": "other"
+  },
+  {
+    "word": "over",
+    "meaning": "trên; vượt qua",
+    "context": "A plane flies over the city.",
+    "contextVi": "Một máy bay bay qua phía trên thành phố.",
+    "topic": "quantities-relations",
+    "pos": "other"
+  },
+  {
+    "word": "above",
+    "meaning": "phía trên",
+    "context": "The sign is above the door.",
+    "contextVi": "Biển báo ở phía trên cửa.",
+    "topic": "quantities-relations",
+    "pos": "other"
+  },
+  {
+    "word": "below",
+    "meaning": "phía dưới",
+    "context": "Write your name below the line.",
+    "contextVi": "Hãy viết tên phía dưới dòng kẻ.",
+    "topic": "quantities-relations",
+    "pos": "other"
+  },
+  {
+    "word": "behind",
+    "meaning": "phía sau",
+    "context": "The taxi is behind the bus.",
+    "contextVi": "Taxi ở phía sau xe buýt.",
+    "topic": "quantities-relations",
+    "pos": "other"
+  },
+  {
+    "word": "beside",
+    "meaning": "bên cạnh",
+    "context": "Sit beside me.",
+    "contextVi": "Hãy ngồi cạnh tôi.",
+    "topic": "quantities-relations",
+    "pos": "other"
+  },
+  {
+    "word": "near",
+    "meaning": "gần",
+    "context": "We live near the station.",
+    "contextVi": "Chúng tôi sống gần nhà ga.",
+    "topic": "quantities-relations",
+    "pos": "other"
+  },
+  {
+    "word": "before",
+    "meaning": "trước",
+    "context": "Arrive before nine.",
+    "contextVi": "Hãy đến trước chín giờ.",
+    "topic": "quantities-relations",
+    "pos": "other"
+  },
+  {
+    "word": "after",
+    "meaning": "sau",
+    "context": "Call me after the meeting.",
+    "contextVi": "Hãy gọi tôi sau cuộc họp.",
+    "topic": "quantities-relations",
+    "pos": "other"
+  },
+  {
+    "word": "during",
+    "meaning": "trong suốt; trong khi",
+    "context": "Do not use your phone during the test.",
+    "contextVi": "Đừng dùng điện thoại trong khi kiểm tra.",
+    "topic": "quantities-relations",
+    "pos": "other"
+  },
+  {
+    "word": "until",
+    "meaning": "cho đến khi",
+    "context": "Wait here until noon.",
+    "contextVi": "Hãy đợi ở đây đến trưa.",
+    "topic": "quantities-relations",
+    "pos": "other"
+  },
+  {
+    "word": "since",
+    "meaning": "từ khi",
+    "context": "I have lived here since May.",
+    "contextVi": "Tôi sống ở đây từ tháng Năm.",
+    "topic": "quantities-relations",
+    "pos": "other"
+  },
+  {
+    "word": "into",
+    "meaning": "vào trong",
+    "context": "Come into the office.",
+    "contextVi": "Hãy vào văn phòng.",
+    "topic": "quantities-relations",
+    "pos": "other"
+  },
+  {
+    "word": "outside",
+    "meaning": "ở bên ngoài",
+    "context": "Wait outside the hotel.",
+    "contextVi": "Hãy đợi bên ngoài khách sạn.",
+    "topic": "quantities-relations",
+    "pos": "other"
+  },
+  {
+    "word": "inside",
+    "meaning": "ở bên trong",
+    "context": "Stay inside the building.",
+    "contextVi": "Hãy ở trong tòa nhà.",
+    "topic": "quantities-relations",
+    "pos": "other"
+  },
+  {
+    "word": "and",
+    "meaning": "và",
+    "context": "She is kind and patient.",
+    "contextVi": "Cô ấy tốt bụng và kiên nhẫn.",
+    "topic": "quantities-relations",
+    "pos": "other"
+  },
+  {
+    "word": "but",
+    "meaning": "nhưng",
+    "context": "The hotel is small but comfortable.",
+    "contextVi": "Khách sạn nhỏ nhưng thoải mái.",
+    "topic": "quantities-relations",
+    "pos": "other"
+  },
+  {
+    "word": "or",
+    "meaning": "hoặc",
+    "context": "Do you want to walk or take a bus?",
+    "contextVi": "Bạn muốn đi bộ hay đi xe buýt?",
+    "topic": "quantities-relations",
+    "pos": "other"
+  },
+  {
+    "word": "because",
+    "meaning": "bởi vì",
+    "context": "We stay home because it is raining.",
+    "contextVi": "Chúng tôi ở nhà vì trời đang mưa.",
+    "topic": "quantities-relations",
+    "pos": "other"
+  },
+  {
+    "word": "so",
+    "meaning": "nên; vì vậy",
+    "context": "It is late, so we leave.",
+    "contextVi": "Đã muộn nên chúng tôi đi.",
+    "topic": "quantities-relations",
+    "pos": "other"
+  },
+  {
+    "word": "if",
+    "meaning": "nếu",
+    "context": "Call me if you need help.",
+    "contextVi": "Hãy gọi tôi nếu bạn cần giúp.",
+    "topic": "quantities-relations",
+    "pos": "other"
+  },
+  {
+    "word": "although",
+    "meaning": "mặc dù",
+    "context": "We walk although it is raining.",
+    "contextVi": "Chúng tôi đi bộ dù trời đang mưa.",
+    "topic": "quantities-relations",
+    "pos": "other"
+  },
+  {
+    "word": "while",
+    "meaning": "trong khi",
+    "context": "I listen while you speak.",
+    "contextVi": "Tôi lắng nghe khi bạn nói.",
+    "topic": "quantities-relations",
+    "pos": "other"
+  },
+  {
+    "word": "than",
+    "meaning": "hơn",
+    "context": "This route is shorter than that one.",
+    "contextVi": "Tuyến đường này ngắn hơn tuyến kia.",
+    "topic": "quantities-relations",
+    "pos": "other"
+  },
+  {
+    "word": "as",
+    "meaning": "với tư cách là; như",
+    "context": "She works as a guide.",
+    "contextVi": "Cô ấy làm hướng dẫn viên.",
+    "topic": "quantities-relations",
+    "pos": "other"
+  },
+  {
+    "word": "can",
+    "meaning": "có thể",
+    "context": "I can help you.",
+    "contextVi": "Tôi có thể giúp bạn.",
+    "topic": "quantities-relations",
+    "pos": "other"
+  },
+  {
+    "word": "could",
+    "meaning": "có thể (quá khứ hoặc lời đề nghị lịch sự)",
+    "context": "Could you speak slowly?",
+    "contextVi": "Bạn có thể nói chậm không?",
+    "topic": "quantities-relations",
+    "pos": "other"
+  },
+  {
+    "word": "will",
+    "meaning": "sẽ",
+    "context": "I will call you tomorrow.",
+    "contextVi": "Tôi sẽ gọi bạn vào ngày mai.",
+    "topic": "quantities-relations",
+    "pos": "other"
+  },
+  {
+    "word": "would",
+    "meaning": "dùng trong lời đề nghị lịch sự; sẽ (giả định)",
+    "context": "Would you help me, please?",
+    "contextVi": "Bạn giúp tôi được không?",
+    "topic": "quantities-relations",
+    "pos": "other"
+  },
+  {
+    "word": "should",
+    "meaning": "nên",
+    "context": "You should rest today.",
+    "contextVi": "Bạn nên nghỉ ngơi hôm nay.",
+    "topic": "quantities-relations",
+    "pos": "other"
+  },
+  {
+    "word": "must",
+    "meaning": "phải",
+    "context": "You must bring your passport.",
+    "contextVi": "Bạn phải mang hộ chiếu.",
+    "topic": "quantities-relations",
+    "pos": "other"
+  },
+  {
+    "word": "might",
+    "meaning": "có thể; có lẽ",
+    "context": "It might rain tonight.",
+    "contextVi": "Có thể tối nay trời mưa.",
+    "topic": "quantities-relations",
+    "pos": "other"
+  },
+  {
+    "word": "very",
+    "meaning": "rất",
+    "context": "The train is very fast.",
+    "contextVi": "Tàu chạy rất nhanh.",
+    "topic": "quantities-relations",
+    "pos": "adverb"
+  },
+  {
+    "word": "too",
+    "meaning": "quá; cũng",
+    "context": "This bag is too heavy.",
+    "contextVi": "Chiếc túi này quá nặng.",
+    "topic": "quantities-relations",
+    "pos": "adverb"
+  },
+  {
+    "word": "also",
+    "meaning": "cũng",
+    "context": "She also speaks English.",
+    "contextVi": "Cô ấy cũng nói tiếng Anh.",
+    "topic": "quantities-relations",
+    "pos": "adverb"
+  },
+  {
+    "word": "only",
+    "meaning": "chỉ",
+    "context": "I have only one ticket.",
+    "contextVi": "Tôi chỉ có một vé.",
+    "topic": "quantities-relations",
+    "pos": "adverb"
+  },
+  {
+    "word": "really",
+    "meaning": "thật sự; rất",
+    "context": "This route is really useful.",
+    "contextVi": "Tuyến đường này thật sự hữu ích.",
+    "topic": "quantities-relations",
+    "pos": "adverb"
+  },
+  {
+    "word": "quite",
+    "meaning": "khá",
+    "context": "The room is quite quiet.",
+    "contextVi": "Căn phòng khá yên tĩnh.",
+    "topic": "quantities-relations",
+    "pos": "adverb"
+  },
+  {
+    "word": "almost",
+    "meaning": "gần như; sắp",
+    "context": "We are almost there.",
+    "contextVi": "Chúng ta gần đến nơi rồi.",
+    "topic": "quantities-relations",
+    "pos": "adverb"
+  },
+  {
+    "word": "always",
+    "meaning": "luôn luôn",
+    "context": "He always arrives early.",
+    "contextVi": "Anh ấy luôn đến sớm.",
+    "topic": "quantities-relations",
+    "pos": "adverb"
+  },
+  {
+    "word": "usually",
+    "meaning": "thường xuyên",
+    "context": "We usually walk to work.",
+    "contextVi": "Chúng tôi thường đi bộ đến chỗ làm.",
+    "topic": "quantities-relations",
+    "pos": "adverb"
+  },
+  {
+    "word": "often",
+    "meaning": "thường",
+    "context": "She often travels by train.",
+    "contextVi": "Cô ấy thường đi tàu hỏa.",
+    "topic": "quantities-relations",
+    "pos": "adverb"
+  },
+  {
+    "word": "sometimes",
+    "meaning": "đôi khi",
+    "context": "I sometimes work at home.",
+    "contextVi": "Đôi khi tôi làm việc ở nhà.",
+    "topic": "quantities-relations",
+    "pos": "adverb"
+  },
+  {
+    "word": "never",
+    "meaning": "không bao giờ",
+    "context": "He never forgets his ticket.",
+    "contextVi": "Anh ấy không bao giờ quên vé.",
+    "topic": "quantities-relations",
+    "pos": "adverb"
+  },
+  {
+    "word": "here",
+    "meaning": "ở đây",
+    "context": "Please wait here.",
+    "contextVi": "Vui lòng đợi ở đây.",
+    "topic": "quantities-relations",
+    "pos": "adverb"
+  },
+  {
+    "word": "there",
+    "meaning": "ở đó",
+    "context": "The station is over there.",
+    "contextVi": "Nhà ga ở đằng kia.",
+    "topic": "quantities-relations",
+    "pos": "adverb"
+  },
+  {
+    "word": "away",
+    "meaning": "đi xa; cách xa",
+    "context": "The hotel is two kilometers away.",
+    "contextVi": "Khách sạn cách đây hai ki lô mét.",
+    "topic": "quantities-relations",
+    "pos": "adverb"
+  },
+  {
+    "word": "together",
+    "meaning": "cùng nhau",
+    "context": "We work together.",
+    "contextVi": "Chúng tôi làm việc cùng nhau.",
+    "topic": "quantities-relations",
+    "pos": "adverb"
+  },
+  {
+    "word": "alone",
+    "meaning": "một mình",
+    "context": "She travels alone.",
+    "contextVi": "Cô ấy đi du lịch một mình.",
+    "topic": "quantities-relations",
+    "pos": "adverb"
+  },
+  {
+    "word": "number",
+    "meaning": "số",
+    "context": "What is your phone number?",
+    "contextVi": "Số điện thoại của bạn là gì?",
+    "topic": "quantities-relations",
+    "pos": "noun"
+  },
+  {
+    "word": "amount",
+    "meaning": "lượng; số tiền",
+    "context": "Check the amount before you pay.",
+    "contextVi": "Hãy kiểm tra số tiền trước khi thanh toán.",
+    "topic": "quantities-relations",
+    "pos": "noun"
+  },
+  {
+    "word": "total",
+    "meaning": "tổng",
+    "context": "The total is ten dollars.",
+    "contextVi": "Tổng cộng là mười đô la.",
+    "topic": "quantities-relations",
+    "pos": "noun"
+  },
+  {
+    "word": "half",
+    "meaning": "một nửa",
+    "context": "Half of the rooms are full.",
+    "contextVi": "Một nửa số phòng đã kín.",
+    "topic": "quantities-relations",
+    "pos": "noun"
+  },
+  {
+    "word": "part",
+    "meaning": "phần",
+    "context": "This is the easiest part.",
+    "contextVi": "Đây là phần dễ nhất.",
+    "topic": "quantities-relations",
+    "pos": "noun"
+  },
+  {
+    "word": "pair",
+    "meaning": "cặp",
+    "context": "I bought a pair of shoes.",
+    "contextVi": "Tôi đã mua một đôi giày.",
+    "topic": "quantities-relations",
+    "pos": "noun"
+  },
+  {
+    "word": "same",
+    "meaning": "giống; cùng",
+    "context": "We take the same bus.",
+    "contextVi": "Chúng tôi đi cùng một xe buýt.",
+    "topic": "quantities-relations",
+    "pos": "adjective"
+  },
+  {
+    "word": "different",
+    "meaning": "khác",
+    "context": "Let's try a different route.",
+    "contextVi": "Hãy thử một tuyến đường khác.",
+    "topic": "quantities-relations",
+    "pos": "adjective"
+  },
+  {
+    "word": "equal",
+    "meaning": "bằng; bình đẳng",
+    "context": "Everyone has an equal chance.",
+    "contextVi": "Mọi người đều có cơ hội ngang nhau.",
+    "topic": "quantities-relations",
+    "pos": "adjective"
+  },
+  {
+    "word": "whole",
+    "meaning": "toàn bộ",
+    "context": "The whole team agrees.",
+    "contextVi": "Toàn bộ nhóm đồng ý.",
+    "topic": "quantities-relations",
+    "pos": "adjective"
+  },
+  {
+    "word": "empty",
+    "meaning": "trống; rỗng",
+    "context": "The bus is empty.",
+    "contextVi": "Xe buýt không có người.",
+    "topic": "quantities-relations",
+    "pos": "adjective"
+  },
+  {
+    "word": "full",
+    "meaning": "đầy",
+    "context": "The hotel is full tonight.",
+    "contextVi": "Khách sạn đã kín phòng tối nay.",
+    "topic": "quantities-relations",
+    "pos": "adjective"
+  },
+  {
+    "word": "people",
+    "meaning": "người; mọi người",
+    "context": "Many people live in this city.",
+    "contextVi": "Nhiều người sống trong thành phố này.",
+    "topic": "society-culture",
+    "pos": "noun"
+  },
+  {
+    "word": "person",
+    "meaning": "người",
+    "context": "One person is waiting outside.",
+    "contextVi": "Một người đang đợi bên ngoài.",
+    "topic": "society-culture",
+    "pos": "noun"
+  },
+  {
+    "word": "family",
+    "meaning": "gia đình",
+    "context": "My family lives near me.",
+    "contextVi": "Gia đình tôi sống gần tôi.",
+    "topic": "society-culture",
+    "pos": "noun"
+  },
+  {
+    "word": "friend",
+    "meaning": "bạn",
+    "context": "She is a good friend.",
+    "contextVi": "Cô ấy là một người bạn tốt.",
+    "topic": "society-culture",
+    "pos": "noun"
+  },
+  {
+    "word": "neighbor",
+    "meaning": "hàng xóm",
+    "context": "Our neighbor is helpful.",
+    "contextVi": "Hàng xóm của chúng tôi hay giúp đỡ.",
+    "topic": "society-culture",
+    "pos": "noun"
+  },
+  {
+    "word": "community",
+    "meaning": "cộng đồng",
+    "context": "Our community has a new park.",
+    "contextVi": "Cộng đồng của chúng tôi có một công viên mới.",
+    "topic": "society-culture",
+    "pos": "noun"
+  },
+  {
+    "word": "group",
+    "meaning": "nhóm",
+    "context": "Join our study group.",
+    "contextVi": "Hãy tham gia nhóm học của chúng tôi.",
+    "topic": "society-culture",
+    "pos": "noun"
+  },
+  {
+    "word": "member",
+    "meaning": "thành viên",
+    "context": "Each member has a task.",
+    "contextVi": "Mỗi thành viên có một nhiệm vụ.",
+    "topic": "society-culture",
+    "pos": "noun"
+  },
+  {
+    "word": "population",
+    "meaning": "dân số",
+    "context": "The population is growing.",
+    "contextVi": "Dân số đang tăng.",
+    "topic": "society-culture",
+    "pos": "noun"
+  },
+  {
+    "word": "country",
+    "meaning": "quốc gia",
+    "context": "Which country do you live in?",
+    "contextVi": "Bạn sống ở quốc gia nào?",
+    "topic": "society-culture",
+    "pos": "noun"
+  },
+  {
+    "word": "nation",
+    "meaning": "quốc gia; dân tộc",
+    "context": "The whole nation celebrates today.",
+    "contextVi": "Cả nước ăn mừng hôm nay.",
+    "topic": "society-culture",
+    "pos": "noun"
+  },
+  {
+    "word": "world",
+    "meaning": "thế giới",
+    "context": "People around the world use English.",
+    "contextVi": "Mọi người trên thế giới dùng tiếng Anh.",
+    "topic": "society-culture",
+    "pos": "noun"
+  },
+  {
+    "word": "society",
+    "meaning": "xã hội",
+    "context": "Education is important for society.",
+    "contextVi": "Giáo dục quan trọng đối với xã hội.",
+    "topic": "society-culture",
+    "pos": "noun"
+  },
+  {
+    "word": "culture",
+    "meaning": "văn hóa",
+    "context": "I want to learn about your culture.",
+    "contextVi": "Tôi muốn tìm hiểu về văn hóa của bạn.",
+    "topic": "society-culture",
+    "pos": "noun"
+  },
+  {
+    "word": "tradition",
+    "meaning": "truyền thống",
+    "context": "This tradition brings families together.",
+    "contextVi": "Truyền thống này giúp các gia đình quây quần.",
+    "topic": "society-culture",
+    "pos": "noun"
+  },
+  {
+    "word": "custom",
+    "meaning": "phong tục",
+    "context": "That is a local custom.",
+    "contextVi": "Đó là một phong tục địa phương.",
+    "topic": "society-culture",
+    "pos": "noun"
+  },
+  {
+    "word": "festival",
+    "meaning": "lễ hội",
+    "context": "The festival starts tonight.",
+    "contextVi": "Lễ hội bắt đầu tối nay.",
+    "topic": "society-culture",
+    "pos": "noun"
+  },
+  {
+    "word": "celebration",
+    "meaning": "lễ kỷ niệm; sự ăn mừng",
+    "context": "The celebration lasts all day.",
+    "contextVi": "Lễ kỷ niệm kéo dài cả ngày.",
+    "topic": "society-culture",
+    "pos": "noun"
+  },
+  {
+    "word": "ceremony",
+    "meaning": "buổi lễ",
+    "context": "The ceremony begins at ten.",
+    "contextVi": "Buổi lễ bắt đầu lúc mười giờ.",
+    "topic": "society-culture",
+    "pos": "noun"
+  },
+  {
+    "word": "event",
+    "meaning": "sự kiện",
+    "context": "This event is free.",
+    "contextVi": "Sự kiện này miễn phí.",
+    "topic": "society-culture",
+    "pos": "noun"
+  },
+  {
+    "word": "party",
+    "meaning": "bữa tiệc",
+    "context": "We have a small party tonight.",
+    "contextVi": "Chúng tôi có một bữa tiệc nhỏ tối nay.",
+    "topic": "society-culture",
+    "pos": "noun"
+  },
+  {
+    "word": "concert",
+    "meaning": "buổi hòa nhạc",
+    "context": "The concert ends at nine.",
+    "contextVi": "Buổi hòa nhạc kết thúc lúc chín giờ.",
+    "topic": "society-culture",
+    "pos": "noun"
+  },
+  {
+    "word": "music",
+    "meaning": "âm nhạc",
+    "context": "Music helps me relax.",
+    "contextVi": "Âm nhạc giúp tôi thư giãn.",
+    "topic": "society-culture",
+    "pos": "noun"
+  },
+  {
+    "word": "song",
+    "meaning": "bài hát",
+    "context": "This song is easy to remember.",
+    "contextVi": "Bài hát này dễ nhớ.",
+    "topic": "society-culture",
+    "pos": "noun"
+  },
+  {
+    "word": "art",
+    "meaning": "nghệ thuật",
+    "context": "She loves modern art.",
+    "contextVi": "Cô ấy yêu nghệ thuật hiện đại.",
+    "topic": "society-culture",
+    "pos": "noun"
+  },
+  {
+    "word": "film",
+    "meaning": "phim",
+    "context": "This film tells a true story.",
+    "contextVi": "Bộ phim này kể một câu chuyện có thật.",
+    "topic": "society-culture",
+    "pos": "noun"
+  },
+  {
+    "word": "movie",
+    "meaning": "phim",
+    "context": "We watch a movie together.",
+    "contextVi": "Chúng tôi xem phim cùng nhau.",
+    "topic": "society-culture",
+    "pos": "noun"
+  },
+  {
+    "word": "theater",
+    "meaning": "nhà hát",
+    "context": "The theater is near the museum.",
+    "contextVi": "Nhà hát ở gần bảo tàng.",
+    "topic": "society-culture",
+    "pos": "noun"
+  },
+  {
+    "word": "dance",
+    "meaning": "điệu nhảy; sự nhảy múa",
+    "context": "We learn a traditional dance.",
+    "contextVi": "Chúng tôi học một điệu nhảy truyền thống.",
+    "topic": "society-culture",
+    "pos": "noun"
+  },
+  {
+    "word": "sport",
+    "meaning": "thể thao",
+    "context": "Swimming is my favorite sport.",
+    "contextVi": "Bơi lội là môn thể thao yêu thích của tôi.",
+    "topic": "society-culture",
+    "pos": "noun"
+  },
+  {
+    "word": "game",
+    "meaning": "trò chơi",
+    "context": "This game is fun.",
+    "contextVi": "Trò chơi này thú vị.",
+    "topic": "society-culture",
+    "pos": "noun"
+  },
+  {
+    "word": "match",
+    "meaning": "trận đấu",
+    "context": "The match starts at seven.",
+    "contextVi": "Trận đấu bắt đầu lúc bảy giờ.",
+    "topic": "society-culture",
+    "pos": "noun"
+  },
+  {
+    "word": "player",
+    "meaning": "người chơi; cầu thủ",
+    "context": "Each player gets a turn.",
+    "contextVi": "Mỗi người chơi được một lượt.",
+    "topic": "society-culture",
+    "pos": "noun"
+  },
+  {
+    "word": "rule",
+    "meaning": "quy tắc",
+    "context": "Please follow this rule.",
+    "contextVi": "Vui lòng làm theo quy tắc này.",
+    "topic": "society-culture",
+    "pos": "noun"
+  },
+  {
+    "word": "law",
+    "meaning": "luật",
+    "context": "Everyone must follow the law.",
+    "contextVi": "Mọi người phải tuân theo pháp luật.",
+    "topic": "society-culture",
+    "pos": "noun"
+  },
+  {
+    "word": "government",
+    "meaning": "chính phủ",
+    "context": "The government builds a new hospital.",
+    "contextVi": "Chính phủ xây một bệnh viện mới.",
+    "topic": "society-culture",
+    "pos": "noun"
+  },
+  {
+    "word": "leader",
+    "meaning": "người lãnh đạo",
+    "context": "Our leader listens to the team.",
+    "contextVi": "Người lãnh đạo của chúng tôi lắng nghe nhóm.",
+    "topic": "society-culture",
+    "pos": "noun"
+  },
+  {
+    "word": "president",
+    "meaning": "chủ tịch; tổng thống",
+    "context": "The club has a new president.",
+    "contextVi": "Câu lạc bộ có một chủ tịch mới.",
+    "topic": "society-culture",
+    "pos": "noun"
+  },
+  {
+    "word": "election",
+    "meaning": "cuộc bầu cử",
+    "context": "The election is next month.",
+    "contextVi": "Cuộc bầu cử diễn ra vào tháng tới.",
+    "topic": "society-culture",
+    "pos": "noun"
+  },
+  {
+    "word": "vote",
+    "meaning": "phiếu bầu",
+    "context": "Every vote matters.",
+    "contextVi": "Mỗi lá phiếu đều quan trọng.",
+    "topic": "society-culture",
+    "pos": "noun"
+  },
+  {
+    "word": "freedom",
+    "meaning": "sự tự do",
+    "context": "They value freedom.",
+    "contextVi": "Họ coi trọng sự tự do.",
+    "topic": "society-culture",
+    "pos": "noun"
+  },
+  {
+    "word": "right",
+    "meaning": "quyền",
+    "context": "Everyone has the right to learn.",
+    "contextVi": "Mọi người đều có quyền học tập.",
+    "topic": "society-culture",
+    "pos": "noun"
+  },
+  {
+    "word": "duty",
+    "meaning": "nghĩa vụ",
+    "context": "It is our duty to help.",
+    "contextVi": "Giúp đỡ là nghĩa vụ của chúng ta.",
+    "topic": "society-culture",
+    "pos": "noun"
+  },
+  {
+    "word": "peace",
+    "meaning": "hòa bình",
+    "context": "We all want peace.",
+    "contextVi": "Tất cả chúng ta đều muốn hòa bình.",
+    "topic": "society-culture",
+    "pos": "noun"
+  },
+  {
+    "word": "war",
+    "meaning": "chiến tranh",
+    "context": "War causes great suffering.",
+    "contextVi": "Chiến tranh gây ra nhiều đau khổ.",
+    "topic": "society-culture",
+    "pos": "noun"
+  },
+  {
+    "word": "history",
+    "meaning": "lịch sử",
+    "context": "I like learning about history.",
+    "contextVi": "Tôi thích tìm hiểu lịch sử.",
+    "topic": "society-culture",
+    "pos": "noun"
+  },
+  {
+    "word": "education",
+    "meaning": "giáo dục",
+    "context": "Education opens new opportunities.",
+    "contextVi": "Giáo dục mở ra những cơ hội mới.",
+    "topic": "society-culture",
+    "pos": "noun"
+  },
+  {
+    "word": "health",
+    "meaning": "sức khỏe",
+    "context": "Your health is important.",
+    "contextVi": "Sức khỏe của bạn rất quan trọng.",
+    "topic": "society-culture",
+    "pos": "noun"
+  },
+  {
+    "word": "service",
+    "meaning": "dịch vụ",
+    "context": "This service is free.",
+    "contextVi": "Dịch vụ này miễn phí.",
+    "topic": "society-culture",
+    "pos": "noun"
+  },
+  {
+    "word": "charity",
+    "meaning": "tổ chức từ thiện; sự từ thiện",
+    "context": "This charity helps local families.",
+    "contextVi": "Tổ chức từ thiện này giúp các gia đình địa phương.",
+    "topic": "society-culture",
+    "pos": "noun"
+  },
+  {
+    "word": "volunteer",
+    "meaning": "tình nguyện viên",
+    "context": "A volunteer shows us the way.",
+    "contextVi": "Một tình nguyện viên chỉ đường cho chúng tôi.",
+    "topic": "society-culture",
+    "pos": "noun"
+  },
+  {
+    "word": "environment",
+    "meaning": "môi trường",
+    "context": "We should protect the environment.",
+    "contextVi": "Chúng ta nên bảo vệ môi trường.",
+    "topic": "society-culture",
+    "pos": "noun"
+  },
+  {
+    "word": "nature",
+    "meaning": "thiên nhiên",
+    "context": "I enjoy spending time in nature.",
+    "contextVi": "Tôi thích dành thời gian ở giữa thiên nhiên.",
+    "topic": "society-culture",
+    "pos": "noun"
+  },
+  {
+    "word": "pollution",
+    "meaning": "ô nhiễm",
+    "context": "Pollution is a serious problem.",
+    "contextVi": "Ô nhiễm là một vấn đề nghiêm trọng.",
+    "topic": "society-culture",
+    "pos": "noun"
+  },
+  {
+    "word": "waste",
+    "meaning": "rác thải; sự lãng phí",
+    "context": "We need to reduce waste.",
+    "contextVi": "Chúng ta cần giảm rác thải.",
+    "topic": "society-culture",
+    "pos": "noun"
+  },
+  {
+    "word": "energy",
+    "meaning": "năng lượng",
+    "context": "This building uses less energy.",
+    "contextVi": "Tòa nhà này dùng ít năng lượng hơn.",
+    "topic": "society-culture",
+    "pos": "noun"
+  },
+  {
+    "word": "resource",
+    "meaning": "nguồn lực; tài nguyên",
+    "context": "Water is an important resource.",
+    "contextVi": "Nước là một tài nguyên quan trọng.",
+    "topic": "society-culture",
+    "pos": "noun"
+  },
+  {
+    "word": "problem",
+    "meaning": "vấn đề",
+    "context": "We can solve this problem.",
+    "contextVi": "Chúng ta có thể giải quyết vấn đề này.",
+    "topic": "society-culture",
+    "pos": "noun"
+  },
+  {
+    "word": "solution",
+    "meaning": "giải pháp",
+    "context": "We need a better solution.",
+    "contextVi": "Chúng ta cần một giải pháp tốt hơn.",
+    "topic": "society-culture",
+    "pos": "noun"
+  },
+  {
+    "word": "opportunity",
+    "meaning": "cơ hội",
+    "context": "This course is a great opportunity.",
+    "contextVi": "Khóa học này là một cơ hội tốt.",
+    "topic": "society-culture",
+    "pos": "noun"
+  },
+  {
+    "word": "change",
+    "meaning": "sự thay đổi",
+    "context": "This change helps everyone.",
+    "contextVi": "Sự thay đổi này giúp mọi người.",
+    "topic": "society-culture",
+    "pos": "noun"
+  },
+  {
+    "word": "progress",
+    "meaning": "tiến bộ",
+    "context": "You are making good progress.",
+    "contextVi": "Bạn đang tiến bộ tốt.",
+    "topic": "society-culture",
+    "pos": "noun"
+  },
+  {
+    "word": "success",
+    "meaning": "thành công",
+    "context": "Hard work leads to success.",
+    "contextVi": "Làm việc chăm chỉ dẫn đến thành công.",
+    "topic": "society-culture",
+    "pos": "noun"
+  },
+  {
+    "word": "failure",
+    "meaning": "thất bại",
+    "context": "We can learn from failure.",
+    "contextVi": "Chúng ta có thể học từ thất bại.",
+    "topic": "society-culture",
+    "pos": "noun"
+  },
+  {
+    "word": "result",
+    "meaning": "kết quả",
+    "context": "The result is encouraging.",
+    "contextVi": "Kết quả thật đáng khích lệ.",
+    "topic": "society-culture",
+    "pos": "noun"
+  },
+  {
+    "word": "goal",
+    "meaning": "mục tiêu",
+    "context": "My goal is to speak clearly.",
+    "contextVi": "Mục tiêu của tôi là nói rõ ràng.",
+    "topic": "society-culture",
+    "pos": "noun"
+  },
+  {
+    "word": "purpose",
+    "meaning": "mục đích",
+    "context": "What is the purpose of this meeting?",
+    "contextVi": "Mục đích của cuộc họp này là gì?",
+    "topic": "society-culture",
+    "pos": "noun"
+  },
+  {
+    "word": "value",
+    "meaning": "giá trị",
+    "context": "This lesson has real value.",
+    "contextVi": "Bài học này có giá trị thực sự.",
+    "topic": "society-culture",
+    "pos": "noun"
+  },
+  {
+    "word": "quality",
+    "meaning": "chất lượng",
+    "context": "The quality is good.",
+    "contextVi": "Chất lượng tốt.",
+    "topic": "society-culture",
+    "pos": "noun"
+  },
+  {
+    "word": "choice",
+    "meaning": "lựa chọn",
+    "context": "You have a choice.",
+    "contextVi": "Bạn có quyền lựa chọn.",
+    "topic": "society-culture",
+    "pos": "noun"
+  },
+  {
+    "word": "celebrate",
+    "meaning": "ăn mừng; kỷ niệm",
+    "context": "We celebrate together.",
+    "contextVi": "Chúng tôi cùng ăn mừng.",
+    "topic": "society-culture",
+    "pos": "verb"
+  },
+  {
+    "word": "support",
+    "meaning": "ủng hộ; hỗ trợ",
+    "context": "We support our local team.",
+    "contextVi": "Chúng tôi ủng hộ đội địa phương.",
+    "topic": "society-culture",
+    "pos": "verb"
+  },
+  {
+    "word": "protect",
+    "meaning": "bảo vệ",
+    "context": "We must protect the environment.",
+    "contextVi": "Chúng ta phải bảo vệ môi trường.",
+    "topic": "society-culture",
+    "pos": "verb"
+  },
+  {
+    "word": "improve",
+    "meaning": "cải thiện",
+    "context": "Practice can improve your skills.",
+    "contextVi": "Luyện tập có thể cải thiện kỹ năng của bạn.",
+    "topic": "society-culture",
+    "pos": "verb"
+  },
+  {
+    "word": "reduce",
+    "meaning": "giảm",
+    "context": "We want to reduce waste.",
+    "contextVi": "Chúng tôi muốn giảm rác thải.",
+    "topic": "society-culture",
+    "pos": "verb"
+  },
+  {
+    "word": "increase",
+    "meaning": "tăng",
+    "context": "We need to increase our budget.",
+    "contextVi": "Chúng ta cần tăng ngân sách.",
+    "topic": "society-culture",
+    "pos": "verb"
+  },
+  {
+    "word": "develop",
+    "meaning": "phát triển",
+    "context": "We develop new skills together.",
+    "contextVi": "Chúng tôi cùng phát triển những kỹ năng mới.",
+    "topic": "society-culture",
+    "pos": "verb"
+  },
+  {
+    "word": "create",
+    "meaning": "tạo ra",
+    "context": "Let's create a simple plan.",
+    "contextVi": "Hãy tạo một kế hoạch đơn giản.",
+    "topic": "society-culture",
+    "pos": "verb"
+  },
+  {
+    "word": "solve",
+    "meaning": "giải quyết",
+    "context": "We can solve this together.",
+    "contextVi": "Chúng ta có thể cùng giải quyết điều này.",
+    "topic": "society-culture",
+    "pos": "verb"
+  },
+  {
+    "word": "manage",
+    "meaning": "quản lý",
+    "context": "She can manage the project.",
+    "contextVi": "Cô ấy có thể quản lý dự án.",
+    "topic": "society-culture",
+    "pos": "verb"
+  },
+  {
+    "word": "important",
+    "meaning": "quan trọng",
+    "context": "This meeting is important.",
+    "contextVi": "Cuộc họp này quan trọng.",
+    "topic": "society-culture",
+    "pos": "adjective"
+  },
+  {
+    "word": "necessary",
+    "meaning": "cần thiết",
+    "context": "A ticket is necessary.",
+    "contextVi": "Cần phải có vé.",
+    "topic": "society-culture",
+    "pos": "adjective"
+  },
+  {
+    "word": "possible",
+    "meaning": "có thể",
+    "context": "Another solution is possible.",
+    "contextVi": "Có thể có một giải pháp khác.",
+    "topic": "society-culture",
+    "pos": "adjective"
+  },
+  {
+    "word": "impossible",
+    "meaning": "không thể",
+    "context": "Travel is impossible during the storm.",
+    "contextVi": "Không thể đi lại trong cơn bão.",
+    "topic": "society-culture",
+    "pos": "adjective"
+  },
+  {
+    "word": "useful",
+    "meaning": "hữu ích",
+    "context": "This information is useful.",
+    "contextVi": "Thông tin này hữu ích.",
+    "topic": "society-culture",
+    "pos": "adjective"
+  },
+  {
+    "word": "useless",
+    "meaning": "vô ích",
+    "context": "A wet map is almost useless.",
+    "contextVi": "Một bản đồ ướt gần như vô dụng.",
+    "topic": "society-culture",
+    "pos": "adjective"
+  },
+  {
+    "word": "special",
+    "meaning": "đặc biệt",
+    "context": "Today is a special day.",
+    "contextVi": "Hôm nay là một ngày đặc biệt.",
+    "topic": "society-culture",
+    "pos": "adjective"
+  },
+  {
+    "word": "common",
+    "meaning": "phổ biến; thường gặp",
+    "context": "This is a common problem.",
+    "contextVi": "Đây là một vấn đề thường gặp.",
+    "topic": "society-culture",
+    "pos": "adjective"
+  },
+  {
+    "word": "normal",
+    "meaning": "bình thường",
+    "context": "The traffic is normal today.",
+    "contextVi": "Giao thông hôm nay bình thường.",
+    "topic": "society-culture",
+    "pos": "adjective"
+  },
+  {
+    "word": "traditional",
+    "meaning": "truyền thống",
+    "context": "They play traditional music.",
+    "contextVi": "Họ chơi nhạc truyền thống.",
+    "topic": "society-culture",
+    "pos": "adjective"
+  },
+  {
+    "word": "modern",
+    "meaning": "hiện đại",
+    "context": "The city has modern buildings.",
+    "contextVi": "Thành phố có những tòa nhà hiện đại.",
+    "topic": "society-culture",
+    "pos": "adjective"
+  },
+  {
+    "word": "popular",
+    "meaning": "được yêu thích; phổ biến",
+    "context": "This song is popular.",
+    "contextVi": "Bài hát này được yêu thích.",
+    "topic": "society-culture",
+    "pos": "adjective"
+  }
+]

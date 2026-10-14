@@ -1,4 +1,4 @@
-# LingoStep 2.1 — Tiếng Anh từng bước
+# LingoStep 2.2 — Tiếng Anh từng bước
 
 **Đang nâng cấp từ v1.1?** Xem `docs/V2.0-NANG-CAP.md` và chạy `supabase/LingoStep-v2.0-Upgrade.sql` để bật đồng bộ trạm luyện tập và hàng chờ offline. File giữ nguyên dữ liệu cũ.
 
@@ -7,7 +7,7 @@
 
 Đây là bộ nội dung khởi đầu theo cấu trúc A0–C2, **chưa phải một giáo trình đủ để đưa người học tới C2**. A0 là nhãn nội bộ cho người bắt đầu; CEFR chính thức dùng A1–C2. Chấm phát âm qua dịch vụ cần cấu hình riêng; phần so sánh sóng âm offline chỉ ước lượng nhịp, không chứng minh phát âm đúng.
 
-Xem hướng dẫn nâng cấp và các giới hạn tại `docs/V2.1-NANG-CAP.md`.
+Xem hướng dẫn nâng cấp và các giới hạn tại `docs/V2.2-NANG-CAP.md`.
 
 ## 1. Chạy nhanh trên máy tính
 
@@ -20,15 +20,15 @@ npm run dev
 
 Mở http://localhost:3000. Trên Windows có thể chạy `scripts/start-windows.bat` sau khi cài Node.js. macOS/Linux: `bash scripts/start-local.sh`.
 
-Bản 2.1 thêm 42 bài viết có hướng dẫn và 105 lời giải đọc hiểu cụ thể. Bản 2.1 đã có URL/key publishable của dự án được cấp. Cần cài database để dùng tài khoản đồng bộ. Chế độ khách vẫn dùng được để học thử. Không cần tạo tài khoản trước khi học. PWA được kích hoạt trong bản production, không đăng ký service worker khi dùng `next dev`.
+Bản 2.2 thêm thư viện1.217 từ với IPA Mỹ, hình, file nghe từ và câu; luyện chọn nghĩa/nghe/điền từ, lưu từ và ôn theo lịch. Giữ42 bài viết có hướng dẫn và105 lời giải đọc hiểu cụ thể. Bản 2.2 đã có URL/key publishable của dự án được cấp. Cần cài database để dùng tài khoản đồng bộ. Chế độ khách vẫn dùng được để học thử. Không cần tạo tài khoản trước khi học. PWA được kích hoạt trong bản production, không đăng ký service worker khi dùng `next dev`.
 
 ## 2. Kết nối Supabase thực sự
 
-**Bản 2.1 đã cấu hình sẵn dự án của bạn.** Xem `docs/KET-NOI-SUPABASE.md`: chạy một file `supabase/LingoStep-Supabase-Setup.sql` trong SQL Editor để tạo bảng và nạp bài học. Không cần service-role key cho cách cài này. Các bước bên dưới là cách cấu hình dự án khác.
+**Bản 2.2 đã cấu hình sẵn dự án của bạn.** Xem `docs/KET-NOI-SUPABASE.md`: chạy một file `supabase/LingoStep-Supabase-Setup.sql` trong SQL Editor để tạo bảng và nạp bài học. Không cần service-role key cho cách cài này. Các bước bên dưới là cách cấu hình dự án khác.
 
 
 1. Tạo một dự án Supabase mới.
-2. Mở SQL Editor, chạy **theo thứ tự** `supabase/migrations/202610120001_core.sql`, rồi `202610120002_speech_quota.sql`, `202610120003_cloud_progress.sql` `202610120004_v2_practice_queue.sql` và `202610130005_writing.sql`. Hoặc dùng Supabase CLI và `supabase db push`.
+2. Mở SQL Editor, chạy **theo thứ tự** `supabase/migrations/202610120001_core.sql`, rồi `202610120002_speech_quota.sql`, `202610120003_cloud_progress.sql` `202610120004_v2_practice_queue.sql` `202610130005_writing.sql` và `202610140006_vocabulary.sql`. Hoặc dùng Supabase CLI và `supabase db push`.
 3. Sao chép `.env.example` thành `.env.local`. Điền `NEXT_PUBLIC_SUPABASE_URL` và `NEXT_PUBLIC_SUPABASE_PUBLISHABLE_KEY` từ trang API settings. Không dùng khóa service role trong biến `NEXT_PUBLIC_`.
 4. Điền `SUPABASE_SERVICE_ROLE_KEY` trong môi trường chạy seed trên máy của quản trị viên. Chạy:
 

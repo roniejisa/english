@@ -1,6 +1,7 @@
 import {createClient} from '@supabase/supabase-js';
 import {curriculum,nodes} from '../src/lib/engine';
 import {writingExercises} from '../src/lib/writing';
+import {vocabulary} from '../src/lib/vocabulary';
 const url=process.env.NEXT_PUBLIC_SUPABASE_URL,key=process.env.SUPABASE_SERVICE_ROLE_KEY;
 if(!url||!key)throw new Error('Thiếu NEXT_PUBLIC_SUPABASE_URL hoặc SUPABASE_SERVICE_ROLE_KEY trong môi trường chạy seed. Không dùng service-role key ở trình duyệt.');
 const questions=[...new Map(curriculum.lessons.flatMap(l=>l.questions).map(q=>[q.id,q])).values()];
@@ -9,4 +10,6 @@ const {error}=await client.rpc('admin_seed_bundle',{p_bundle:{questions,nodes:no
 if(error)throw new Error(error.message);
 const writing=await client.rpc('admin_seed_writing',{p_bundle:writingExercises});
 if(writing.error)throw new Error(writing.error.message+' — Chạy migration luyện viết v2.1 trước.');
-console.log(`Seeded ${nodes.length} nodes and ${questions.length} canonical questions and ${writingExercises.length} writing tasks.`);
+const words=await client.rpc('admin_seed_vocabulary',{p_bundle:vocabulary});
+if(words.error)throw new Error(words.error.message+' — Chạy migration từ vựng v2.2 trước.');
+console.log(`Seeded ${nodes.length} nodes and ${questions.length} canonical questions and ${writingExercises.length} writing tasks, ${vocabulary.length} vocabulary entries.`);

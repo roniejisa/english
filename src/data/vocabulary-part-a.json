@@ -1,0 +1,4794 @@
+[
+  {
+    "word": "person",
+    "meaning": "người",
+    "context": "She is a kind person.",
+    "contextVi": "Cô ấy là một người tốt bụng.",
+    "topic": "people-family",
+    "pos": "noun"
+  },
+  {
+    "word": "people",
+    "meaning": "mọi người",
+    "context": "Many people live here.",
+    "contextVi": "Nhiều người sống ở đây.",
+    "topic": "people-family",
+    "pos": "noun"
+  },
+  {
+    "word": "family",
+    "meaning": "gia đình",
+    "context": "My family eats together.",
+    "contextVi": "Gia đình tôi ăn cùng nhau.",
+    "topic": "people-family",
+    "pos": "noun"
+  },
+  {
+    "word": "mother",
+    "meaning": "mẹ",
+    "context": "My mother is at home.",
+    "contextVi": "Mẹ tôi đang ở nhà.",
+    "topic": "people-family",
+    "pos": "noun"
+  },
+  {
+    "word": "father",
+    "meaning": "bố",
+    "context": "My father cooks dinner.",
+    "contextVi": "Bố tôi nấu bữa tối.",
+    "topic": "people-family",
+    "pos": "noun"
+  },
+  {
+    "word": "parent",
+    "meaning": "cha hoặc mẹ",
+    "context": "Each parent gets a letter.",
+    "contextVi": "Mỗi phụ huynh nhận một lá thư.",
+    "topic": "people-family",
+    "pos": "noun"
+  },
+  {
+    "word": "child",
+    "meaning": "đứa trẻ",
+    "context": "The child is sleeping.",
+    "contextVi": "Đứa trẻ đang ngủ.",
+    "topic": "people-family",
+    "pos": "noun"
+  },
+  {
+    "word": "baby",
+    "meaning": "em bé",
+    "context": "The baby needs milk.",
+    "contextVi": "Em bé cần sữa.",
+    "topic": "people-family",
+    "pos": "noun"
+  },
+  {
+    "word": "son",
+    "meaning": "con trai",
+    "context": "Her son is ten.",
+    "contextVi": "Con trai cô ấy mười tuổi.",
+    "topic": "people-family",
+    "pos": "noun"
+  },
+  {
+    "word": "daughter",
+    "meaning": "con gái",
+    "context": "His daughter likes music.",
+    "contextVi": "Con gái anh ấy thích âm nhạc.",
+    "topic": "people-family",
+    "pos": "noun"
+  },
+  {
+    "word": "brother",
+    "meaning": "anh hoặc em trai",
+    "context": "My brother plays football.",
+    "contextVi": "Anh trai tôi chơi bóng đá.",
+    "topic": "people-family",
+    "pos": "noun"
+  },
+  {
+    "word": "sister",
+    "meaning": "chị hoặc em gái",
+    "context": "My sister reads books.",
+    "contextVi": "Chị gái tôi đọc sách.",
+    "topic": "people-family",
+    "pos": "noun"
+  },
+  {
+    "word": "grandmother",
+    "meaning": "bà",
+    "context": "My grandmother tells stories.",
+    "contextVi": "Bà tôi kể chuyện.",
+    "topic": "people-family",
+    "pos": "noun"
+  },
+  {
+    "word": "grandfather",
+    "meaning": "ông",
+    "context": "My grandfather grows flowers.",
+    "contextVi": "Ông tôi trồng hoa.",
+    "topic": "people-family",
+    "pos": "noun"
+  },
+  {
+    "word": "grandparent",
+    "meaning": "ông hoặc bà",
+    "context": "Call a grandparent today.",
+    "contextVi": "Hãy gọi cho ông hoặc bà hôm nay.",
+    "topic": "people-family",
+    "pos": "noun"
+  },
+  {
+    "word": "grandson",
+    "meaning": "cháu trai của ông bà",
+    "context": "Her grandson visits often.",
+    "contextVi": "Cháu trai của bà ấy thường đến thăm.",
+    "topic": "people-family",
+    "pos": "noun"
+  },
+  {
+    "word": "granddaughter",
+    "meaning": "cháu gái của ông bà",
+    "context": "His granddaughter is smiling.",
+    "contextVi": "Cháu gái của ông ấy đang mỉm cười.",
+    "topic": "people-family",
+    "pos": "noun"
+  },
+  {
+    "word": "uncle",
+    "meaning": "chú, bác hoặc cậu",
+    "context": "My uncle drives a bus.",
+    "contextVi": "Chú tôi lái xe buýt.",
+    "topic": "people-family",
+    "pos": "noun"
+  },
+  {
+    "word": "aunt",
+    "meaning": "cô, dì hoặc bác gái",
+    "context": "My aunt makes cakes.",
+    "contextVi": "Dì tôi làm bánh.",
+    "topic": "people-family",
+    "pos": "noun"
+  },
+  {
+    "word": "cousin",
+    "meaning": "anh chị em họ",
+    "context": "My cousin lives nearby.",
+    "contextVi": "Anh họ tôi sống gần đây.",
+    "topic": "people-family",
+    "pos": "noun"
+  },
+  {
+    "word": "nephew",
+    "meaning": "cháu trai gọi bằng cô, chú",
+    "context": "My nephew starts school today.",
+    "contextVi": "Cháu trai tôi bắt đầu đi học hôm nay.",
+    "topic": "people-family",
+    "pos": "noun"
+  },
+  {
+    "word": "niece",
+    "meaning": "cháu gái gọi bằng cô, chú",
+    "context": "My niece loves drawing.",
+    "contextVi": "Cháu gái tôi thích vẽ.",
+    "topic": "people-family",
+    "pos": "noun"
+  },
+  {
+    "word": "husband",
+    "meaning": "chồng",
+    "context": "Her husband works here.",
+    "contextVi": "Chồng cô ấy làm việc ở đây.",
+    "topic": "people-family",
+    "pos": "noun"
+  },
+  {
+    "word": "wife",
+    "meaning": "vợ",
+    "context": "His wife is a doctor.",
+    "contextVi": "Vợ anh ấy là bác sĩ.",
+    "topic": "people-family",
+    "pos": "noun"
+  },
+  {
+    "word": "couple",
+    "meaning": "cặp đôi",
+    "context": "The couple walks together.",
+    "contextVi": "Cặp đôi đi bộ cùng nhau.",
+    "topic": "people-family",
+    "pos": "noun"
+  },
+  {
+    "word": "partner",
+    "meaning": "bạn đời hoặc người đồng hành",
+    "context": "My partner supports me.",
+    "contextVi": "Bạn đời của tôi ủng hộ tôi.",
+    "topic": "people-family",
+    "pos": "noun"
+  },
+  {
+    "word": "friend",
+    "meaning": "bạn bè",
+    "context": "My friend helps me.",
+    "contextVi": "Bạn tôi giúp tôi.",
+    "topic": "people-family",
+    "pos": "noun"
+  },
+  {
+    "word": "neighbor",
+    "meaning": "hàng xóm",
+    "context": "Our neighbor is friendly.",
+    "contextVi": "Hàng xóm của chúng tôi thân thiện.",
+    "topic": "people-family",
+    "pos": "noun"
+  },
+  {
+    "word": "guest",
+    "meaning": "khách",
+    "context": "Our guest arrives tonight.",
+    "contextVi": "Khách của chúng tôi đến tối nay.",
+    "topic": "people-family",
+    "pos": "noun"
+  },
+  {
+    "word": "host",
+    "meaning": "chủ nhà đón khách",
+    "context": "The host welcomes everyone.",
+    "contextVi": "Chủ nhà chào đón mọi người.",
+    "topic": "people-family",
+    "pos": "noun"
+  },
+  {
+    "word": "stranger",
+    "meaning": "người lạ",
+    "context": "A stranger asks for directions.",
+    "contextVi": "Một người lạ hỏi đường.",
+    "topic": "people-family",
+    "pos": "noun"
+  },
+  {
+    "word": "adult",
+    "meaning": "người trưởng thành",
+    "context": "Ask an adult for help.",
+    "contextVi": "Hãy nhờ một người lớn giúp đỡ.",
+    "topic": "people-family",
+    "pos": "noun"
+  },
+  {
+    "word": "teenager",
+    "meaning": "thiếu niên",
+    "context": "The teenager loves sports.",
+    "contextVi": "Thiếu niên đó thích thể thao.",
+    "topic": "people-family",
+    "pos": "noun"
+  },
+  {
+    "word": "boy",
+    "meaning": "cậu bé",
+    "context": "The boy has a kite.",
+    "contextVi": "Cậu bé có một chiếc diều.",
+    "topic": "people-family",
+    "pos": "noun"
+  },
+  {
+    "word": "girl",
+    "meaning": "cô bé",
+    "context": "The girl is dancing.",
+    "contextVi": "Cô bé đang nhảy múa.",
+    "topic": "people-family",
+    "pos": "noun"
+  },
+  {
+    "word": "man",
+    "meaning": "người đàn ông",
+    "context": "The man wears glasses.",
+    "contextVi": "Người đàn ông đeo kính.",
+    "topic": "people-family",
+    "pos": "noun"
+  },
+  {
+    "word": "woman",
+    "meaning": "người phụ nữ",
+    "context": "The woman carries a bag.",
+    "contextVi": "Người phụ nữ xách một chiếc túi.",
+    "topic": "people-family",
+    "pos": "noun"
+  },
+  {
+    "word": "gentleman",
+    "meaning": "quý ông",
+    "context": "The gentleman opens the door.",
+    "contextVi": "Quý ông mở cửa.",
+    "topic": "people-family",
+    "pos": "noun"
+  },
+  {
+    "word": "lady",
+    "meaning": "quý bà hoặc phụ nữ",
+    "context": "The lady smiles at us.",
+    "contextVi": "Người phụ nữ mỉm cười với chúng tôi.",
+    "topic": "people-family",
+    "pos": "noun"
+  },
+  {
+    "word": "member",
+    "meaning": "thành viên",
+    "context": "Each member has a name tag.",
+    "contextVi": "Mỗi thành viên có một thẻ tên.",
+    "topic": "people-family",
+    "pos": "noun"
+  },
+  {
+    "word": "relative",
+    "meaning": "người họ hàng",
+    "context": "A relative visits this weekend.",
+    "contextVi": "Một người họ hàng đến thăm cuối tuần này.",
+    "topic": "people-family",
+    "pos": "noun"
+  },
+  {
+    "word": "twin",
+    "meaning": "người sinh đôi",
+    "context": "My twin looks like me.",
+    "contextVi": "Người anh em sinh đôi của tôi trông giống tôi.",
+    "topic": "people-family",
+    "pos": "noun"
+  },
+  {
+    "word": "sibling",
+    "meaning": "anh chị em ruột",
+    "context": "I have one sibling.",
+    "contextVi": "Tôi có một người anh, chị hoặc em ruột.",
+    "topic": "people-family",
+    "pos": "noun"
+  },
+  {
+    "word": "orphan",
+    "meaning": "trẻ mồ côi",
+    "context": "The orphan has a new home.",
+    "contextVi": "Đứa trẻ mồ côi có một mái nhà mới.",
+    "topic": "people-family",
+    "pos": "noun"
+  },
+  {
+    "word": "bride",
+    "meaning": "cô dâu",
+    "context": "The bride wears a white dress.",
+    "contextVi": "Cô dâu mặc một chiếc váy trắng.",
+    "topic": "people-family",
+    "pos": "noun"
+  },
+  {
+    "word": "groom",
+    "meaning": "chú rể",
+    "context": "The groom looks happy.",
+    "contextVi": "Chú rể trông hạnh phúc.",
+    "topic": "people-family",
+    "pos": "noun"
+  },
+  {
+    "word": "wedding",
+    "meaning": "đám cưới",
+    "context": "Their wedding is in June.",
+    "contextVi": "Đám cưới của họ vào tháng Sáu.",
+    "topic": "people-family",
+    "pos": "noun"
+  },
+  {
+    "word": "marriage",
+    "meaning": "hôn nhân",
+    "context": "Their marriage is happy.",
+    "contextVi": "Cuộc hôn nhân của họ hạnh phúc.",
+    "topic": "people-family",
+    "pos": "noun"
+  },
+  {
+    "word": "birthday",
+    "meaning": "sinh nhật",
+    "context": "My birthday is tomorrow.",
+    "contextVi": "Sinh nhật tôi là ngày mai.",
+    "topic": "people-family",
+    "pos": "noun"
+  },
+  {
+    "word": "birth",
+    "meaning": "sự ra đời",
+    "context": "We celebrate the baby's birth.",
+    "contextVi": "Chúng tôi mừng em bé chào đời.",
+    "topic": "people-family",
+    "pos": "noun"
+  },
+  {
+    "word": "age",
+    "meaning": "tuổi",
+    "context": "What is your age?",
+    "contextVi": "Bạn bao nhiêu tuổi?",
+    "topic": "people-family",
+    "pos": "noun"
+  },
+  {
+    "word": "name",
+    "meaning": "tên",
+    "context": "Please write your name.",
+    "contextVi": "Hãy viết tên của bạn.",
+    "topic": "people-family",
+    "pos": "noun"
+  },
+  {
+    "word": "nickname",
+    "meaning": "biệt danh",
+    "context": "His nickname is Sunny.",
+    "contextVi": "Biệt danh của anh ấy là Sunny.",
+    "topic": "people-family",
+    "pos": "noun"
+  },
+  {
+    "word": "relationship",
+    "meaning": "mối quan hệ",
+    "context": "We have a good relationship.",
+    "contextVi": "Chúng tôi có một mối quan hệ tốt.",
+    "topic": "people-family",
+    "pos": "noun"
+  },
+  {
+    "word": "friendship",
+    "meaning": "tình bạn",
+    "context": "Our friendship means a lot.",
+    "contextVi": "Tình bạn của chúng tôi rất có ý nghĩa.",
+    "topic": "people-family",
+    "pos": "noun"
+  },
+  {
+    "word": "childhood",
+    "meaning": "tuổi thơ",
+    "context": "I remember my childhood.",
+    "contextVi": "Tôi nhớ tuổi thơ của mình.",
+    "topic": "people-family",
+    "pos": "noun"
+  },
+  {
+    "word": "conversation",
+    "meaning": "cuộc trò chuyện",
+    "context": "We enjoy our conversation.",
+    "contextVi": "Chúng tôi thích cuộc trò chuyện của mình.",
+    "topic": "people-family",
+    "pos": "noun"
+  },
+  {
+    "word": "invitation",
+    "meaning": "lời mời",
+    "context": "Thanks for the invitation.",
+    "contextVi": "Cảm ơn về lời mời.",
+    "topic": "people-family",
+    "pos": "noun"
+  },
+  {
+    "word": "visit",
+    "meaning": "đến thăm",
+    "context": "We visit our cousins.",
+    "contextVi": "Chúng tôi đến thăm anh chị em họ.",
+    "topic": "people-family",
+    "pos": "verb"
+  },
+  {
+    "word": "welcome",
+    "meaning": "chào đón",
+    "context": "We welcome our new neighbor.",
+    "contextVi": "Chúng tôi chào đón người hàng xóm mới.",
+    "topic": "people-family",
+    "pos": "verb"
+  },
+  {
+    "word": "introduce",
+    "meaning": "giới thiệu",
+    "context": "Let me introduce my friend.",
+    "contextVi": "Để tôi giới thiệu bạn tôi.",
+    "topic": "people-family",
+    "pos": "verb"
+  },
+  {
+    "word": "meet",
+    "meaning": "gặp",
+    "context": "We meet after lunch.",
+    "contextVi": "Chúng tôi gặp nhau sau bữa trưa.",
+    "topic": "people-family",
+    "pos": "verb"
+  },
+  {
+    "word": "hug",
+    "meaning": "ôm",
+    "context": "I hug my mother.",
+    "contextVi": "Tôi ôm mẹ.",
+    "topic": "people-family",
+    "pos": "verb"
+  },
+  {
+    "word": "kiss",
+    "meaning": "hôn",
+    "context": "I kiss the baby gently.",
+    "contextVi": "Tôi hôn em bé nhẹ nhàng.",
+    "topic": "people-family",
+    "pos": "verb"
+  },
+  {
+    "word": "marry",
+    "meaning": "kết hôn với",
+    "context": "I want to marry you.",
+    "contextVi": "Tôi muốn kết hôn với bạn.",
+    "topic": "people-family",
+    "pos": "verb"
+  },
+  {
+    "word": "share",
+    "meaning": "chia sẻ",
+    "context": "We share our ideas.",
+    "contextVi": "Chúng tôi chia sẻ ý tưởng của mình.",
+    "topic": "people-family",
+    "pos": "verb"
+  },
+  {
+    "word": "help",
+    "meaning": "giúp đỡ",
+    "context": "Can you help me?",
+    "contextVi": "Bạn có thể giúp tôi không?",
+    "topic": "people-family",
+    "pos": "verb"
+  },
+  {
+    "word": "care",
+    "meaning": "quan tâm, chăm sóc",
+    "context": "We care for our parents.",
+    "contextVi": "Chúng tôi chăm sóc bố mẹ.",
+    "topic": "people-family",
+    "pos": "verb"
+  },
+  {
+    "word": "trust",
+    "meaning": "tin tưởng",
+    "context": "I trust my sister.",
+    "contextVi": "Tôi tin tưởng chị gái mình.",
+    "topic": "people-family",
+    "pos": "verb"
+  },
+  {
+    "word": "respect",
+    "meaning": "tôn trọng",
+    "context": "We respect each other.",
+    "contextVi": "Chúng tôi tôn trọng nhau.",
+    "topic": "people-family",
+    "pos": "verb"
+  },
+  {
+    "word": "kind",
+    "meaning": "tốt bụng",
+    "context": "She is kind to everyone.",
+    "contextVi": "Cô ấy tốt bụng với mọi người.",
+    "topic": "people-family",
+    "pos": "adjective"
+  },
+  {
+    "word": "friendly",
+    "meaning": "thân thiện",
+    "context": "Our neighbors are friendly.",
+    "contextVi": "Hàng xóm của chúng tôi thân thiện.",
+    "topic": "people-family",
+    "pos": "adjective"
+  },
+  {
+    "word": "polite",
+    "meaning": "lịch sự",
+    "context": "The children are polite.",
+    "contextVi": "Những đứa trẻ rất lịch sự.",
+    "topic": "people-family",
+    "pos": "adjective"
+  },
+  {
+    "word": "single",
+    "meaning": "độc thân",
+    "context": "My uncle is single.",
+    "contextVi": "Chú tôi độc thân.",
+    "topic": "people-family",
+    "pos": "adjective"
+  },
+  {
+    "word": "married",
+    "meaning": "đã kết hôn",
+    "context": "My sister is married.",
+    "contextVi": "Chị gái tôi đã kết hôn.",
+    "topic": "people-family",
+    "pos": "adjective"
+  },
+  {
+    "word": "home",
+    "meaning": "nhà, mái ấm",
+    "context": "I am going home.",
+    "contextVi": "Tôi đang về nhà.",
+    "topic": "home",
+    "pos": "noun"
+  },
+  {
+    "word": "house",
+    "meaning": "ngôi nhà",
+    "context": "Our house has a garden.",
+    "contextVi": "Nhà chúng tôi có một khu vườn.",
+    "topic": "home",
+    "pos": "noun"
+  },
+  {
+    "word": "apartment",
+    "meaning": "căn hộ",
+    "context": "She rents an apartment.",
+    "contextVi": "Cô ấy thuê một căn hộ.",
+    "topic": "home",
+    "pos": "noun"
+  },
+  {
+    "word": "building",
+    "meaning": "tòa nhà",
+    "context": "This building has six floors.",
+    "contextVi": "Tòa nhà này có sáu tầng.",
+    "topic": "home",
+    "pos": "noun"
+  },
+  {
+    "word": "room",
+    "meaning": "phòng",
+    "context": "My room is small.",
+    "contextVi": "Phòng tôi nhỏ.",
+    "topic": "home",
+    "pos": "noun"
+  },
+  {
+    "word": "bedroom",
+    "meaning": "phòng ngủ",
+    "context": "The bedroom is upstairs.",
+    "contextVi": "Phòng ngủ ở tầng trên.",
+    "topic": "home",
+    "pos": "noun"
+  },
+  {
+    "word": "bathroom",
+    "meaning": "phòng tắm",
+    "context": "The bathroom is clean.",
+    "contextVi": "Phòng tắm sạch sẽ.",
+    "topic": "home",
+    "pos": "noun"
+  },
+  {
+    "word": "kitchen",
+    "meaning": "nhà bếp",
+    "context": "We cook in the kitchen.",
+    "contextVi": "Chúng tôi nấu ăn trong bếp.",
+    "topic": "home",
+    "pos": "noun"
+  },
+  {
+    "word": "hallway",
+    "meaning": "hành lang",
+    "context": "The hallway is quiet.",
+    "contextVi": "Hành lang yên tĩnh.",
+    "topic": "home",
+    "pos": "noun"
+  },
+  {
+    "word": "balcony",
+    "meaning": "ban công",
+    "context": "We sit on the balcony.",
+    "contextVi": "Chúng tôi ngồi ngoài ban công.",
+    "topic": "home",
+    "pos": "noun"
+  },
+  {
+    "word": "garage",
+    "meaning": "nhà để xe",
+    "context": "The car is in the garage.",
+    "contextVi": "Xe ô tô ở trong nhà để xe.",
+    "topic": "home",
+    "pos": "noun"
+  },
+  {
+    "word": "roof",
+    "meaning": "mái nhà",
+    "context": "The roof is red.",
+    "contextVi": "Mái nhà màu đỏ.",
+    "topic": "home",
+    "pos": "noun"
+  },
+  {
+    "word": "ceiling",
+    "meaning": "trần nhà",
+    "context": "The ceiling is high.",
+    "contextVi": "Trần nhà cao.",
+    "topic": "home",
+    "pos": "noun"
+  },
+  {
+    "word": "wall",
+    "meaning": "tường",
+    "context": "A picture hangs on the wall.",
+    "contextVi": "Một bức tranh treo trên tường.",
+    "topic": "home",
+    "pos": "noun"
+  },
+  {
+    "word": "floor",
+    "meaning": "sàn nhà",
+    "context": "The floor is wet.",
+    "contextVi": "Sàn nhà bị ướt.",
+    "topic": "home",
+    "pos": "noun"
+  },
+  {
+    "word": "door",
+    "meaning": "cửa ra vào",
+    "context": "Please close the door.",
+    "contextVi": "Hãy đóng cửa.",
+    "topic": "home",
+    "pos": "noun"
+  },
+  {
+    "word": "window",
+    "meaning": "cửa sổ",
+    "context": "Open the window, please.",
+    "contextVi": "Làm ơn mở cửa sổ.",
+    "topic": "home",
+    "pos": "noun"
+  },
+  {
+    "word": "stairs",
+    "meaning": "cầu thang",
+    "context": "Use the stairs carefully.",
+    "contextVi": "Hãy đi cầu thang cẩn thận.",
+    "topic": "home",
+    "pos": "noun"
+  },
+  {
+    "word": "step",
+    "meaning": "bậc thang",
+    "context": "Watch the last step.",
+    "contextVi": "Hãy chú ý bậc thang cuối cùng.",
+    "topic": "home",
+    "pos": "noun"
+  },
+  {
+    "word": "fence",
+    "meaning": "hàng rào",
+    "context": "The fence is wooden.",
+    "contextVi": "Hàng rào làm bằng gỗ.",
+    "topic": "home",
+    "pos": "noun"
+  },
+  {
+    "word": "gate",
+    "meaning": "cổng",
+    "context": "The gate is open.",
+    "contextVi": "Cổng đang mở.",
+    "topic": "home",
+    "pos": "noun"
+  },
+  {
+    "word": "yard",
+    "meaning": "sân",
+    "context": "The children play in the yard.",
+    "contextVi": "Những đứa trẻ chơi trong sân.",
+    "topic": "home",
+    "pos": "noun"
+  },
+  {
+    "word": "porch",
+    "meaning": "hiên nhà",
+    "context": "We sit on the porch.",
+    "contextVi": "Chúng tôi ngồi ở hiên nhà.",
+    "topic": "home",
+    "pos": "noun"
+  },
+  {
+    "word": "chimney",
+    "meaning": "ống khói",
+    "context": "Smoke rises from the chimney.",
+    "contextVi": "Khói bốc lên từ ống khói.",
+    "topic": "home",
+    "pos": "noun"
+  },
+  {
+    "word": "furniture",
+    "meaning": "đồ nội thất",
+    "context": "We need new furniture.",
+    "contextVi": "Chúng tôi cần đồ nội thất mới.",
+    "topic": "home",
+    "pos": "noun"
+  },
+  {
+    "word": "table",
+    "meaning": "bàn",
+    "context": "The plates are on the table.",
+    "contextVi": "Những chiếc đĩa ở trên bàn.",
+    "topic": "home",
+    "pos": "noun"
+  },
+  {
+    "word": "chair",
+    "meaning": "ghế",
+    "context": "Please take a chair.",
+    "contextVi": "Hãy lấy một chiếc ghế.",
+    "topic": "home",
+    "pos": "noun"
+  },
+  {
+    "word": "sofa",
+    "meaning": "ghế sofa",
+    "context": "She sits on the sofa.",
+    "contextVi": "Cô ấy ngồi trên ghế sofa.",
+    "topic": "home",
+    "pos": "noun"
+  },
+  {
+    "word": "bed",
+    "meaning": "giường",
+    "context": "My bed is comfortable.",
+    "contextVi": "Giường của tôi thoải mái.",
+    "topic": "home",
+    "pos": "noun"
+  },
+  {
+    "word": "pillow",
+    "meaning": "gối",
+    "context": "This pillow is soft.",
+    "contextVi": "Chiếc gối này mềm.",
+    "topic": "home",
+    "pos": "noun"
+  },
+  {
+    "word": "blanket",
+    "meaning": "chăn",
+    "context": "I need a warm blanket.",
+    "contextVi": "Tôi cần một chiếc chăn ấm.",
+    "topic": "home",
+    "pos": "noun"
+  },
+  {
+    "word": "sheet",
+    "meaning": "ga trải giường",
+    "context": "Put a clean sheet on the bed.",
+    "contextVi": "Hãy trải ga sạch lên giường.",
+    "topic": "home",
+    "pos": "noun"
+  },
+  {
+    "word": "mattress",
+    "meaning": "nệm",
+    "context": "The mattress is firm.",
+    "contextVi": "Tấm nệm chắc.",
+    "topic": "home",
+    "pos": "noun"
+  },
+  {
+    "word": "wardrobe",
+    "meaning": "tủ quần áo",
+    "context": "My coat is in the wardrobe.",
+    "contextVi": "Áo khoác của tôi ở trong tủ quần áo.",
+    "topic": "home",
+    "pos": "noun"
+  },
+  {
+    "word": "shelf",
+    "meaning": "kệ",
+    "context": "Put the books on the shelf.",
+    "contextVi": "Hãy đặt sách lên kệ.",
+    "topic": "home",
+    "pos": "noun"
+  },
+  {
+    "word": "cabinet",
+    "meaning": "tủ có cánh cửa",
+    "context": "The cups are in the cabinet.",
+    "contextVi": "Những chiếc cốc ở trong tủ.",
+    "topic": "home",
+    "pos": "noun"
+  },
+  {
+    "word": "drawer",
+    "meaning": "ngăn kéo",
+    "context": "The keys are in the drawer.",
+    "contextVi": "Chìa khóa ở trong ngăn kéo.",
+    "topic": "home",
+    "pos": "noun"
+  },
+  {
+    "word": "cupboard",
+    "meaning": "tủ đựng đồ",
+    "context": "Keep the dishes in the cupboard.",
+    "contextVi": "Hãy cất bát đĩa trong tủ.",
+    "topic": "home",
+    "pos": "noun"
+  },
+  {
+    "word": "mirror",
+    "meaning": "gương",
+    "context": "Look in the mirror.",
+    "contextVi": "Hãy nhìn vào gương.",
+    "topic": "home",
+    "pos": "noun"
+  },
+  {
+    "word": "lamp",
+    "meaning": "đèn",
+    "context": "Turn on the lamp.",
+    "contextVi": "Hãy bật đèn.",
+    "topic": "home",
+    "pos": "noun"
+  },
+  {
+    "word": "curtain",
+    "meaning": "rèm cửa",
+    "context": "Pull the curtain closed.",
+    "contextVi": "Hãy kéo rèm lại.",
+    "topic": "home",
+    "pos": "noun"
+  },
+  {
+    "word": "carpet",
+    "meaning": "thảm trải sàn",
+    "context": "The carpet is blue.",
+    "contextVi": "Tấm thảm màu xanh dương.",
+    "topic": "home",
+    "pos": "noun"
+  },
+  {
+    "word": "rug",
+    "meaning": "thảm nhỏ",
+    "context": "There is a rug by the bed.",
+    "contextVi": "Có một tấm thảm nhỏ cạnh giường.",
+    "topic": "home",
+    "pos": "noun"
+  },
+  {
+    "word": "clock",
+    "meaning": "đồng hồ",
+    "context": "The clock shows nine.",
+    "contextVi": "Đồng hồ chỉ chín giờ.",
+    "topic": "home",
+    "pos": "noun"
+  },
+  {
+    "word": "key",
+    "meaning": "chìa khóa",
+    "context": "I lost my key.",
+    "contextVi": "Tôi làm mất chìa khóa.",
+    "topic": "home",
+    "pos": "noun"
+  },
+  {
+    "word": "lock",
+    "meaning": "khóa cửa",
+    "context": "This lock is broken.",
+    "contextVi": "Ổ khóa này bị hỏng.",
+    "topic": "home",
+    "pos": "noun"
+  },
+  {
+    "word": "handle",
+    "meaning": "tay nắm",
+    "context": "Turn the handle gently.",
+    "contextVi": "Hãy xoay tay nắm nhẹ nhàng.",
+    "topic": "home",
+    "pos": "noun"
+  },
+  {
+    "word": "sink",
+    "meaning": "bồn rửa",
+    "context": "Wash your hands at the sink.",
+    "contextVi": "Hãy rửa tay ở bồn rửa.",
+    "topic": "home",
+    "pos": "noun"
+  },
+  {
+    "word": "tap",
+    "meaning": "vòi nước",
+    "context": "Please turn off the tap.",
+    "contextVi": "Hãy khóa vòi nước.",
+    "topic": "home",
+    "pos": "noun"
+  },
+  {
+    "word": "shower",
+    "meaning": "vòi sen, việc tắm vòi sen",
+    "context": "I take a shower daily.",
+    "contextVi": "Tôi tắm vòi sen hằng ngày.",
+    "topic": "home",
+    "pos": "noun"
+  },
+  {
+    "word": "bathtub",
+    "meaning": "bồn tắm",
+    "context": "The bathtub is full.",
+    "contextVi": "Bồn tắm đầy nước.",
+    "topic": "home",
+    "pos": "noun"
+  },
+  {
+    "word": "toilet",
+    "meaning": "bồn cầu",
+    "context": "The toilet needs cleaning.",
+    "contextVi": "Bồn cầu cần được làm sạch.",
+    "topic": "home",
+    "pos": "noun"
+  },
+  {
+    "word": "towel",
+    "meaning": "khăn",
+    "context": "Use a clean towel.",
+    "contextVi": "Hãy dùng một chiếc khăn sạch.",
+    "topic": "home",
+    "pos": "noun"
+  },
+  {
+    "word": "soap",
+    "meaning": "xà phòng",
+    "context": "Wash your hands with soap.",
+    "contextVi": "Hãy rửa tay bằng xà phòng.",
+    "topic": "home",
+    "pos": "noun"
+  },
+  {
+    "word": "toothbrush",
+    "meaning": "bàn chải đánh răng",
+    "context": "This is my toothbrush.",
+    "contextVi": "Đây là bàn chải đánh răng của tôi.",
+    "topic": "home",
+    "pos": "noun"
+  },
+  {
+    "word": "toothpaste",
+    "meaning": "kem đánh răng",
+    "context": "We need more toothpaste.",
+    "contextVi": "Chúng tôi cần thêm kem đánh răng.",
+    "topic": "home",
+    "pos": "noun"
+  },
+  {
+    "word": "fridge",
+    "meaning": "tủ lạnh",
+    "context": "Put the milk in the fridge.",
+    "contextVi": "Hãy cho sữa vào tủ lạnh.",
+    "topic": "home",
+    "pos": "noun"
+  },
+  {
+    "word": "freezer",
+    "meaning": "ngăn đông, tủ đông",
+    "context": "The ice is in the freezer.",
+    "contextVi": "Đá ở trong ngăn đông.",
+    "topic": "home",
+    "pos": "noun"
+  },
+  {
+    "word": "stove",
+    "meaning": "bếp nấu",
+    "context": "Turn off the stove.",
+    "contextVi": "Hãy tắt bếp.",
+    "topic": "home",
+    "pos": "noun"
+  },
+  {
+    "word": "oven",
+    "meaning": "lò nướng",
+    "context": "The oven is hot.",
+    "contextVi": "Lò nướng đang nóng.",
+    "topic": "home",
+    "pos": "noun"
+  },
+  {
+    "word": "microwave",
+    "meaning": "lò vi sóng",
+    "context": "Heat the soup in the microwave.",
+    "contextVi": "Hãy hâm súp trong lò vi sóng.",
+    "topic": "home",
+    "pos": "noun"
+  },
+  {
+    "word": "kettle",
+    "meaning": "ấm đun nước",
+    "context": "The kettle is boiling.",
+    "contextVi": "Nước trong ấm đang sôi.",
+    "topic": "home",
+    "pos": "noun"
+  },
+  {
+    "word": "fan",
+    "meaning": "quạt",
+    "context": "The fan keeps us cool.",
+    "contextVi": "Chiếc quạt giúp chúng tôi mát mẻ.",
+    "topic": "home",
+    "pos": "noun"
+  },
+  {
+    "word": "heater",
+    "meaning": "máy sưởi",
+    "context": "Turn on the heater.",
+    "contextVi": "Hãy bật máy sưởi.",
+    "topic": "home",
+    "pos": "noun"
+  },
+  {
+    "word": "socket",
+    "meaning": "ổ cắm điện",
+    "context": "Use this socket for the lamp.",
+    "contextVi": "Hãy dùng ổ cắm này cho đèn.",
+    "topic": "home",
+    "pos": "noun"
+  },
+  {
+    "word": "plug",
+    "meaning": "phích cắm",
+    "context": "Pull out the plug.",
+    "contextVi": "Hãy rút phích cắm.",
+    "topic": "home",
+    "pos": "noun"
+  },
+  {
+    "word": "broom",
+    "meaning": "chổi",
+    "context": "Use a broom to sweep.",
+    "contextVi": "Hãy dùng chổi để quét.",
+    "topic": "home",
+    "pos": "noun"
+  },
+  {
+    "word": "mop",
+    "meaning": "cây lau nhà",
+    "context": "The mop is in the corner.",
+    "contextVi": "Cây lau nhà ở trong góc.",
+    "topic": "home",
+    "pos": "noun"
+  },
+  {
+    "word": "bucket",
+    "meaning": "xô",
+    "context": "Fill the bucket with water.",
+    "contextVi": "Hãy đổ nước đầy xô.",
+    "topic": "home",
+    "pos": "noun"
+  },
+  {
+    "word": "sponge",
+    "meaning": "miếng bọt biển",
+    "context": "Clean the sink with a sponge.",
+    "contextVi": "Hãy làm sạch bồn rửa bằng miếng bọt biển.",
+    "topic": "home",
+    "pos": "noun"
+  },
+  {
+    "word": "laundry",
+    "meaning": "quần áo cần giặt hoặc đã giặt",
+    "context": "I do the laundry today.",
+    "contextVi": "Tôi giặt quần áo hôm nay.",
+    "topic": "home",
+    "pos": "noun"
+  },
+  {
+    "word": "dust",
+    "meaning": "bụi",
+    "context": "There is dust on the shelf.",
+    "contextVi": "Có bụi trên kệ.",
+    "topic": "home",
+    "pos": "noun"
+  },
+  {
+    "word": "clean",
+    "meaning": "làm sạch",
+    "context": "We clean the kitchen.",
+    "contextVi": "Chúng tôi làm sạch nhà bếp.",
+    "topic": "home",
+    "pos": "verb"
+  },
+  {
+    "word": "sweep",
+    "meaning": "quét",
+    "context": "I sweep the floor.",
+    "contextVi": "Tôi quét sàn nhà.",
+    "topic": "home",
+    "pos": "verb"
+  },
+  {
+    "word": "repair",
+    "meaning": "sửa chữa",
+    "context": "We repair the broken chair.",
+    "contextVi": "Chúng tôi sửa chiếc ghế hỏng.",
+    "topic": "home",
+    "pos": "verb"
+  },
+  {
+    "word": "food",
+    "meaning": "thức ăn",
+    "context": "The food smells good.",
+    "contextVi": "Thức ăn có mùi thơm.",
+    "topic": "food-drink",
+    "pos": "noun"
+  },
+  {
+    "word": "meal",
+    "meaning": "bữa ăn",
+    "context": "We share a meal.",
+    "contextVi": "Chúng tôi dùng chung một bữa ăn.",
+    "topic": "food-drink",
+    "pos": "noun"
+  },
+  {
+    "word": "breakfast",
+    "meaning": "bữa sáng",
+    "context": "I eat breakfast early.",
+    "contextVi": "Tôi ăn sáng sớm.",
+    "topic": "food-drink",
+    "pos": "noun"
+  },
+  {
+    "word": "lunch",
+    "meaning": "bữa trưa",
+    "context": "Lunch is ready.",
+    "contextVi": "Bữa trưa đã sẵn sàng.",
+    "topic": "food-drink",
+    "pos": "noun"
+  },
+  {
+    "word": "dinner",
+    "meaning": "bữa tối",
+    "context": "We cook dinner together.",
+    "contextVi": "Chúng tôi cùng nhau nấu bữa tối.",
+    "topic": "food-drink",
+    "pos": "noun"
+  },
+  {
+    "word": "snack",
+    "meaning": "đồ ăn nhẹ",
+    "context": "I need a small snack.",
+    "contextVi": "Tôi cần một chút đồ ăn nhẹ.",
+    "topic": "food-drink",
+    "pos": "noun"
+  },
+  {
+    "word": "bread",
+    "meaning": "bánh mì",
+    "context": "This bread is fresh.",
+    "contextVi": "Bánh mì này mới.",
+    "topic": "food-drink",
+    "pos": "noun"
+  },
+  {
+    "word": "rice",
+    "meaning": "gạo, cơm",
+    "context": "We eat rice every day.",
+    "contextVi": "Chúng tôi ăn cơm mỗi ngày.",
+    "topic": "food-drink",
+    "pos": "noun"
+  },
+  {
+    "word": "noodle",
+    "meaning": "sợi mì",
+    "context": "One noodle fell on the table.",
+    "contextVi": "Một sợi mì rơi xuống bàn.",
+    "topic": "food-drink",
+    "pos": "noun"
+  },
+  {
+    "word": "pasta",
+    "meaning": "mì Ý",
+    "context": "I cook pasta for lunch.",
+    "contextVi": "Tôi nấu mì Ý cho bữa trưa.",
+    "topic": "food-drink",
+    "pos": "noun"
+  },
+  {
+    "word": "soup",
+    "meaning": "súp, canh",
+    "context": "The soup is hot.",
+    "contextVi": "Món súp đang nóng.",
+    "topic": "food-drink",
+    "pos": "noun"
+  },
+  {
+    "word": "salad",
+    "meaning": "rau trộn",
+    "context": "I make a fresh salad.",
+    "contextVi": "Tôi làm một món rau trộn tươi ngon.",
+    "topic": "food-drink",
+    "pos": "noun"
+  },
+  {
+    "word": "sandwich",
+    "meaning": "bánh mì kẹp",
+    "context": "She eats a cheese sandwich.",
+    "contextVi": "Cô ấy ăn bánh mì kẹp phô mai.",
+    "topic": "food-drink",
+    "pos": "noun"
+  },
+  {
+    "word": "pizza",
+    "meaning": "bánh pizza",
+    "context": "We order a pizza.",
+    "contextVi": "Chúng tôi gọi một chiếc pizza.",
+    "topic": "food-drink",
+    "pos": "noun"
+  },
+  {
+    "word": "burger",
+    "meaning": "bánh mì kẹp kiểu hamburger",
+    "context": "I want a small burger.",
+    "contextVi": "Tôi muốn một chiếc bánh hamburger nhỏ.",
+    "topic": "food-drink",
+    "pos": "noun"
+  },
+  {
+    "word": "sausage",
+    "meaning": "xúc xích",
+    "context": "He cooks a sausage.",
+    "contextVi": "Anh ấy nấu một cây xúc xích.",
+    "topic": "food-drink",
+    "pos": "noun"
+  },
+  {
+    "word": "meat",
+    "meaning": "thịt",
+    "context": "Keep the meat cold.",
+    "contextVi": "Hãy giữ thịt lạnh.",
+    "topic": "food-drink",
+    "pos": "noun"
+  },
+  {
+    "word": "beef",
+    "meaning": "thịt bò",
+    "context": "We buy fresh beef.",
+    "contextVi": "Chúng tôi mua thịt bò tươi.",
+    "topic": "food-drink",
+    "pos": "noun"
+  },
+  {
+    "word": "pork",
+    "meaning": "thịt lợn",
+    "context": "The pork is well cooked.",
+    "contextVi": "Thịt lợn đã được nấu chín kỹ.",
+    "topic": "food-drink",
+    "pos": "noun"
+  },
+  {
+    "word": "chicken",
+    "meaning": "thịt gà, con gà",
+    "context": "We eat chicken with rice.",
+    "contextVi": "Chúng tôi ăn thịt gà với cơm.",
+    "topic": "food-drink",
+    "pos": "noun"
+  },
+  {
+    "word": "egg",
+    "meaning": "trứng",
+    "context": "I boil an egg.",
+    "contextVi": "Tôi luộc một quả trứng.",
+    "topic": "food-drink",
+    "pos": "noun"
+  },
+  {
+    "word": "cheese",
+    "meaning": "phô mai",
+    "context": "This cheese tastes good.",
+    "contextVi": "Phô mai này ngon.",
+    "topic": "food-drink",
+    "pos": "noun"
+  },
+  {
+    "word": "butter",
+    "meaning": "bơ",
+    "context": "Spread butter on the bread.",
+    "contextVi": "Hãy phết bơ lên bánh mì.",
+    "topic": "food-drink",
+    "pos": "noun"
+  },
+  {
+    "word": "yogurt",
+    "meaning": "sữa chua",
+    "context": "I eat yogurt for breakfast.",
+    "contextVi": "Tôi ăn sữa chua vào bữa sáng.",
+    "topic": "food-drink",
+    "pos": "noun"
+  },
+  {
+    "word": "milk",
+    "meaning": "sữa",
+    "context": "The baby drinks milk.",
+    "contextVi": "Em bé uống sữa.",
+    "topic": "food-drink",
+    "pos": "noun"
+  },
+  {
+    "word": "water",
+    "meaning": "nước",
+    "context": "Please drink some water.",
+    "contextVi": "Hãy uống một chút nước.",
+    "topic": "food-drink",
+    "pos": "noun"
+  },
+  {
+    "word": "juice",
+    "meaning": "nước ép",
+    "context": "I like orange juice.",
+    "contextVi": "Tôi thích nước cam ép.",
+    "topic": "food-drink",
+    "pos": "noun"
+  },
+  {
+    "word": "tea",
+    "meaning": "trà",
+    "context": "Would you like some tea?",
+    "contextVi": "Bạn có muốn uống trà không?",
+    "topic": "food-drink",
+    "pos": "noun"
+  },
+  {
+    "word": "coffee",
+    "meaning": "cà phê",
+    "context": "My coffee is too hot.",
+    "contextVi": "Cà phê của tôi nóng quá.",
+    "topic": "food-drink",
+    "pos": "noun"
+  },
+  {
+    "word": "lemonade",
+    "meaning": "nước chanh",
+    "context": "We drink cold lemonade.",
+    "contextVi": "Chúng tôi uống nước chanh lạnh.",
+    "topic": "food-drink",
+    "pos": "noun"
+  },
+  {
+    "word": "soda",
+    "meaning": "nước ngọt có ga",
+    "context": "I rarely drink soda.",
+    "contextVi": "Tôi hiếm khi uống nước ngọt có ga.",
+    "topic": "food-drink",
+    "pos": "noun"
+  },
+  {
+    "word": "beer",
+    "meaning": "bia",
+    "context": "He orders a small beer.",
+    "contextVi": "Anh ấy gọi một cốc bia nhỏ.",
+    "topic": "food-drink",
+    "pos": "noun"
+  },
+  {
+    "word": "wine",
+    "meaning": "rượu vang",
+    "context": "They serve red wine.",
+    "contextVi": "Họ phục vụ rượu vang đỏ.",
+    "topic": "food-drink",
+    "pos": "noun"
+  },
+  {
+    "word": "fruit",
+    "meaning": "trái cây",
+    "context": "We buy fresh fruit.",
+    "contextVi": "Chúng tôi mua trái cây tươi.",
+    "topic": "food-drink",
+    "pos": "noun"
+  },
+  {
+    "word": "apple",
+    "meaning": "táo",
+    "context": "I eat an apple.",
+    "contextVi": "Tôi ăn một quả táo.",
+    "topic": "food-drink",
+    "pos": "noun"
+  },
+  {
+    "word": "banana",
+    "meaning": "chuối",
+    "context": "She peels a banana.",
+    "contextVi": "Cô ấy bóc một quả chuối.",
+    "topic": "food-drink",
+    "pos": "noun"
+  },
+  {
+    "word": "orange",
+    "meaning": "cam",
+    "context": "This orange is sweet.",
+    "contextVi": "Quả cam này ngọt.",
+    "topic": "food-drink",
+    "pos": "noun"
+  },
+  {
+    "word": "lemon",
+    "meaning": "chanh vàng",
+    "context": "Cut the lemon in half.",
+    "contextVi": "Hãy cắt đôi quả chanh vàng.",
+    "topic": "food-drink",
+    "pos": "noun"
+  },
+  {
+    "word": "lime",
+    "meaning": "chanh xanh",
+    "context": "Squeeze a lime into the water.",
+    "contextVi": "Hãy vắt một quả chanh xanh vào nước.",
+    "topic": "food-drink",
+    "pos": "noun"
+  },
+  {
+    "word": "mango",
+    "meaning": "xoài",
+    "context": "The mango is ripe.",
+    "contextVi": "Quả xoài đã chín.",
+    "topic": "food-drink",
+    "pos": "noun"
+  },
+  {
+    "word": "pineapple",
+    "meaning": "dứa",
+    "context": "I cut up a pineapple.",
+    "contextVi": "Tôi cắt một quả dứa thành miếng.",
+    "topic": "food-drink",
+    "pos": "noun"
+  },
+  {
+    "word": "grape",
+    "meaning": "nho",
+    "context": "This grape has no seeds.",
+    "contextVi": "Quả nho này không có hạt.",
+    "topic": "food-drink",
+    "pos": "noun"
+  },
+  {
+    "word": "strawberry",
+    "meaning": "dâu tây",
+    "context": "She eats a strawberry.",
+    "contextVi": "Cô ấy ăn một quả dâu tây.",
+    "topic": "food-drink",
+    "pos": "noun"
+  },
+  {
+    "word": "watermelon",
+    "meaning": "dưa hấu",
+    "context": "We share a watermelon.",
+    "contextVi": "Chúng tôi cùng ăn một quả dưa hấu.",
+    "topic": "food-drink",
+    "pos": "noun"
+  },
+  {
+    "word": "peach",
+    "meaning": "đào",
+    "context": "This peach is soft.",
+    "contextVi": "Quả đào này mềm.",
+    "topic": "food-drink",
+    "pos": "noun"
+  },
+  {
+    "word": "pear",
+    "meaning": "lê",
+    "context": "The pear tastes sweet.",
+    "contextVi": "Quả lê có vị ngọt.",
+    "topic": "food-drink",
+    "pos": "noun"
+  },
+  {
+    "word": "coconut",
+    "meaning": "dừa",
+    "context": "I drink coconut water.",
+    "contextVi": "Tôi uống nước dừa.",
+    "topic": "food-drink",
+    "pos": "noun"
+  },
+  {
+    "word": "vegetable",
+    "meaning": "rau củ",
+    "context": "Choose a green vegetable.",
+    "contextVi": "Hãy chọn một loại rau xanh.",
+    "topic": "food-drink",
+    "pos": "noun"
+  },
+  {
+    "word": "potato",
+    "meaning": "khoai tây",
+    "context": "Bake the potato slowly.",
+    "contextVi": "Hãy nướng củ khoai tây từ từ.",
+    "topic": "food-drink",
+    "pos": "noun"
+  },
+  {
+    "word": "tomato",
+    "meaning": "cà chua",
+    "context": "Slice the tomato thinly.",
+    "contextVi": "Hãy thái cà chua thành lát mỏng.",
+    "topic": "food-drink",
+    "pos": "noun"
+  },
+  {
+    "word": "carrot",
+    "meaning": "cà rốt",
+    "context": "I peel a carrot.",
+    "contextVi": "Tôi gọt một củ cà rốt.",
+    "topic": "food-drink",
+    "pos": "noun"
+  },
+  {
+    "word": "onion",
+    "meaning": "hành tây",
+    "context": "Chop the onion carefully.",
+    "contextVi": "Hãy băm hành tây cẩn thận.",
+    "topic": "food-drink",
+    "pos": "noun"
+  },
+  {
+    "word": "garlic",
+    "meaning": "tỏi",
+    "context": "Add a little garlic.",
+    "contextVi": "Hãy thêm một chút tỏi.",
+    "topic": "food-drink",
+    "pos": "noun"
+  },
+  {
+    "word": "cabbage",
+    "meaning": "bắp cải",
+    "context": "We grow cabbage here.",
+    "contextVi": "Chúng tôi trồng bắp cải ở đây.",
+    "topic": "food-drink",
+    "pos": "noun"
+  },
+  {
+    "word": "cucumber",
+    "meaning": "dưa chuột",
+    "context": "Slice the cucumber for the salad.",
+    "contextVi": "Hãy thái dưa chuột cho món rau trộn.",
+    "topic": "food-drink",
+    "pos": "noun"
+  },
+  {
+    "word": "lettuce",
+    "meaning": "rau xà lách",
+    "context": "Wash the lettuce well.",
+    "contextVi": "Hãy rửa rau xà lách thật sạch.",
+    "topic": "food-drink",
+    "pos": "noun"
+  },
+  {
+    "word": "corn",
+    "meaning": "ngô",
+    "context": "The corn is sweet.",
+    "contextVi": "Ngô này ngọt.",
+    "topic": "food-drink",
+    "pos": "noun"
+  },
+  {
+    "word": "bean",
+    "meaning": "đậu",
+    "context": "A bean can grow into a plant.",
+    "contextVi": "Một hạt đậu có thể mọc thành cây.",
+    "topic": "food-drink",
+    "pos": "noun"
+  },
+  {
+    "word": "pea",
+    "meaning": "đậu Hà Lan",
+    "context": "A pea rolls off the plate.",
+    "contextVi": "Một hạt đậu Hà Lan lăn khỏi đĩa.",
+    "topic": "food-drink",
+    "pos": "noun"
+  },
+  {
+    "word": "mushroom",
+    "meaning": "nấm",
+    "context": "Slice the mushroom carefully.",
+    "contextVi": "Hãy thái cây nấm cẩn thận.",
+    "topic": "food-drink",
+    "pos": "noun"
+  },
+  {
+    "word": "sugar",
+    "meaning": "đường",
+    "context": "I take no sugar in tea.",
+    "contextVi": "Tôi không cho đường vào trà.",
+    "topic": "food-drink",
+    "pos": "noun"
+  },
+  {
+    "word": "salt",
+    "meaning": "muối",
+    "context": "Add a little salt.",
+    "contextVi": "Hãy thêm một chút muối.",
+    "topic": "food-drink",
+    "pos": "noun"
+  },
+  {
+    "word": "pepper",
+    "meaning": "tiêu",
+    "context": "Sprinkle pepper on the soup.",
+    "contextVi": "Hãy rắc tiêu vào súp.",
+    "topic": "food-drink",
+    "pos": "noun"
+  },
+  {
+    "word": "oil",
+    "meaning": "dầu",
+    "context": "Heat the oil gently.",
+    "contextVi": "Hãy đun dầu nhẹ nhàng.",
+    "topic": "food-drink",
+    "pos": "noun"
+  },
+  {
+    "word": "vinegar",
+    "meaning": "giấm",
+    "context": "Add vinegar to the salad.",
+    "contextVi": "Hãy thêm giấm vào món rau trộn.",
+    "topic": "food-drink",
+    "pos": "noun"
+  },
+  {
+    "word": "sauce",
+    "meaning": "nước xốt",
+    "context": "The sauce tastes sweet.",
+    "contextVi": "Nước xốt có vị ngọt.",
+    "topic": "food-drink",
+    "pos": "noun"
+  },
+  {
+    "word": "honey",
+    "meaning": "mật ong",
+    "context": "I put honey in my tea.",
+    "contextVi": "Tôi cho mật ong vào trà.",
+    "topic": "food-drink",
+    "pos": "noun"
+  },
+  {
+    "word": "flour",
+    "meaning": "bột mì",
+    "context": "We need flour for the cake.",
+    "contextVi": "Chúng tôi cần bột mì để làm bánh.",
+    "topic": "food-drink",
+    "pos": "noun"
+  },
+  {
+    "word": "cake",
+    "meaning": "bánh ngọt",
+    "context": "We bake a birthday cake.",
+    "contextVi": "Chúng tôi nướng một chiếc bánh sinh nhật.",
+    "topic": "food-drink",
+    "pos": "noun"
+  },
+  {
+    "word": "cookie",
+    "meaning": "bánh quy",
+    "context": "I eat one cookie.",
+    "contextVi": "Tôi ăn một chiếc bánh quy.",
+    "topic": "food-drink",
+    "pos": "noun"
+  },
+  {
+    "word": "chocolate",
+    "meaning": "sô cô la",
+    "context": "She likes dark chocolate.",
+    "contextVi": "Cô ấy thích sô cô la đen.",
+    "topic": "food-drink",
+    "pos": "noun"
+  },
+  {
+    "word": "candy",
+    "meaning": "kẹo",
+    "context": "The child wants some candy.",
+    "contextVi": "Đứa trẻ muốn một chút kẹo.",
+    "topic": "food-drink",
+    "pos": "noun"
+  },
+  {
+    "word": "dessert",
+    "meaning": "món tráng miệng",
+    "context": "We have fruit for dessert.",
+    "contextVi": "Chúng tôi ăn trái cây để tráng miệng.",
+    "topic": "food-drink",
+    "pos": "noun"
+  },
+  {
+    "word": "hungry",
+    "meaning": "đói",
+    "context": "I am hungry now.",
+    "contextVi": "Bây giờ tôi đói.",
+    "topic": "food-drink",
+    "pos": "adjective"
+  },
+  {
+    "word": "thirsty",
+    "meaning": "khát",
+    "context": "Are you thirsty?",
+    "contextVi": "Bạn có khát không?",
+    "topic": "food-drink",
+    "pos": "adjective"
+  },
+  {
+    "word": "body",
+    "meaning": "cơ thể",
+    "context": "Exercise keeps my body strong.",
+    "contextVi": "Tập thể dục giúp cơ thể tôi khỏe.",
+    "topic": "health-body",
+    "pos": "noun"
+  },
+  {
+    "word": "head",
+    "meaning": "đầu",
+    "context": "My head hurts today.",
+    "contextVi": "Hôm nay tôi đau đầu.",
+    "topic": "health-body",
+    "pos": "noun"
+  },
+  {
+    "word": "face",
+    "meaning": "khuôn mặt",
+    "context": "Wash your face gently.",
+    "contextVi": "Hãy rửa mặt nhẹ nhàng.",
+    "topic": "health-body",
+    "pos": "noun"
+  },
+  {
+    "word": "hair",
+    "meaning": "tóc",
+    "context": "Her hair is long.",
+    "contextVi": "Tóc cô ấy dài.",
+    "topic": "health-body",
+    "pos": "noun"
+  },
+  {
+    "word": "eye",
+    "meaning": "mắt",
+    "context": "My left eye is red.",
+    "contextVi": "Mắt trái của tôi bị đỏ.",
+    "topic": "health-body",
+    "pos": "noun"
+  },
+  {
+    "word": "ear",
+    "meaning": "tai",
+    "context": "My ear hurts.",
+    "contextVi": "Tai tôi bị đau.",
+    "topic": "health-body",
+    "pos": "noun"
+  },
+  {
+    "word": "nose",
+    "meaning": "mũi",
+    "context": "My nose is blocked.",
+    "contextVi": "Mũi tôi bị nghẹt.",
+    "topic": "health-body",
+    "pos": "noun"
+  },
+  {
+    "word": "mouth",
+    "meaning": "miệng",
+    "context": "Open your mouth, please.",
+    "contextVi": "Làm ơn mở miệng.",
+    "topic": "health-body",
+    "pos": "noun"
+  },
+  {
+    "word": "lip",
+    "meaning": "môi",
+    "context": "My lower lip is dry.",
+    "contextVi": "Môi dưới của tôi khô.",
+    "topic": "health-body",
+    "pos": "noun"
+  },
+  {
+    "word": "tooth",
+    "meaning": "răng",
+    "context": "This tooth is loose.",
+    "contextVi": "Chiếc răng này bị lung lay.",
+    "topic": "health-body",
+    "pos": "noun"
+  },
+  {
+    "word": "tongue",
+    "meaning": "lưỡi",
+    "context": "The soup burns my tongue.",
+    "contextVi": "Món súp làm bỏng lưỡi tôi.",
+    "topic": "health-body",
+    "pos": "noun"
+  },
+  {
+    "word": "chin",
+    "meaning": "cằm",
+    "context": "He has a cut on his chin.",
+    "contextVi": "Anh ấy có một vết đứt ở cằm.",
+    "topic": "health-body",
+    "pos": "noun"
+  },
+  {
+    "word": "cheek",
+    "meaning": "má",
+    "context": "There is paint on your cheek.",
+    "contextVi": "Có sơn trên má của bạn.",
+    "topic": "health-body",
+    "pos": "noun"
+  },
+  {
+    "word": "forehead",
+    "meaning": "trán",
+    "context": "Her forehead feels warm.",
+    "contextVi": "Trán cô ấy có vẻ nóng.",
+    "topic": "health-body",
+    "pos": "noun"
+  },
+  {
+    "word": "neck",
+    "meaning": "cổ",
+    "context": "My neck feels stiff.",
+    "contextVi": "Cổ tôi bị cứng.",
+    "topic": "health-body",
+    "pos": "noun"
+  },
+  {
+    "word": "shoulder",
+    "meaning": "vai",
+    "context": "My left shoulder aches.",
+    "contextVi": "Vai trái của tôi đau nhức.",
+    "topic": "health-body",
+    "pos": "noun"
+  },
+  {
+    "word": "arm",
+    "meaning": "cánh tay",
+    "context": "Raise your right arm.",
+    "contextVi": "Hãy giơ cánh tay phải.",
+    "topic": "health-body",
+    "pos": "noun"
+  },
+  {
+    "word": "elbow",
+    "meaning": "khuỷu tay",
+    "context": "I hurt my elbow.",
+    "contextVi": "Tôi làm đau khuỷu tay.",
+    "topic": "health-body",
+    "pos": "noun"
+  },
+  {
+    "word": "wrist",
+    "meaning": "cổ tay",
+    "context": "My wrist feels better.",
+    "contextVi": "Cổ tay tôi đã đỡ hơn.",
+    "topic": "health-body",
+    "pos": "noun"
+  },
+  {
+    "word": "hand",
+    "meaning": "bàn tay",
+    "context": "Hold my hand.",
+    "contextVi": "Hãy nắm tay tôi.",
+    "topic": "health-body",
+    "pos": "noun"
+  },
+  {
+    "word": "finger",
+    "meaning": "ngón tay",
+    "context": "She points with her finger.",
+    "contextVi": "Cô ấy chỉ bằng ngón tay.",
+    "topic": "health-body",
+    "pos": "noun"
+  },
+  {
+    "word": "thumb",
+    "meaning": "ngón cái",
+    "context": "I cut my thumb.",
+    "contextVi": "Tôi bị đứt ngón tay cái.",
+    "topic": "health-body",
+    "pos": "noun"
+  },
+  {
+    "word": "nail",
+    "meaning": "móng tay hoặc móng chân",
+    "context": "This nail is broken.",
+    "contextVi": "Móng này bị gãy.",
+    "topic": "health-body",
+    "pos": "noun"
+  },
+  {
+    "word": "chest",
+    "meaning": "ngực",
+    "context": "My chest feels tight.",
+    "contextVi": "Tôi cảm thấy tức ngực.",
+    "topic": "health-body",
+    "pos": "noun"
+  },
+  {
+    "word": "back",
+    "meaning": "lưng",
+    "context": "My back hurts.",
+    "contextVi": "Lưng tôi bị đau.",
+    "topic": "health-body",
+    "pos": "noun"
+  },
+  {
+    "word": "stomach",
+    "meaning": "bụng, dạ dày",
+    "context": "My stomach feels full.",
+    "contextVi": "Tôi cảm thấy no bụng.",
+    "topic": "health-body",
+    "pos": "noun"
+  },
+  {
+    "word": "waist",
+    "meaning": "eo",
+    "context": "The belt fits my waist.",
+    "contextVi": "Chiếc thắt lưng vừa với eo tôi.",
+    "topic": "health-body",
+    "pos": "noun"
+  },
+  {
+    "word": "hip",
+    "meaning": "hông",
+    "context": "My hip hurts when I walk.",
+    "contextVi": "Hông tôi đau khi đi bộ.",
+    "topic": "health-body",
+    "pos": "noun"
+  },
+  {
+    "word": "leg",
+    "meaning": "chân",
+    "context": "My left leg is tired.",
+    "contextVi": "Chân trái của tôi mỏi.",
+    "topic": "health-body",
+    "pos": "noun"
+  },
+  {
+    "word": "knee",
+    "meaning": "đầu gối",
+    "context": "I scraped my knee.",
+    "contextVi": "Tôi bị trầy đầu gối.",
+    "topic": "health-body",
+    "pos": "noun"
+  },
+  {
+    "word": "ankle",
+    "meaning": "mắt cá chân",
+    "context": "My ankle is swollen.",
+    "contextVi": "Mắt cá chân của tôi bị sưng.",
+    "topic": "health-body",
+    "pos": "noun"
+  },
+  {
+    "word": "foot",
+    "meaning": "bàn chân",
+    "context": "My right foot is cold.",
+    "contextVi": "Bàn chân phải của tôi lạnh.",
+    "topic": "health-body",
+    "pos": "noun"
+  },
+  {
+    "word": "toe",
+    "meaning": "ngón chân",
+    "context": "I hurt my big toe.",
+    "contextVi": "Tôi làm đau ngón chân cái.",
+    "topic": "health-body",
+    "pos": "noun"
+  },
+  {
+    "word": "heel",
+    "meaning": "gót chân",
+    "context": "There is a blister on my heel.",
+    "contextVi": "Gót chân tôi có một vết phồng rộp.",
+    "topic": "health-body",
+    "pos": "noun"
+  },
+  {
+    "word": "skin",
+    "meaning": "da",
+    "context": "My skin is dry.",
+    "contextVi": "Da tôi khô.",
+    "topic": "health-body",
+    "pos": "noun"
+  },
+  {
+    "word": "bone",
+    "meaning": "xương",
+    "context": "The doctor checks the broken bone.",
+    "contextVi": "Bác sĩ kiểm tra chiếc xương bị gãy.",
+    "topic": "health-body",
+    "pos": "noun"
+  },
+  {
+    "word": "muscle",
+    "meaning": "cơ bắp",
+    "context": "This muscle feels sore.",
+    "contextVi": "Cơ này có cảm giác đau.",
+    "topic": "health-body",
+    "pos": "noun"
+  },
+  {
+    "word": "blood",
+    "meaning": "máu",
+    "context": "There is blood on the bandage.",
+    "contextVi": "Có máu trên băng gạc.",
+    "topic": "health-body",
+    "pos": "noun"
+  },
+  {
+    "word": "heart",
+    "meaning": "tim",
+    "context": "My heart beats quickly.",
+    "contextVi": "Tim tôi đập nhanh.",
+    "topic": "health-body",
+    "pos": "noun"
+  },
+  {
+    "word": "brain",
+    "meaning": "não",
+    "context": "Sleep helps your brain rest.",
+    "contextVi": "Giấc ngủ giúp não bạn nghỉ ngơi.",
+    "topic": "health-body",
+    "pos": "noun"
+  },
+  {
+    "word": "lung",
+    "meaning": "phổi",
+    "context": "Each lung helps us breathe.",
+    "contextVi": "Mỗi lá phổi giúp chúng ta hít thở.",
+    "topic": "health-body",
+    "pos": "noun"
+  },
+  {
+    "word": "throat",
+    "meaning": "cổ họng",
+    "context": "My throat is sore.",
+    "contextVi": "Cổ họng tôi bị đau.",
+    "topic": "health-body",
+    "pos": "noun"
+  },
+  {
+    "word": "health",
+    "meaning": "sức khỏe",
+    "context": "Good sleep supports your health.",
+    "contextVi": "Ngủ đủ tốt cho sức khỏe của bạn.",
+    "topic": "health-body",
+    "pos": "noun"
+  },
+  {
+    "word": "doctor",
+    "meaning": "bác sĩ",
+    "context": "I see a doctor today.",
+    "contextVi": "Tôi gặp bác sĩ hôm nay.",
+    "topic": "health-body",
+    "pos": "noun"
+  },
+  {
+    "word": "nurse",
+    "meaning": "y tá, điều dưỡng",
+    "context": "The nurse checks my temperature.",
+    "contextVi": "Y tá kiểm tra nhiệt độ của tôi.",
+    "topic": "health-body",
+    "pos": "noun"
+  },
+  {
+    "word": "dentist",
+    "meaning": "nha sĩ",
+    "context": "The dentist checks my teeth.",
+    "contextVi": "Nha sĩ kiểm tra răng của tôi.",
+    "topic": "health-body",
+    "pos": "noun"
+  },
+  {
+    "word": "patient",
+    "meaning": "bệnh nhân",
+    "context": "The patient waits outside.",
+    "contextVi": "Bệnh nhân chờ ở bên ngoài.",
+    "topic": "health-body",
+    "pos": "noun"
+  },
+  {
+    "word": "hospital",
+    "meaning": "bệnh viện",
+    "context": "The hospital is nearby.",
+    "contextVi": "Bệnh viện ở gần đây.",
+    "topic": "health-body",
+    "pos": "noun"
+  },
+  {
+    "word": "clinic",
+    "meaning": "phòng khám",
+    "context": "The clinic opens at eight.",
+    "contextVi": "Phòng khám mở cửa lúc tám giờ.",
+    "topic": "health-body",
+    "pos": "noun"
+  },
+  {
+    "word": "pharmacy",
+    "meaning": "nhà thuốc",
+    "context": "The pharmacy is open.",
+    "contextVi": "Nhà thuốc đang mở cửa.",
+    "topic": "health-body",
+    "pos": "noun"
+  },
+  {
+    "word": "medicine",
+    "meaning": "thuốc",
+    "context": "Keep medicine away from children.",
+    "contextVi": "Hãy để thuốc xa trẻ em.",
+    "topic": "health-body",
+    "pos": "noun"
+  },
+  {
+    "word": "pill",
+    "meaning": "viên thuốc",
+    "context": "This pill is small.",
+    "contextVi": "Viên thuốc này nhỏ.",
+    "topic": "health-body",
+    "pos": "noun"
+  },
+  {
+    "word": "bandage",
+    "meaning": "băng gạc",
+    "context": "The nurse changes my bandage.",
+    "contextVi": "Y tá thay băng gạc cho tôi.",
+    "topic": "health-body",
+    "pos": "noun"
+  },
+  {
+    "word": "thermometer",
+    "meaning": "nhiệt kế",
+    "context": "Use a thermometer to check your temperature.",
+    "contextVi": "Hãy dùng nhiệt kế để kiểm tra thân nhiệt của bạn.",
+    "topic": "health-body",
+    "pos": "noun"
+  },
+  {
+    "word": "fever",
+    "meaning": "sốt",
+    "context": "The child has a fever.",
+    "contextVi": "Đứa trẻ bị sốt.",
+    "topic": "health-body",
+    "pos": "noun"
+  },
+  {
+    "word": "cough",
+    "meaning": "cơn ho",
+    "context": "My cough keeps me awake.",
+    "contextVi": "Cơn ho khiến tôi không ngủ được.",
+    "topic": "health-body",
+    "pos": "noun"
+  },
+  {
+    "word": "cold",
+    "meaning": "cảm lạnh",
+    "context": "I have a cold.",
+    "contextVi": "Tôi bị cảm lạnh.",
+    "topic": "health-body",
+    "pos": "noun"
+  },
+  {
+    "word": "flu",
+    "meaning": "cúm",
+    "context": "He has the flu.",
+    "contextVi": "Anh ấy bị cúm.",
+    "topic": "health-body",
+    "pos": "noun"
+  },
+  {
+    "word": "pain",
+    "meaning": "cơn đau",
+    "context": "The pain is getting worse.",
+    "contextVi": "Cơn đau đang nặng hơn.",
+    "topic": "health-body",
+    "pos": "noun"
+  },
+  {
+    "word": "headache",
+    "meaning": "đau đầu",
+    "context": "I have a headache.",
+    "contextVi": "Tôi bị đau đầu.",
+    "topic": "health-body",
+    "pos": "noun"
+  },
+  {
+    "word": "injury",
+    "meaning": "chấn thương",
+    "context": "Her injury needs attention.",
+    "contextVi": "Chấn thương của cô ấy cần được chăm sóc.",
+    "topic": "health-body",
+    "pos": "noun"
+  },
+  {
+    "word": "wound",
+    "meaning": "vết thương",
+    "context": "The wound is healing.",
+    "contextVi": "Vết thương đang lành.",
+    "topic": "health-body",
+    "pos": "noun"
+  },
+  {
+    "word": "allergy",
+    "meaning": "dị ứng",
+    "context": "I have a peanut allergy.",
+    "contextVi": "Tôi bị dị ứng với lạc.",
+    "topic": "health-body",
+    "pos": "noun"
+  },
+  {
+    "word": "symptom",
+    "meaning": "triệu chứng",
+    "context": "A fever can be a symptom.",
+    "contextVi": "Sốt có thể là một triệu chứng.",
+    "topic": "health-body",
+    "pos": "noun"
+  },
+  {
+    "word": "appointment",
+    "meaning": "lịch hẹn",
+    "context": "My appointment is tomorrow.",
+    "contextVi": "Lịch hẹn của tôi là ngày mai.",
+    "topic": "health-body",
+    "pos": "noun"
+  },
+  {
+    "word": "exercise",
+    "meaning": "tập thể dục",
+    "context": "I exercise every morning.",
+    "contextVi": "Tôi tập thể dục mỗi sáng.",
+    "topic": "health-body",
+    "pos": "verb"
+  },
+  {
+    "word": "rest",
+    "meaning": "nghỉ ngơi",
+    "context": "Please rest for a while.",
+    "contextVi": "Hãy nghỉ ngơi một lát.",
+    "topic": "health-body",
+    "pos": "verb"
+  },
+  {
+    "word": "breathe",
+    "meaning": "hít thở",
+    "context": "I breathe slowly.",
+    "contextVi": "Tôi hít thở chậm.",
+    "topic": "health-body",
+    "pos": "verb"
+  },
+  {
+    "word": "heal",
+    "meaning": "lành lại",
+    "context": "Small cuts usually heal quickly.",
+    "contextVi": "Những vết đứt nhỏ thường lành nhanh.",
+    "topic": "health-body",
+    "pos": "verb"
+  },
+  {
+    "word": "hurt",
+    "meaning": "làm đau",
+    "context": "These shoes hurt my feet.",
+    "contextVi": "Đôi giày này làm đau chân tôi.",
+    "topic": "health-body",
+    "pos": "verb"
+  },
+  {
+    "word": "healthy",
+    "meaning": "khỏe mạnh",
+    "context": "My grandparents are healthy.",
+    "contextVi": "Ông bà tôi khỏe mạnh.",
+    "topic": "health-body",
+    "pos": "adjective"
+  },
+  {
+    "word": "sick",
+    "meaning": "ốm",
+    "context": "I feel sick today.",
+    "contextVi": "Hôm nay tôi thấy ốm.",
+    "topic": "health-body",
+    "pos": "adjective"
+  },
+  {
+    "word": "tired",
+    "meaning": "mệt",
+    "context": "I am tired after work.",
+    "contextVi": "Tôi mệt sau giờ làm việc.",
+    "topic": "health-body",
+    "pos": "adjective"
+  },
+  {
+    "word": "sore",
+    "meaning": "đau, ê ẩm",
+    "context": "My throat is sore.",
+    "contextVi": "Cổ họng tôi bị đau.",
+    "topic": "health-body",
+    "pos": "adjective"
+  },
+  {
+    "word": "dizzy",
+    "meaning": "chóng mặt",
+    "context": "I feel dizzy.",
+    "contextVi": "Tôi cảm thấy chóng mặt.",
+    "topic": "health-body",
+    "pos": "adjective"
+  },
+  {
+    "word": "clothes",
+    "meaning": "quần áo",
+    "context": "My clothes are clean.",
+    "contextVi": "Quần áo của tôi sạch.",
+    "topic": "clothing",
+    "pos": "noun"
+  },
+  {
+    "word": "clothing",
+    "meaning": "quần áo nói chung",
+    "context": "We need warm clothing.",
+    "contextVi": "Chúng tôi cần quần áo ấm.",
+    "topic": "clothing",
+    "pos": "noun"
+  },
+  {
+    "word": "shirt",
+    "meaning": "áo sơ mi",
+    "context": "He wears a blue shirt.",
+    "contextVi": "Anh ấy mặc áo sơ mi xanh dương.",
+    "topic": "clothing",
+    "pos": "noun"
+  },
+  {
+    "word": "blouse",
+    "meaning": "áo kiểu nữ",
+    "context": "Her blouse is white.",
+    "contextVi": "Áo kiểu của cô ấy màu trắng.",
+    "topic": "clothing",
+    "pos": "noun"
+  },
+  {
+    "word": "dress",
+    "meaning": "váy liền",
+    "context": "She wears a red dress.",
+    "contextVi": "Cô ấy mặc một chiếc váy đỏ.",
+    "topic": "clothing",
+    "pos": "noun"
+  },
+  {
+    "word": "skirt",
+    "meaning": "chân váy",
+    "context": "This skirt is too short.",
+    "contextVi": "Chiếc chân váy này ngắn quá.",
+    "topic": "clothing",
+    "pos": "noun"
+  },
+  {
+    "word": "trousers",
+    "meaning": "quần dài",
+    "context": "These trousers fit well.",
+    "contextVi": "Chiếc quần dài này rất vừa.",
+    "topic": "clothing",
+    "pos": "noun"
+  },
+  {
+    "word": "pants",
+    "meaning": "quần dài, theo tiếng Anh Mỹ",
+    "context": "My pants are black.",
+    "contextVi": "Quần dài của tôi màu đen.",
+    "topic": "clothing",
+    "pos": "noun"
+  },
+  {
+    "word": "jeans",
+    "meaning": "quần bò",
+    "context": "I wear jeans on weekends.",
+    "contextVi": "Tôi mặc quần bò vào cuối tuần.",
+    "topic": "clothing",
+    "pos": "noun"
+  },
+  {
+    "word": "shorts",
+    "meaning": "quần đùi",
+    "context": "He wears shorts in summer.",
+    "contextVi": "Anh ấy mặc quần đùi vào mùa hè.",
+    "topic": "clothing",
+    "pos": "noun"
+  },
+  {
+    "word": "jacket",
+    "meaning": "áo khoác ngắn",
+    "context": "Take your jacket with you.",
+    "contextVi": "Hãy mang áo khoác theo.",
+    "topic": "clothing",
+    "pos": "noun"
+  },
+  {
+    "word": "coat",
+    "meaning": "áo khoác ngoài",
+    "context": "My coat is warm.",
+    "contextVi": "Áo khoác của tôi ấm.",
+    "topic": "clothing",
+    "pos": "noun"
+  },
+  {
+    "word": "sweater",
+    "meaning": "áo len",
+    "context": "She wears a thick sweater.",
+    "contextVi": "Cô ấy mặc một chiếc áo len dày.",
+    "topic": "clothing",
+    "pos": "noun"
+  },
+  {
+    "word": "cardigan",
+    "meaning": "áo len cài phía trước",
+    "context": "My cardigan has blue buttons.",
+    "contextVi": "Áo len cài trước của tôi có cúc xanh.",
+    "topic": "clothing",
+    "pos": "noun"
+  },
+  {
+    "word": "hoodie",
+    "meaning": "áo có mũ",
+    "context": "I wear a hoodie today.",
+    "contextVi": "Tôi mặc áo có mũ hôm nay.",
+    "topic": "clothing",
+    "pos": "noun"
+  },
+  {
+    "word": "vest",
+    "meaning": "áo gi lê",
+    "context": "His vest has two pockets.",
+    "contextVi": "Áo gi lê của anh ấy có hai túi.",
+    "topic": "clothing",
+    "pos": "noun"
+  },
+  {
+    "word": "suit",
+    "meaning": "bộ com lê",
+    "context": "He wears a suit to work.",
+    "contextVi": "Anh ấy mặc com lê đi làm.",
+    "topic": "clothing",
+    "pos": "noun"
+  },
+  {
+    "word": "uniform",
+    "meaning": "đồng phục",
+    "context": "Our school uniform is blue.",
+    "contextVi": "Đồng phục trường chúng tôi màu xanh.",
+    "topic": "clothing",
+    "pos": "noun"
+  },
+  {
+    "word": "pajamas",
+    "meaning": "đồ ngủ",
+    "context": "I put on my pajamas.",
+    "contextVi": "Tôi mặc đồ ngủ vào.",
+    "topic": "clothing",
+    "pos": "noun"
+  },
+  {
+    "word": "underwear",
+    "meaning": "đồ lót",
+    "context": "Pack some clean underwear.",
+    "contextVi": "Hãy xếp một ít đồ lót sạch vào hành lý.",
+    "topic": "clothing",
+    "pos": "noun"
+  },
+  {
+    "word": "bra",
+    "meaning": "áo ngực",
+    "context": "She buys a comfortable bra.",
+    "contextVi": "Cô ấy mua một chiếc áo ngực thoải mái.",
+    "topic": "clothing",
+    "pos": "noun"
+  },
+  {
+    "word": "sock",
+    "meaning": "tất",
+    "context": "One sock is missing.",
+    "contextVi": "Một chiếc tất bị thất lạc.",
+    "topic": "clothing",
+    "pos": "noun"
+  },
+  {
+    "word": "shoe",
+    "meaning": "giày",
+    "context": "This shoe is too tight.",
+    "contextVi": "Chiếc giày này chật quá.",
+    "topic": "clothing",
+    "pos": "noun"
+  },
+  {
+    "word": "boot",
+    "meaning": "ủng, giày bốt",
+    "context": "My left boot is muddy.",
+    "contextVi": "Chiếc bốt trái của tôi dính bùn.",
+    "topic": "clothing",
+    "pos": "noun"
+  },
+  {
+    "word": "sandal",
+    "meaning": "dép có quai",
+    "context": "The sandal has a broken strap.",
+    "contextVi": "Chiếc dép có quai bị đứt.",
+    "topic": "clothing",
+    "pos": "noun"
+  },
+  {
+    "word": "slipper",
+    "meaning": "dép đi trong nhà",
+    "context": "My slipper is under the bed.",
+    "contextVi": "Chiếc dép đi trong nhà của tôi ở dưới giường.",
+    "topic": "clothing",
+    "pos": "noun"
+  },
+  {
+    "word": "sneaker",
+    "meaning": "giày thể thao",
+    "context": "This sneaker is very light.",
+    "contextVi": "Chiếc giày thể thao này rất nhẹ.",
+    "topic": "clothing",
+    "pos": "noun"
+  },
+  {
+    "word": "hat",
+    "meaning": "mũ",
+    "context": "Wear a hat outside.",
+    "contextVi": "Hãy đội mũ khi ra ngoài.",
+    "topic": "clothing",
+    "pos": "noun"
+  },
+  {
+    "word": "cap",
+    "meaning": "mũ lưỡi trai",
+    "context": "His cap is green.",
+    "contextVi": "Mũ lưỡi trai của anh ấy màu xanh lá.",
+    "topic": "clothing",
+    "pos": "noun"
+  },
+  {
+    "word": "scarf",
+    "meaning": "khăn quàng",
+    "context": "I need a warm scarf.",
+    "contextVi": "Tôi cần một chiếc khăn quàng ấm.",
+    "topic": "clothing",
+    "pos": "noun"
+  },
+  {
+    "word": "glove",
+    "meaning": "găng tay",
+    "context": "I lost one glove.",
+    "contextVi": "Tôi làm mất một chiếc găng tay.",
+    "topic": "clothing",
+    "pos": "noun"
+  },
+  {
+    "word": "belt",
+    "meaning": "thắt lưng",
+    "context": "This belt is too long.",
+    "contextVi": "Chiếc thắt lưng này dài quá.",
+    "topic": "clothing",
+    "pos": "noun"
+  },
+  {
+    "word": "tie",
+    "meaning": "cà vạt",
+    "context": "His tie is red.",
+    "contextVi": "Cà vạt của anh ấy màu đỏ.",
+    "topic": "clothing",
+    "pos": "noun"
+  },
+  {
+    "word": "bow",
+    "meaning": "nơ",
+    "context": "She wears a bow in her hair.",
+    "contextVi": "Cô ấy cài nơ trên tóc.",
+    "topic": "clothing",
+    "pos": "noun"
+  },
+  {
+    "word": "pocket",
+    "meaning": "túi áo hoặc túi quần",
+    "context": "My phone is in my pocket.",
+    "contextVi": "Điện thoại của tôi ở trong túi áo.",
+    "topic": "clothing",
+    "pos": "noun"
+  },
+  {
+    "word": "button",
+    "meaning": "cúc áo",
+    "context": "A button is missing.",
+    "contextVi": "Một chiếc cúc áo bị thiếu.",
+    "topic": "clothing",
+    "pos": "noun"
+  },
+  {
+    "word": "zipper",
+    "meaning": "khóa kéo",
+    "context": "The zipper is stuck.",
+    "contextVi": "Khóa kéo bị kẹt.",
+    "topic": "clothing",
+    "pos": "noun"
+  },
+  {
+    "word": "sleeve",
+    "meaning": "tay áo",
+    "context": "This sleeve is too long.",
+    "contextVi": "Tay áo này dài quá.",
+    "topic": "clothing",
+    "pos": "noun"
+  },
+  {
+    "word": "collar",
+    "meaning": "cổ áo",
+    "context": "The collar is dirty.",
+    "contextVi": "Cổ áo bị bẩn.",
+    "topic": "clothing",
+    "pos": "noun"
+  },
+  {
+    "word": "cuff",
+    "meaning": "cổ tay áo",
+    "context": "There is a stain on the cuff.",
+    "contextVi": "Có một vết bẩn ở cổ tay áo.",
+    "topic": "clothing",
+    "pos": "noun"
+  },
+  {
+    "word": "hem",
+    "meaning": "gấu áo hoặc gấu quần",
+    "context": "The hem needs sewing.",
+    "contextVi": "Gấu áo cần được khâu lại.",
+    "topic": "clothing",
+    "pos": "noun"
+  },
+  {
+    "word": "strap",
+    "meaning": "dây đeo",
+    "context": "The bag has a long strap.",
+    "contextVi": "Chiếc túi có dây đeo dài.",
+    "topic": "clothing",
+    "pos": "noun"
+  },
+  {
+    "word": "fabric",
+    "meaning": "vải",
+    "context": "This fabric feels soft.",
+    "contextVi": "Vải này có cảm giác mềm.",
+    "topic": "clothing",
+    "pos": "noun"
+  },
+  {
+    "word": "cotton",
+    "meaning": "vải bông",
+    "context": "My shirt is made of cotton.",
+    "contextVi": "Áo sơ mi của tôi làm từ vải bông.",
+    "topic": "clothing",
+    "pos": "noun"
+  },
+  {
+    "word": "wool",
+    "meaning": "len",
+    "context": "This scarf is made of wool.",
+    "contextVi": "Chiếc khăn quàng này làm bằng len.",
+    "topic": "clothing",
+    "pos": "noun"
+  },
+  {
+    "word": "silk",
+    "meaning": "lụa",
+    "context": "Her dress is made of silk.",
+    "contextVi": "Váy của cô ấy làm bằng lụa.",
+    "topic": "clothing",
+    "pos": "noun"
+  },
+  {
+    "word": "leather",
+    "meaning": "da thuộc",
+    "context": "These shoes are made of leather.",
+    "contextVi": "Đôi giày này làm bằng da thuộc.",
+    "topic": "clothing",
+    "pos": "noun"
+  },
+  {
+    "word": "denim",
+    "meaning": "vải bò",
+    "context": "I like denim jackets.",
+    "contextVi": "Tôi thích áo khoác bằng vải bò.",
+    "topic": "clothing",
+    "pos": "noun"
+  },
+  {
+    "word": "nylon",
+    "meaning": "vải ni lông",
+    "context": "This bag is made of nylon.",
+    "contextVi": "Chiếc túi này làm bằng ni lông.",
+    "topic": "clothing",
+    "pos": "noun"
+  },
+  {
+    "word": "polyester",
+    "meaning": "vải polyester",
+    "context": "This shirt contains polyester.",
+    "contextVi": "Áo này có thành phần polyester.",
+    "topic": "clothing",
+    "pos": "noun"
+  },
+  {
+    "word": "size",
+    "meaning": "cỡ",
+    "context": "What size do you wear?",
+    "contextVi": "Bạn mặc cỡ nào?",
+    "topic": "clothing",
+    "pos": "noun"
+  },
+  {
+    "word": "style",
+    "meaning": "phong cách",
+    "context": "I like your style.",
+    "contextVi": "Tôi thích phong cách của bạn.",
+    "topic": "clothing",
+    "pos": "noun"
+  },
+  {
+    "word": "fashion",
+    "meaning": "thời trang",
+    "context": "Fashion changes over time.",
+    "contextVi": "Thời trang thay đổi theo thời gian.",
+    "topic": "clothing",
+    "pos": "noun"
+  },
+  {
+    "word": "pattern",
+    "meaning": "hoa văn",
+    "context": "The pattern has small flowers.",
+    "contextVi": "Hoa văn có những bông hoa nhỏ.",
+    "topic": "clothing",
+    "pos": "noun"
+  },
+  {
+    "word": "stripe",
+    "meaning": "sọc",
+    "context": "The shirt has a red stripe.",
+    "contextVi": "Chiếc áo có một sọc đỏ.",
+    "topic": "clothing",
+    "pos": "noun"
+  },
+  {
+    "word": "sleeveless",
+    "meaning": "không tay",
+    "context": "She wears a sleeveless dress.",
+    "contextVi": "Cô ấy mặc một chiếc váy không tay.",
+    "topic": "clothing",
+    "pos": "adjective"
+  },
+  {
+    "word": "loose",
+    "meaning": "rộng",
+    "context": "This shirt is loose.",
+    "contextVi": "Chiếc áo này rộng.",
+    "topic": "clothing",
+    "pos": "adjective"
+  },
+  {
+    "word": "tight",
+    "meaning": "chật",
+    "context": "These shoes are tight.",
+    "contextVi": "Đôi giày này chật.",
+    "topic": "clothing",
+    "pos": "adjective"
+  },
+  {
+    "word": "comfortable",
+    "meaning": "thoải mái",
+    "context": "This sweater is comfortable.",
+    "contextVi": "Chiếc áo len này thoải mái.",
+    "topic": "clothing",
+    "pos": "adjective"
+  },
+  {
+    "word": "casual",
+    "meaning": "thường ngày, không trang trọng",
+    "context": "Wear casual clothes today.",
+    "contextVi": "Hôm nay hãy mặc quần áo thường ngày.",
+    "topic": "clothing",
+    "pos": "adjective"
+  },
+  {
+    "word": "formal",
+    "meaning": "trang trọng",
+    "context": "We need formal clothes.",
+    "contextVi": "Chúng tôi cần quần áo trang trọng.",
+    "topic": "clothing",
+    "pos": "adjective"
+  },
+  {
+    "word": "waterproof",
+    "meaning": "chống thấm nước",
+    "context": "My jacket is waterproof.",
+    "contextVi": "Áo khoác của tôi chống thấm nước.",
+    "topic": "clothing",
+    "pos": "adjective"
+  },
+  {
+    "word": "striped",
+    "meaning": "có sọc",
+    "context": "He wears a striped shirt.",
+    "contextVi": "Anh ấy mặc một chiếc áo có sọc.",
+    "topic": "clothing",
+    "pos": "adjective"
+  },
+  {
+    "word": "plain",
+    "meaning": "trơn, không hoa văn",
+    "context": "I prefer plain shirts.",
+    "contextVi": "Tôi thích áo trơn hơn.",
+    "topic": "clothing",
+    "pos": "adjective"
+  },
+  {
+    "word": "wear",
+    "meaning": "mặc, đeo",
+    "context": "I wear glasses.",
+    "contextVi": "Tôi đeo kính.",
+    "topic": "clothing",
+    "pos": "verb"
+  },
+  {
+    "word": "fit",
+    "meaning": "vừa vặn",
+    "context": "These shoes fit me.",
+    "contextVi": "Đôi giày này vừa với tôi.",
+    "topic": "clothing",
+    "pos": "verb"
+  },
+  {
+    "word": "sew",
+    "meaning": "may, khâu",
+    "context": "I sew a button onto my shirt.",
+    "contextVi": "Tôi khâu một chiếc cúc vào áo sơ mi.",
+    "topic": "clothing",
+    "pos": "verb"
+  },
+  {
+    "word": "iron",
+    "meaning": "ủi quần áo",
+    "context": "I iron my shirt.",
+    "contextVi": "Tôi ủi áo sơ mi.",
+    "topic": "clothing",
+    "pos": "verb"
+  },
+  {
+    "word": "fold",
+    "meaning": "gấp",
+    "context": "We fold the clean clothes.",
+    "contextVi": "Chúng tôi gấp quần áo sạch.",
+    "topic": "clothing",
+    "pos": "verb"
+  },
+  {
+    "word": "hang",
+    "meaning": "treo",
+    "context": "I hang my coat here.",
+    "contextVi": "Tôi treo áo khoác ở đây.",
+    "topic": "clothing",
+    "pos": "verb"
+  },
+  {
+    "word": "stain",
+    "meaning": "vết bẩn",
+    "context": "There is a stain on my shirt.",
+    "contextVi": "Có một vết bẩn trên áo tôi.",
+    "topic": "clothing",
+    "pos": "noun"
+  },
+  {
+    "word": "jewelry",
+    "meaning": "trang sức",
+    "context": "She wears simple jewelry.",
+    "contextVi": "Cô ấy đeo trang sức đơn giản.",
+    "topic": "clothing",
+    "pos": "noun"
+  },
+  {
+    "word": "ring",
+    "meaning": "nhẫn",
+    "context": "This ring is silver.",
+    "contextVi": "Chiếc nhẫn này bằng bạc.",
+    "topic": "clothing",
+    "pos": "noun"
+  },
+  {
+    "word": "necklace",
+    "meaning": "vòng cổ",
+    "context": "Her necklace is beautiful.",
+    "contextVi": "Vòng cổ của cô ấy đẹp.",
+    "topic": "clothing",
+    "pos": "noun"
+  },
+  {
+    "word": "earring",
+    "meaning": "khuyên tai",
+    "context": "I lost one earring.",
+    "contextVi": "Tôi làm mất một chiếc khuyên tai.",
+    "topic": "clothing",
+    "pos": "noun"
+  },
+  {
+    "word": "shop",
+    "meaning": "cửa hàng",
+    "context": "The shop opens early.",
+    "contextVi": "Cửa hàng mở cửa sớm.",
+    "topic": "shopping-money",
+    "pos": "noun"
+  },
+  {
+    "word": "store",
+    "meaning": "cửa hàng",
+    "context": "This store sells books.",
+    "contextVi": "Cửa hàng này bán sách.",
+    "topic": "shopping-money",
+    "pos": "noun"
+  },
+  {
+    "word": "market",
+    "meaning": "chợ",
+    "context": "We buy fruit at the market.",
+    "contextVi": "Chúng tôi mua trái cây ở chợ.",
+    "topic": "shopping-money",
+    "pos": "noun"
+  },
+  {
+    "word": "supermarket",
+    "meaning": "siêu thị",
+    "context": "The supermarket is nearby.",
+    "contextVi": "Siêu thị ở gần đây.",
+    "topic": "shopping-money",
+    "pos": "noun"
+  },
+  {
+    "word": "mall",
+    "meaning": "trung tâm mua sắm",
+    "context": "We meet at the mall.",
+    "contextVi": "Chúng tôi gặp nhau ở trung tâm mua sắm.",
+    "topic": "shopping-money",
+    "pos": "noun"
+  },
+  {
+    "word": "bakery",
+    "meaning": "cửa hàng bánh",
+    "context": "The bakery sells fresh bread.",
+    "contextVi": "Cửa hàng bánh bán bánh mì mới.",
+    "topic": "shopping-money",
+    "pos": "noun"
+  },
+  {
+    "word": "butcher",
+    "meaning": "người bán thịt",
+    "context": "The butcher weighs the beef.",
+    "contextVi": "Người bán thịt cân thịt bò.",
+    "topic": "shopping-money",
+    "pos": "noun"
+  },
+  {
+    "word": "customer",
+    "meaning": "khách hàng",
+    "context": "The customer wants a refund.",
+    "contextVi": "Khách hàng muốn được hoàn tiền.",
+    "topic": "shopping-money",
+    "pos": "noun"
+  },
+  {
+    "word": "cashier",
+    "meaning": "thu ngân",
+    "context": "The cashier gives me change.",
+    "contextVi": "Thu ngân đưa tiền thừa cho tôi.",
+    "topic": "shopping-money",
+    "pos": "noun"
+  },
+  {
+    "word": "seller",
+    "meaning": "người bán",
+    "context": "The seller answers my question.",
+    "contextVi": "Người bán trả lời câu hỏi của tôi.",
+    "topic": "shopping-money",
+    "pos": "noun"
+  },
+  {
+    "word": "buyer",
+    "meaning": "người mua",
+    "context": "The buyer checks the price.",
+    "contextVi": "Người mua kiểm tra giá.",
+    "topic": "shopping-money",
+    "pos": "noun"
+  },
+  {
+    "word": "cash",
+    "meaning": "tiền mặt",
+    "context": "I pay in cash.",
+    "contextVi": "Tôi trả bằng tiền mặt.",
+    "topic": "shopping-money",
+    "pos": "noun"
+  },
+  {
+    "word": "money",
+    "meaning": "tiền",
+    "context": "I save money every month.",
+    "contextVi": "Tôi tiết kiệm tiền mỗi tháng.",
+    "topic": "shopping-money",
+    "pos": "noun"
+  },
+  {
+    "word": "coin",
+    "meaning": "đồng xu",
+    "context": "I found a coin.",
+    "contextVi": "Tôi tìm thấy một đồng xu.",
+    "topic": "shopping-money",
+    "pos": "noun"
+  },
+  {
+    "word": "banknote",
+    "meaning": "tiền giấy",
+    "context": "This banknote is torn.",
+    "contextVi": "Tờ tiền giấy này bị rách.",
+    "topic": "shopping-money",
+    "pos": "noun"
+  },
+  {
+    "word": "currency",
+    "meaning": "tiền tệ",
+    "context": "What currency do you use?",
+    "contextVi": "Bạn dùng loại tiền tệ nào?",
+    "topic": "shopping-money",
+    "pos": "noun"
+  },
+  {
+    "word": "dollar",
+    "meaning": "đô la",
+    "context": "This pencil costs one dollar.",
+    "contextVi": "Chiếc bút chì này giá một đô la.",
+    "topic": "shopping-money",
+    "pos": "noun"
+  },
+  {
+    "word": "cent",
+    "meaning": "xu, một phần trăm đô la",
+    "context": "Every cent matters.",
+    "contextVi": "Mỗi xu đều quan trọng.",
+    "topic": "shopping-money",
+    "pos": "noun"
+  },
+  {
+    "word": "wallet",
+    "meaning": "ví",
+    "context": "My wallet is in my bag.",
+    "contextVi": "Ví tôi ở trong túi.",
+    "topic": "shopping-money",
+    "pos": "noun"
+  },
+  {
+    "word": "purse",
+    "meaning": "ví nhỏ hoặc túi xách nữ",
+    "context": "She puts coins in her purse.",
+    "contextVi": "Cô ấy bỏ tiền xu vào ví nhỏ.",
+    "topic": "shopping-money",
+    "pos": "noun"
+  },
+  {
+    "word": "card",
+    "meaning": "thẻ",
+    "context": "Can I pay by card?",
+    "contextVi": "Tôi có thể trả bằng thẻ không?",
+    "topic": "shopping-money",
+    "pos": "noun"
+  },
+  {
+    "word": "bank",
+    "meaning": "ngân hàng",
+    "context": "The bank closes at five.",
+    "contextVi": "Ngân hàng đóng cửa lúc năm giờ.",
+    "topic": "shopping-money",
+    "pos": "noun"
+  },
+  {
+    "word": "account",
+    "meaning": "tài khoản",
+    "context": "I have a bank account.",
+    "contextVi": "Tôi có một tài khoản ngân hàng.",
+    "topic": "shopping-money",
+    "pos": "noun"
+  },
+  {
+    "word": "balance",
+    "meaning": "số dư",
+    "context": "Check your account balance.",
+    "contextVi": "Hãy kiểm tra số dư tài khoản.",
+    "topic": "shopping-money",
+    "pos": "noun"
+  },
+  {
+    "word": "budget",
+    "meaning": "ngân sách",
+    "context": "Our budget is small.",
+    "contextVi": "Ngân sách của chúng tôi nhỏ.",
+    "topic": "shopping-money",
+    "pos": "noun"
+  },
+  {
+    "word": "income",
+    "meaning": "thu nhập",
+    "context": "Her monthly income has increased.",
+    "contextVi": "Thu nhập hằng tháng của cô ấy đã tăng.",
+    "topic": "shopping-money",
+    "pos": "noun"
+  },
+  {
+    "word": "salary",
+    "meaning": "lương",
+    "context": "He receives his salary today.",
+    "contextVi": "Anh ấy nhận lương hôm nay.",
+    "topic": "shopping-money",
+    "pos": "noun"
+  },
+  {
+    "word": "wage",
+    "meaning": "tiền công",
+    "context": "The hourly wage is fair.",
+    "contextVi": "Tiền công theo giờ là hợp lý.",
+    "topic": "shopping-money",
+    "pos": "noun"
+  },
+  {
+    "word": "expense",
+    "meaning": "khoản chi",
+    "context": "Rent is our biggest expense.",
+    "contextVi": "Tiền thuê nhà là khoản chi lớn nhất của chúng tôi.",
+    "topic": "shopping-money",
+    "pos": "noun"
+  },
+  {
+    "word": "bill",
+    "meaning": "hóa đơn cần thanh toán",
+    "context": "Please pay the electricity bill.",
+    "contextVi": "Hãy thanh toán hóa đơn điện.",
+    "topic": "shopping-money",
+    "pos": "noun"
+  },
+  {
+    "word": "receipt",
+    "meaning": "biên lai",
+    "context": "Keep your receipt.",
+    "contextVi": "Hãy giữ biên lai.",
+    "topic": "shopping-money",
+    "pos": "noun"
+  },
+  {
+    "word": "invoice",
+    "meaning": "hóa đơn chi tiết",
+    "context": "The invoice lists every item.",
+    "contextVi": "Hóa đơn liệt kê từng mặt hàng.",
+    "topic": "shopping-money",
+    "pos": "noun"
+  },
+  {
+    "word": "price",
+    "meaning": "giá",
+    "context": "The price is reasonable.",
+    "contextVi": "Giá cả hợp lý.",
+    "topic": "shopping-money",
+    "pos": "noun"
+  },
+  {
+    "word": "cost",
+    "meaning": "chi phí",
+    "context": "The total cost is low.",
+    "contextVi": "Tổng chi phí thấp.",
+    "topic": "shopping-money",
+    "pos": "noun"
+  },
+  {
+    "word": "fee",
+    "meaning": "phí",
+    "context": "There is no delivery fee.",
+    "contextVi": "Không có phí giao hàng.",
+    "topic": "shopping-money",
+    "pos": "noun"
+  },
+  {
+    "word": "tax",
+    "meaning": "thuế",
+    "context": "The price includes tax.",
+    "contextVi": "Giá đã bao gồm thuế.",
+    "topic": "shopping-money",
+    "pos": "noun"
+  },
+  {
+    "word": "tip",
+    "meaning": "tiền boa",
+    "context": "We leave a small tip.",
+    "contextVi": "Chúng tôi để lại một ít tiền boa.",
+    "topic": "shopping-money",
+    "pos": "noun"
+  },
+  {
+    "word": "discount",
+    "meaning": "giảm giá",
+    "context": "Can I get a discount?",
+    "contextVi": "Tôi có thể được giảm giá không?",
+    "topic": "shopping-money",
+    "pos": "noun"
+  },
+  {
+    "word": "sale",
+    "meaning": "đợt bán giảm giá",
+    "context": "The summer sale starts today.",
+    "contextVi": "Đợt giảm giá mùa hè bắt đầu hôm nay.",
+    "topic": "shopping-money",
+    "pos": "noun"
+  },
+  {
+    "word": "offer",
+    "meaning": "ưu đãi",
+    "context": "This offer ends tomorrow.",
+    "contextVi": "Ưu đãi này kết thúc vào ngày mai.",
+    "topic": "shopping-money",
+    "pos": "noun"
+  },
+  {
+    "word": "bargain",
+    "meaning": "món hời",
+    "context": "This coat is a bargain.",
+    "contextVi": "Chiếc áo khoác này là một món hời.",
+    "topic": "shopping-money",
+    "pos": "noun"
+  },
+  {
+    "word": "deal",
+    "meaning": "thỏa thuận, giao dịch",
+    "context": "We agree on a deal.",
+    "contextVi": "Chúng tôi thống nhất một thỏa thuận.",
+    "topic": "shopping-money",
+    "pos": "noun"
+  },
+  {
+    "word": "product",
+    "meaning": "sản phẩm",
+    "context": "This product is useful.",
+    "contextVi": "Sản phẩm này hữu ích.",
+    "topic": "shopping-money",
+    "pos": "noun"
+  },
+  {
+    "word": "item",
+    "meaning": "món hàng",
+    "context": "Each item has a label.",
+    "contextVi": "Mỗi món hàng có một nhãn.",
+    "topic": "shopping-money",
+    "pos": "noun"
+  },
+  {
+    "word": "brand",
+    "meaning": "thương hiệu",
+    "context": "I trust this brand.",
+    "contextVi": "Tôi tin tưởng thương hiệu này.",
+    "topic": "shopping-money",
+    "pos": "noun"
+  },
+  {
+    "word": "label",
+    "meaning": "nhãn",
+    "context": "Please read the label.",
+    "contextVi": "Hãy đọc nhãn.",
+    "topic": "shopping-money",
+    "pos": "noun"
+  },
+  {
+    "word": "package",
+    "meaning": "gói hàng",
+    "context": "My package arrives today.",
+    "contextVi": "Gói hàng của tôi đến hôm nay.",
+    "topic": "shopping-money",
+    "pos": "noun"
+  },
+  {
+    "word": "basket",
+    "meaning": "giỏ",
+    "context": "Put the apples in the basket.",
+    "contextVi": "Hãy cho táo vào giỏ.",
+    "topic": "shopping-money",
+    "pos": "noun"
+  },
+  {
+    "word": "cart",
+    "meaning": "xe đẩy mua hàng",
+    "context": "The cart is full.",
+    "contextVi": "Xe đẩy mua hàng đã đầy.",
+    "topic": "shopping-money",
+    "pos": "noun"
+  },
+  {
+    "word": "checkout",
+    "meaning": "quầy thanh toán",
+    "context": "We wait at the checkout.",
+    "contextVi": "Chúng tôi chờ ở quầy thanh toán.",
+    "topic": "shopping-money",
+    "pos": "noun"
+  },
+  {
+    "word": "queue",
+    "meaning": "hàng người chờ",
+    "context": "The queue is short.",
+    "contextVi": "Hàng người chờ ngắn.",
+    "topic": "shopping-money",
+    "pos": "noun"
+  },
+  {
+    "word": "order",
+    "meaning": "đơn hàng",
+    "context": "My order is ready.",
+    "contextVi": "Đơn hàng của tôi đã sẵn sàng.",
+    "topic": "shopping-money",
+    "pos": "noun"
+  },
+  {
+    "word": "delivery",
+    "meaning": "việc giao hàng",
+    "context": "The delivery arrives tomorrow.",
+    "contextVi": "Hàng được giao đến vào ngày mai.",
+    "topic": "shopping-money",
+    "pos": "noun"
+  },
+  {
+    "word": "shipping",
+    "meaning": "việc vận chuyển hàng",
+    "context": "Shipping takes three days.",
+    "contextVi": "Việc vận chuyển mất ba ngày.",
+    "topic": "shopping-money",
+    "pos": "noun"
+  },
+  {
+    "word": "refund",
+    "meaning": "khoản hoàn tiền",
+    "context": "I received a full refund.",
+    "contextVi": "Tôi đã được hoàn lại toàn bộ tiền.",
+    "topic": "shopping-money",
+    "pos": "noun"
+  },
+  {
+    "word": "warranty",
+    "meaning": "bảo hành",
+    "context": "The phone has a warranty.",
+    "contextVi": "Chiếc điện thoại có bảo hành.",
+    "topic": "shopping-money",
+    "pos": "noun"
+  },
+  {
+    "word": "stock",
+    "meaning": "hàng có sẵn",
+    "context": "This size is out of stock.",
+    "contextVi": "Cỡ này đã hết hàng.",
+    "topic": "shopping-money",
+    "pos": "noun"
+  },
+  {
+    "word": "cashback",
+    "meaning": "tiền hoàn khi mua hàng",
+    "context": "This card gives cashback.",
+    "contextVi": "Thẻ này có hoàn tiền khi mua hàng.",
+    "topic": "shopping-money",
+    "pos": "noun"
+  },
+  {
+    "word": "loan",
+    "meaning": "khoản vay",
+    "context": "He applies for a loan.",
+    "contextVi": "Anh ấy nộp đơn xin vay.",
+    "topic": "shopping-money",
+    "pos": "noun"
+  },
+  {
+    "word": "debt",
+    "meaning": "nợ",
+    "context": "She pays off her debt.",
+    "contextVi": "Cô ấy trả hết nợ.",
+    "topic": "shopping-money",
+    "pos": "noun"
+  },
+  {
+    "word": "interest",
+    "meaning": "lãi suất hoặc tiền lãi",
+    "context": "The loan has low interest.",
+    "contextVi": "Khoản vay có lãi thấp.",
+    "topic": "shopping-money",
+    "pos": "noun"
+  },
+  {
+    "word": "payment",
+    "meaning": "khoản thanh toán",
+    "context": "Your payment was successful.",
+    "contextVi": "Khoản thanh toán của bạn đã thành công.",
+    "topic": "shopping-money",
+    "pos": "noun"
+  },
+  {
+    "word": "transfer",
+    "meaning": "chuyển tiền",
+    "context": "I transfer money to my mother.",
+    "contextVi": "Tôi chuyển tiền cho mẹ.",
+    "topic": "shopping-money",
+    "pos": "verb"
+  },
+  {
+    "word": "buy",
+    "meaning": "mua",
+    "context": "We buy fresh vegetables.",
+    "contextVi": "Chúng tôi mua rau tươi.",
+    "topic": "shopping-money",
+    "pos": "verb"
+  },
+  {
+    "word": "sell",
+    "meaning": "bán",
+    "context": "They sell handmade bags.",
+    "contextVi": "Họ bán túi làm thủ công.",
+    "topic": "shopping-money",
+    "pos": "verb"
+  },
+  {
+    "word": "pay",
+    "meaning": "trả tiền",
+    "context": "I pay the bill.",
+    "contextVi": "Tôi trả hóa đơn.",
+    "topic": "shopping-money",
+    "pos": "verb"
+  },
+  {
+    "word": "spend",
+    "meaning": "tiêu tiền",
+    "context": "I spend less this month.",
+    "contextVi": "Tôi tiêu ít tiền hơn tháng này.",
+    "topic": "shopping-money",
+    "pos": "verb"
+  },
+  {
+    "word": "save",
+    "meaning": "tiết kiệm",
+    "context": "We save for a holiday.",
+    "contextVi": "Chúng tôi tiết kiệm cho một kỳ nghỉ.",
+    "topic": "shopping-money",
+    "pos": "verb"
+  },
+  {
+    "word": "borrow",
+    "meaning": "mượn, vay",
+    "context": "Can I borrow ten dollars?",
+    "contextVi": "Tôi có thể vay mười đô la không?",
+    "topic": "shopping-money",
+    "pos": "verb"
+  },
+  {
+    "word": "lend",
+    "meaning": "cho mượn, cho vay",
+    "context": "I can lend you some money.",
+    "contextVi": "Tôi có thể cho bạn vay một ít tiền.",
+    "topic": "shopping-money",
+    "pos": "verb"
+  },
+  {
+    "word": "afford",
+    "meaning": "có đủ tiền mua",
+    "context": "I cannot afford this car.",
+    "contextVi": "Tôi không đủ tiền mua chiếc xe này.",
+    "topic": "shopping-money",
+    "pos": "verb"
+  },
+  {
+    "word": "compare",
+    "meaning": "so sánh",
+    "context": "We compare prices before buying.",
+    "contextVi": "Chúng tôi so sánh giá trước khi mua.",
+    "topic": "shopping-money",
+    "pos": "verb"
+  },
+  {
+    "word": "cheap",
+    "meaning": "rẻ",
+    "context": "This bag is cheap.",
+    "contextVi": "Chiếc túi này rẻ.",
+    "topic": "shopping-money",
+    "pos": "adjective"
+  },
+  {
+    "word": "expensive",
+    "meaning": "đắt",
+    "context": "That watch is expensive.",
+    "contextVi": "Chiếc đồng hồ đó đắt.",
+    "topic": "shopping-money",
+    "pos": "adjective"
+  },
+  {
+    "word": "free",
+    "meaning": "miễn phí",
+    "context": "Delivery is free today.",
+    "contextVi": "Hôm nay giao hàng miễn phí.",
+    "topic": "shopping-money",
+    "pos": "adjective"
+  },
+  {
+    "word": "school",
+    "meaning": "trường học",
+    "context": "Our school is near home.",
+    "contextVi": "Trường chúng tôi ở gần nhà.",
+    "topic": "school",
+    "pos": "noun"
+  },
+  {
+    "word": "classroom",
+    "meaning": "lớp học",
+    "context": "The classroom is bright.",
+    "contextVi": "Lớp học sáng sủa.",
+    "topic": "school",
+    "pos": "noun"
+  },
+  {
+    "word": "class",
+    "meaning": "lớp, buổi học",
+    "context": "Our class starts at eight.",
+    "contextVi": "Buổi học của chúng tôi bắt đầu lúc tám giờ.",
+    "topic": "school",
+    "pos": "noun"
+  },
+  {
+    "word": "student",
+    "meaning": "học sinh, sinh viên",
+    "context": "Every student has a book.",
+    "contextVi": "Mỗi học sinh có một quyển sách.",
+    "topic": "school",
+    "pos": "noun"
+  },
+  {
+    "word": "teacher",
+    "meaning": "giáo viên",
+    "context": "The teacher explains clearly.",
+    "contextVi": "Giáo viên giải thích rõ ràng.",
+    "topic": "school",
+    "pos": "noun"
+  },
+  {
+    "word": "pupil",
+    "meaning": "học sinh",
+    "context": "Each pupil answers a question.",
+    "contextVi": "Mỗi học sinh trả lời một câu hỏi.",
+    "topic": "school",
+    "pos": "noun"
+  },
+  {
+    "word": "classmate",
+    "meaning": "bạn cùng lớp",
+    "context": "My classmate sits beside me.",
+    "contextVi": "Bạn cùng lớp ngồi cạnh tôi.",
+    "topic": "school",
+    "pos": "noun"
+  },
+  {
+    "word": "principal",
+    "meaning": "hiệu trưởng",
+    "context": "The principal visits our class.",
+    "contextVi": "Hiệu trưởng đến thăm lớp chúng tôi.",
+    "topic": "school",
+    "pos": "noun"
+  },
+  {
+    "word": "lesson",
+    "meaning": "bài học",
+    "context": "This lesson is useful.",
+    "contextVi": "Bài học này hữu ích.",
+    "topic": "school",
+    "pos": "noun"
+  },
+  {
+    "word": "subject",
+    "meaning": "môn học",
+    "context": "English is my favorite subject.",
+    "contextVi": "Tiếng Anh là môn học yêu thích của tôi.",
+    "topic": "school",
+    "pos": "noun"
+  },
+  {
+    "word": "course",
+    "meaning": "khóa học",
+    "context": "The course lasts six weeks.",
+    "contextVi": "Khóa học kéo dài sáu tuần.",
+    "topic": "school",
+    "pos": "noun"
+  },
+  {
+    "word": "curriculum",
+    "meaning": "chương trình học",
+    "context": "The curriculum includes music.",
+    "contextVi": "Chương trình học có môn âm nhạc.",
+    "topic": "school",
+    "pos": "noun"
+  },
+  {
+    "word": "term",
+    "meaning": "học kỳ",
+    "context": "The new term starts Monday.",
+    "contextVi": "Học kỳ mới bắt đầu vào thứ Hai.",
+    "topic": "school",
+    "pos": "noun"
+  },
+  {
+    "word": "semester",
+    "meaning": "học kỳ",
+    "context": "This semester ends in June.",
+    "contextVi": "Học kỳ này kết thúc vào tháng Sáu.",
+    "topic": "school",
+    "pos": "noun"
+  },
+  {
+    "word": "college",
+    "meaning": "trường cao đẳng hoặc đại học",
+    "context": "She goes to college nearby.",
+    "contextVi": "Cô ấy học cao đẳng gần đây.",
+    "topic": "school",
+    "pos": "noun"
+  },
+  {
+    "word": "university",
+    "meaning": "trường đại học",
+    "context": "My brother studies at university.",
+    "contextVi": "Anh trai tôi học đại học.",
+    "topic": "school",
+    "pos": "noun"
+  },
+  {
+    "word": "library",
+    "meaning": "thư viện",
+    "context": "The library is quiet.",
+    "contextVi": "Thư viện yên tĩnh.",
+    "topic": "school",
+    "pos": "noun"
+  },
+  {
+    "word": "laboratory",
+    "meaning": "phòng thí nghiệm",
+    "context": "We work in the laboratory.",
+    "contextVi": "Chúng tôi làm việc trong phòng thí nghiệm.",
+    "topic": "school",
+    "pos": "noun"
+  },
+  {
+    "word": "playground",
+    "meaning": "sân chơi",
+    "context": "The playground is crowded.",
+    "contextVi": "Sân chơi đông người.",
+    "topic": "school",
+    "pos": "noun"
+  },
+  {
+    "word": "desk",
+    "meaning": "bàn học, bàn làm việc",
+    "context": "My desk is tidy.",
+    "contextVi": "Bàn học của tôi gọn gàng.",
+    "topic": "school",
+    "pos": "noun"
+  },
+  {
+    "word": "board",
+    "meaning": "bảng",
+    "context": "Write your answer on the board.",
+    "contextVi": "Hãy viết câu trả lời lên bảng.",
+    "topic": "school",
+    "pos": "noun"
+  },
+  {
+    "word": "chalk",
+    "meaning": "phấn",
+    "context": "The teacher needs some chalk.",
+    "contextVi": "Giáo viên cần một ít phấn.",
+    "topic": "school",
+    "pos": "noun"
+  },
+  {
+    "word": "marker",
+    "meaning": "bút dạ",
+    "context": "Use a blue marker.",
+    "contextVi": "Hãy dùng bút dạ màu xanh.",
+    "topic": "school",
+    "pos": "noun"
+  },
+  {
+    "word": "pen",
+    "meaning": "bút mực",
+    "context": "I write with a pen.",
+    "contextVi": "Tôi viết bằng bút mực.",
+    "topic": "school",
+    "pos": "noun"
+  },
+  {
+    "word": "pencil",
+    "meaning": "bút chì",
+    "context": "I need a sharp pencil.",
+    "contextVi": "Tôi cần một chiếc bút chì nhọn.",
+    "topic": "school",
+    "pos": "noun"
+  },
+  {
+    "word": "eraser",
+    "meaning": "tẩy",
+    "context": "Can I use your eraser?",
+    "contextVi": "Tôi có thể dùng tẩy của bạn không?",
+    "topic": "school",
+    "pos": "noun"
+  },
+  {
+    "word": "ruler",
+    "meaning": "thước kẻ",
+    "context": "Draw a line with a ruler.",
+    "contextVi": "Hãy dùng thước kẻ để vẽ một đường.",
+    "topic": "school",
+    "pos": "noun"
+  },
+  {
+    "word": "notebook",
+    "meaning": "vở",
+    "context": "Open your notebook.",
+    "contextVi": "Hãy mở vở.",
+    "topic": "school",
+    "pos": "noun"
+  },
+  {
+    "word": "textbook",
+    "meaning": "sách giáo khoa",
+    "context": "Bring your English textbook.",
+    "contextVi": "Hãy mang sách giáo khoa tiếng Anh.",
+    "topic": "school",
+    "pos": "noun"
+  },
+  {
+    "word": "book",
+    "meaning": "sách",
+    "context": "This book has short stories.",
+    "contextVi": "Quyển sách này có những câu chuyện ngắn.",
+    "topic": "school",
+    "pos": "noun"
+  },
+  {
+    "word": "page",
+    "meaning": "trang",
+    "context": "Turn to the next page.",
+    "contextVi": "Hãy lật sang trang tiếp theo.",
+    "topic": "school",
+    "pos": "noun"
+  },
+  {
+    "word": "chapter",
+    "meaning": "chương",
+    "context": "Read the first chapter.",
+    "contextVi": "Hãy đọc chương đầu tiên.",
+    "topic": "school",
+    "pos": "noun"
+  },
+  {
+    "word": "paragraph",
+    "meaning": "đoạn văn",
+    "context": "Write a short paragraph.",
+    "contextVi": "Hãy viết một đoạn văn ngắn.",
+    "topic": "school",
+    "pos": "noun"
+  },
+  {
+    "word": "sentence",
+    "meaning": "câu",
+    "context": "Read this sentence aloud.",
+    "contextVi": "Hãy đọc to câu này.",
+    "topic": "school",
+    "pos": "noun"
+  },
+  {
+    "word": "word",
+    "meaning": "từ",
+    "context": "This word is new to me.",
+    "contextVi": "Từ này mới đối với tôi.",
+    "topic": "school",
+    "pos": "noun"
+  },
+  {
+    "word": "letter",
+    "meaning": "chữ cái",
+    "context": "Write each letter carefully.",
+    "contextVi": "Hãy viết từng chữ cái cẩn thận.",
+    "topic": "school",
+    "pos": "noun"
+  },
+  {
+    "word": "alphabet",
+    "meaning": "bảng chữ cái",
+    "context": "We learn the alphabet.",
+    "contextVi": "Chúng tôi học bảng chữ cái.",
+    "topic": "school",
+    "pos": "noun"
+  },
+  {
+    "word": "grammar",
+    "meaning": "ngữ pháp",
+    "context": "We practice grammar daily.",
+    "contextVi": "Chúng tôi luyện ngữ pháp hằng ngày.",
+    "topic": "school",
+    "pos": "noun"
+  },
+  {
+    "word": "vocabulary",
+    "meaning": "từ vựng",
+    "context": "Reading builds your vocabulary.",
+    "contextVi": "Đọc sách giúp tăng vốn từ vựng của bạn.",
+    "topic": "school",
+    "pos": "noun"
+  },
+  {
+    "word": "pronunciation",
+    "meaning": "cách phát âm",
+    "context": "Her pronunciation is clear.",
+    "contextVi": "Cách phát âm của cô ấy rõ ràng.",
+    "topic": "school",
+    "pos": "noun"
+  },
+  {
+    "word": "meaning",
+    "meaning": "nghĩa",
+    "context": "What is the meaning of this word?",
+    "contextVi": "Từ này có nghĩa gì?",
+    "topic": "school",
+    "pos": "noun"
+  },
+  {
+    "word": "example",
+    "meaning": "ví dụ",
+    "context": "Give me one example.",
+    "contextVi": "Hãy cho tôi một ví dụ.",
+    "topic": "school",
+    "pos": "noun"
+  },
+  {
+    "word": "question",
+    "meaning": "câu hỏi",
+    "context": "I have a question.",
+    "contextVi": "Tôi có một câu hỏi.",
+    "topic": "school",
+    "pos": "noun"
+  },
+  {
+    "word": "answer",
+    "meaning": "câu trả lời",
+    "context": "Your answer is correct.",
+    "contextVi": "Câu trả lời của bạn đúng.",
+    "topic": "school",
+    "pos": "noun"
+  },
+  {
+    "word": "homework",
+    "meaning": "bài tập về nhà",
+    "context": "I finish my homework early.",
+    "contextVi": "Tôi hoàn thành bài tập về nhà sớm.",
+    "topic": "school",
+    "pos": "noun"
+  },
+  {
+    "word": "assignment",
+    "meaning": "bài tập được giao",
+    "context": "The assignment is due tomorrow.",
+    "contextVi": "Bài tập được giao đến hạn nộp ngày mai.",
+    "topic": "school",
+    "pos": "noun"
+  },
+  {
+    "word": "project",
+    "meaning": "dự án",
+    "context": "We work on a science project.",
+    "contextVi": "Chúng tôi làm một dự án khoa học.",
+    "topic": "school",
+    "pos": "noun"
+  },
+  {
+    "word": "essay",
+    "meaning": "bài luận",
+    "context": "She writes a short essay.",
+    "contextVi": "Cô ấy viết một bài luận ngắn.",
+    "topic": "school",
+    "pos": "noun"
+  },
+  {
+    "word": "test",
+    "meaning": "bài kiểm tra",
+    "context": "The test starts at nine.",
+    "contextVi": "Bài kiểm tra bắt đầu lúc chín giờ.",
+    "topic": "school",
+    "pos": "noun"
+  },
+  {
+    "word": "exam",
+    "meaning": "kỳ thi",
+    "context": "I study for my exam.",
+    "contextVi": "Tôi ôn tập cho kỳ thi.",
+    "topic": "school",
+    "pos": "noun"
+  },
+  {
+    "word": "quiz",
+    "meaning": "bài kiểm tra ngắn",
+    "context": "We take a short quiz.",
+    "contextVi": "Chúng tôi làm một bài kiểm tra ngắn.",
+    "topic": "school",
+    "pos": "noun"
+  },
+  {
+    "word": "score",
+    "meaning": "điểm số",
+    "context": "My score improved this week.",
+    "contextVi": "Điểm số của tôi đã tốt hơn tuần này.",
+    "topic": "school",
+    "pos": "noun"
+  },
+  {
+    "word": "grade",
+    "meaning": "điểm đánh giá hoặc khối lớp",
+    "context": "She gets a good grade.",
+    "contextVi": "Cô ấy đạt điểm tốt.",
+    "topic": "school",
+    "pos": "noun"
+  },
+  {
+    "word": "result",
+    "meaning": "kết quả",
+    "context": "The result makes me happy.",
+    "contextVi": "Kết quả khiến tôi vui.",
+    "topic": "school",
+    "pos": "noun"
+  },
+  {
+    "word": "mistake",
+    "meaning": "lỗi sai",
+    "context": "I correct my mistake.",
+    "contextVi": "Tôi sửa lỗi sai của mình.",
+    "topic": "school",
+    "pos": "noun"
+  },
+  {
+    "word": "instruction",
+    "meaning": "hướng dẫn",
+    "context": "Read each instruction carefully.",
+    "contextVi": "Hãy đọc từng hướng dẫn cẩn thận.",
+    "topic": "school",
+    "pos": "noun"
+  },
+  {
+    "word": "rule",
+    "meaning": "quy tắc",
+    "context": "Follow this spelling rule.",
+    "contextVi": "Hãy làm theo quy tắc chính tả này.",
+    "topic": "school",
+    "pos": "noun"
+  },
+  {
+    "word": "note",
+    "meaning": "ghi chú",
+    "context": "I write a short note.",
+    "contextVi": "Tôi viết một ghi chú ngắn.",
+    "topic": "school",
+    "pos": "noun"
+  },
+  {
+    "word": "schedule",
+    "meaning": "thời khóa biểu, lịch",
+    "context": "Check your class schedule.",
+    "contextVi": "Hãy kiểm tra thời khóa biểu.",
+    "topic": "school",
+    "pos": "noun"
+  },
+  {
+    "word": "break",
+    "meaning": "giờ nghỉ",
+    "context": "We have a short break.",
+    "contextVi": "Chúng tôi có một giờ nghỉ ngắn.",
+    "topic": "school",
+    "pos": "noun"
+  },
+  {
+    "word": "attendance",
+    "meaning": "việc có mặt, chuyên cần",
+    "context": "The teacher checks attendance.",
+    "contextVi": "Giáo viên kiểm tra việc có mặt của học sinh.",
+    "topic": "school",
+    "pos": "noun"
+  },
+  {
+    "word": "education",
+    "meaning": "giáo dục",
+    "context": "Education opens new doors.",
+    "contextVi": "Giáo dục mở ra những cơ hội mới.",
+    "topic": "school",
+    "pos": "noun"
+  },
+  {
+    "word": "knowledge",
+    "meaning": "kiến thức",
+    "context": "Practice builds knowledge.",
+    "contextVi": "Luyện tập giúp tích lũy kiến thức.",
+    "topic": "school",
+    "pos": "noun"
+  },
+  {
+    "word": "skill",
+    "meaning": "kỹ năng",
+    "context": "Writing is an important skill.",
+    "contextVi": "Viết là một kỹ năng quan trọng.",
+    "topic": "school",
+    "pos": "noun"
+  },
+  {
+    "word": "learn",
+    "meaning": "học",
+    "context": "We learn something new daily.",
+    "contextVi": "Chúng tôi học điều mới mỗi ngày.",
+    "topic": "school",
+    "pos": "verb"
+  },
+  {
+    "word": "study",
+    "meaning": "học, nghiên cứu",
+    "context": "I study English at home.",
+    "contextVi": "Tôi học tiếng Anh ở nhà.",
+    "topic": "school",
+    "pos": "verb"
+  },
+  {
+    "word": "teach",
+    "meaning": "dạy",
+    "context": "They teach young children.",
+    "contextVi": "Họ dạy trẻ nhỏ.",
+    "topic": "school",
+    "pos": "verb"
+  },
+  {
+    "word": "read",
+    "meaning": "đọc",
+    "context": "I read a book daily.",
+    "contextVi": "Tôi đọc sách mỗi ngày.",
+    "topic": "school",
+    "pos": "verb"
+  },
+  {
+    "word": "write",
+    "meaning": "viết",
+    "context": "We write short sentences.",
+    "contextVi": "Chúng tôi viết những câu ngắn.",
+    "topic": "school",
+    "pos": "verb"
+  },
+  {
+    "word": "spell",
+    "meaning": "đánh vần",
+    "context": "Can you spell your name?",
+    "contextVi": "Bạn có thể đánh vần tên mình không?",
+    "topic": "school",
+    "pos": "verb"
+  },
+  {
+    "word": "count",
+    "meaning": "đếm",
+    "context": "We count the red pencils.",
+    "contextVi": "Chúng tôi đếm những chiếc bút chì đỏ.",
+    "topic": "school",
+    "pos": "verb"
+  },
+  {
+    "word": "explain",
+    "meaning": "giải thích",
+    "context": "Please explain this question.",
+    "contextVi": "Hãy giải thích câu hỏi này.",
+    "topic": "school",
+    "pos": "verb"
+  },
+  {
+    "word": "revise",
+    "meaning": "ôn tập",
+    "context": "I revise before the exam.",
+    "contextVi": "Tôi ôn tập trước kỳ thi.",
+    "topic": "school",
+    "pos": "verb"
+  },
+  {
+    "word": "graduate",
+    "meaning": "tốt nghiệp",
+    "context": "I graduate next year.",
+    "contextVi": "Tôi tốt nghiệp vào năm sau.",
+    "topic": "school",
+    "pos": "verb"
+  },
+  {
+    "word": "nature",
+    "meaning": "thiên nhiên",
+    "context": "We enjoy nature on weekends.",
+    "contextVi": "Chúng tôi tận hưởng thiên nhiên vào cuối tuần.",
+    "topic": "nature-animals",
+    "pos": "noun"
+  },
+  {
+    "word": "earth",
+    "meaning": "Trái Đất, đất",
+    "context": "The Earth moves around the sun.",
+    "contextVi": "Trái Đất quay quanh Mặt Trời.",
+    "topic": "nature-animals",
+    "pos": "noun"
+  },
+  {
+    "word": "sky",
+    "meaning": "bầu trời",
+    "context": "The sky is clear.",
+    "contextVi": "Bầu trời quang đãng.",
+    "topic": "nature-animals",
+    "pos": "noun"
+  },
+  {
+    "word": "sun",
+    "meaning": "mặt trời",
+    "context": "The sun is shining.",
+    "contextVi": "Mặt trời đang chiếu sáng.",
+    "topic": "nature-animals",
+    "pos": "noun"
+  },
+  {
+    "word": "moon",
+    "meaning": "mặt trăng",
+    "context": "The moon is bright tonight.",
+    "contextVi": "Mặt trăng sáng tối nay.",
+    "topic": "nature-animals",
+    "pos": "noun"
+  },
+  {
+    "word": "star",
+    "meaning": "ngôi sao",
+    "context": "I can see one star.",
+    "contextVi": "Tôi có thể thấy một ngôi sao.",
+    "topic": "nature-animals",
+    "pos": "noun"
+  },
+  {
+    "word": "cloud",
+    "meaning": "đám mây",
+    "context": "A cloud hides the sun.",
+    "contextVi": "Một đám mây che mặt trời.",
+    "topic": "nature-animals",
+    "pos": "noun"
+  },
+  {
+    "word": "rain",
+    "meaning": "mưa",
+    "context": "The rain stops soon.",
+    "contextVi": "Mưa sắp tạnh.",
+    "topic": "nature-animals",
+    "pos": "noun"
+  },
+  {
+    "word": "snow",
+    "meaning": "tuyết",
+    "context": "The snow is deep.",
+    "contextVi": "Tuyết dày.",
+    "topic": "nature-animals",
+    "pos": "noun"
+  },
+  {
+    "word": "wind",
+    "meaning": "gió",
+    "context": "The wind moves the leaves.",
+    "contextVi": "Gió làm lá cây lay động.",
+    "topic": "nature-animals",
+    "pos": "noun"
+  },
+  {
+    "word": "storm",
+    "meaning": "bão",
+    "context": "A storm is coming.",
+    "contextVi": "Một cơn bão đang đến.",
+    "topic": "nature-animals",
+    "pos": "noun"
+  },
+  {
+    "word": "thunder",
+    "meaning": "sấm",
+    "context": "I hear thunder outside.",
+    "contextVi": "Tôi nghe tiếng sấm ở ngoài.",
+    "topic": "nature-animals",
+    "pos": "noun"
+  },
+  {
+    "word": "lightning",
+    "meaning": "chớp, sét",
+    "context": "Lightning lights up the sky.",
+    "contextVi": "Chớp làm sáng bầu trời.",
+    "topic": "nature-animals",
+    "pos": "noun"
+  },
+  {
+    "word": "rainbow",
+    "meaning": "cầu vồng",
+    "context": "A rainbow appears after rain.",
+    "contextVi": "Cầu vồng xuất hiện sau mưa.",
+    "topic": "nature-animals",
+    "pos": "noun"
+  },
+  {
+    "word": "fog",
+    "meaning": "sương mù",
+    "context": "The fog hides the road.",
+    "contextVi": "Sương mù che khuất đường.",
+    "topic": "nature-animals",
+    "pos": "noun"
+  },
+  {
+    "word": "weather",
+    "meaning": "thời tiết",
+    "context": "The weather is nice today.",
+    "contextVi": "Thời tiết hôm nay đẹp.",
+    "topic": "nature-animals",
+    "pos": "noun"
+  },
+  {
+    "word": "season",
+    "meaning": "mùa",
+    "context": "Spring is my favorite season.",
+    "contextVi": "Mùa xuân là mùa tôi thích nhất.",
+    "topic": "nature-animals",
+    "pos": "noun"
+  },
+  {
+    "word": "spring",
+    "meaning": "mùa xuân",
+    "context": "Flowers bloom in spring.",
+    "contextVi": "Hoa nở vào mùa xuân.",
+    "topic": "nature-animals",
+    "pos": "noun"
+  },
+  {
+    "word": "summer",
+    "meaning": "mùa hè",
+    "context": "Summer is hot here.",
+    "contextVi": "Mùa hè ở đây nóng.",
+    "topic": "nature-animals",
+    "pos": "noun"
+  },
+  {
+    "word": "autumn",
+    "meaning": "mùa thu",
+    "context": "Leaves fall in autumn.",
+    "contextVi": "Lá rụng vào mùa thu.",
+    "topic": "nature-animals",
+    "pos": "noun"
+  },
+  {
+    "word": "winter",
+    "meaning": "mùa đông",
+    "context": "Winter is cold here.",
+    "contextVi": "Mùa đông ở đây lạnh.",
+    "topic": "nature-animals",
+    "pos": "noun"
+  },
+  {
+    "word": "mountain",
+    "meaning": "núi",
+    "context": "The mountain is very high.",
+    "contextVi": "Ngọn núi rất cao.",
+    "topic": "nature-animals",
+    "pos": "noun"
+  },
+  {
+    "word": "hill",
+    "meaning": "đồi",
+    "context": "We walk up the hill.",
+    "contextVi": "Chúng tôi đi bộ lên đồi.",
+    "topic": "nature-animals",
+    "pos": "noun"
+  },
+  {
+    "word": "valley",
+    "meaning": "thung lũng",
+    "context": "A river runs through the valley.",
+    "contextVi": "Một con sông chảy qua thung lũng.",
+    "topic": "nature-animals",
+    "pos": "noun"
+  },
+  {
+    "word": "forest",
+    "meaning": "rừng",
+    "context": "The forest has tall trees.",
+    "contextVi": "Khu rừng có những cây cao.",
+    "topic": "nature-animals",
+    "pos": "noun"
+  },
+  {
+    "word": "wood",
+    "meaning": "gỗ",
+    "context": "This chair is made of wood.",
+    "contextVi": "Chiếc ghế này làm bằng gỗ.",
+    "topic": "nature-animals",
+    "pos": "noun"
+  },
+  {
+    "word": "river",
+    "meaning": "sông",
+    "context": "The river flows slowly.",
+    "contextVi": "Con sông chảy chậm.",
+    "topic": "nature-animals",
+    "pos": "noun"
+  },
+  {
+    "word": "lake",
+    "meaning": "hồ",
+    "context": "The lake is calm.",
+    "contextVi": "Mặt hồ yên ả.",
+    "topic": "nature-animals",
+    "pos": "noun"
+  },
+  {
+    "word": "pond",
+    "meaning": "ao",
+    "context": "Ducks swim in the pond.",
+    "contextVi": "Vịt bơi trong ao.",
+    "topic": "nature-animals",
+    "pos": "noun"
+  },
+  {
+    "word": "sea",
+    "meaning": "biển",
+    "context": "The sea is blue.",
+    "contextVi": "Biển có màu xanh.",
+    "topic": "nature-animals",
+    "pos": "noun"
+  },
+  {
+    "word": "ocean",
+    "meaning": "đại dương",
+    "context": "The ocean is vast.",
+    "contextVi": "Đại dương rộng lớn.",
+    "topic": "nature-animals",
+    "pos": "noun"
+  },
+  {
+    "word": "beach",
+    "meaning": "bãi biển",
+    "context": "We walk along the beach.",
+    "contextVi": "Chúng tôi đi bộ dọc bãi biển.",
+    "topic": "nature-animals",
+    "pos": "noun"
+  },
+  {
+    "word": "island",
+    "meaning": "đảo",
+    "context": "They live on an island.",
+    "contextVi": "Họ sống trên một hòn đảo.",
+    "topic": "nature-animals",
+    "pos": "noun"
+  },
+  {
+    "word": "sand",
+    "meaning": "cát",
+    "context": "The sand feels warm.",
+    "contextVi": "Cát có cảm giác ấm.",
+    "topic": "nature-animals",
+    "pos": "noun"
+  },
+  {
+    "word": "rock",
+    "meaning": "tảng đá",
+    "context": "We sit on a large rock.",
+    "contextVi": "Chúng tôi ngồi trên một tảng đá lớn.",
+    "topic": "nature-animals",
+    "pos": "noun"
+  },
+  {
+    "word": "stone",
+    "meaning": "hòn đá",
+    "context": "I pick up a smooth stone.",
+    "contextVi": "Tôi nhặt một hòn đá nhẵn.",
+    "topic": "nature-animals",
+    "pos": "noun"
+  },
+  {
+    "word": "soil",
+    "meaning": "đất trồng",
+    "context": "The soil is wet.",
+    "contextVi": "Đất trồng ẩm.",
+    "topic": "nature-animals",
+    "pos": "noun"
+  },
+  {
+    "word": "field",
+    "meaning": "cánh đồng",
+    "context": "Cows stand in the field.",
+    "contextVi": "Những con bò đứng trên cánh đồng.",
+    "topic": "nature-animals",
+    "pos": "noun"
+  },
+  {
+    "word": "grass",
+    "meaning": "cỏ",
+    "context": "The grass is green.",
+    "contextVi": "Cỏ có màu xanh.",
+    "topic": "nature-animals",
+    "pos": "noun"
+  },
+  {
+    "word": "tree",
+    "meaning": "cây",
+    "context": "A bird sits in the tree.",
+    "contextVi": "Một con chim đậu trên cây.",
+    "topic": "nature-animals",
+    "pos": "noun"
+  },
+  {
+    "word": "leaf",
+    "meaning": "lá cây",
+    "context": "This leaf is yellow.",
+    "contextVi": "Chiếc lá này màu vàng.",
+    "topic": "nature-animals",
+    "pos": "noun"
+  },
+  {
+    "word": "branch",
+    "meaning": "cành cây",
+    "context": "The branch is strong.",
+    "contextVi": "Cành cây này chắc.",
+    "topic": "nature-animals",
+    "pos": "noun"
+  },
+  {
+    "word": "root",
+    "meaning": "rễ cây",
+    "context": "The root grows underground.",
+    "contextVi": "Rễ cây mọc dưới đất.",
+    "topic": "nature-animals",
+    "pos": "noun"
+  },
+  {
+    "word": "flower",
+    "meaning": "hoa",
+    "context": "This flower smells sweet.",
+    "contextVi": "Bông hoa này có mùi thơm dịu.",
+    "topic": "nature-animals",
+    "pos": "noun"
+  },
+  {
+    "word": "seed",
+    "meaning": "hạt giống",
+    "context": "Plant one seed here.",
+    "contextVi": "Hãy gieo một hạt giống ở đây.",
+    "topic": "nature-animals",
+    "pos": "noun"
+  },
+  {
+    "word": "plant",
+    "meaning": "cây trồng",
+    "context": "This plant needs water.",
+    "contextVi": "Cây này cần nước.",
+    "topic": "nature-animals",
+    "pos": "noun"
+  },
+  {
+    "word": "garden",
+    "meaning": "vườn",
+    "context": "We grow herbs in the garden.",
+    "contextVi": "Chúng tôi trồng rau thơm trong vườn.",
+    "topic": "nature-animals",
+    "pos": "noun"
+  },
+  {
+    "word": "animal",
+    "meaning": "động vật",
+    "context": "A dog is an animal.",
+    "contextVi": "Chó là một loài động vật.",
+    "topic": "nature-animals",
+    "pos": "noun"
+  },
+  {
+    "word": "pet",
+    "meaning": "thú cưng",
+    "context": "Our pet sleeps beside us.",
+    "contextVi": "Thú cưng của chúng tôi ngủ cạnh chúng tôi.",
+    "topic": "nature-animals",
+    "pos": "noun"
+  },
+  {
+    "word": "dog",
+    "meaning": "chó",
+    "context": "The dog waits at the door.",
+    "contextVi": "Con chó chờ ở cửa.",
+    "topic": "nature-animals",
+    "pos": "noun"
+  },
+  {
+    "word": "cat",
+    "meaning": "mèo",
+    "context": "The cat is sleeping.",
+    "contextVi": "Con mèo đang ngủ.",
+    "topic": "nature-animals",
+    "pos": "noun"
+  },
+  {
+    "word": "bird",
+    "meaning": "chim",
+    "context": "A bird sings outside.",
+    "contextVi": "Một con chim hót ở ngoài.",
+    "topic": "nature-animals",
+    "pos": "noun"
+  },
+  {
+    "word": "fish",
+    "meaning": "cá",
+    "context": "The fish swims quickly.",
+    "contextVi": "Con cá bơi nhanh.",
+    "topic": "nature-animals",
+    "pos": "noun"
+  },
+  {
+    "word": "horse",
+    "meaning": "ngựa",
+    "context": "The horse runs across the field.",
+    "contextVi": "Con ngựa chạy qua cánh đồng.",
+    "topic": "nature-animals",
+    "pos": "noun"
+  },
+  {
+    "word": "cow",
+    "meaning": "bò",
+    "context": "The cow eats grass.",
+    "contextVi": "Con bò ăn cỏ.",
+    "topic": "nature-animals",
+    "pos": "noun"
+  },
+  {
+    "word": "pig",
+    "meaning": "lợn",
+    "context": "The pig sleeps in the shade.",
+    "contextVi": "Con lợn ngủ trong bóng mát.",
+    "topic": "nature-animals",
+    "pos": "noun"
+  },
+  {
+    "word": "sheep",
+    "meaning": "cừu",
+    "context": "The sheep has thick wool.",
+    "contextVi": "Con cừu có bộ lông len dày.",
+    "topic": "nature-animals",
+    "pos": "noun"
+  },
+  {
+    "word": "goat",
+    "meaning": "dê",
+    "context": "The goat climbs the hill.",
+    "contextVi": "Con dê leo lên đồi.",
+    "topic": "nature-animals",
+    "pos": "noun"
+  },
+  {
+    "word": "duck",
+    "meaning": "vịt",
+    "context": "The duck swims in the pond.",
+    "contextVi": "Con vịt bơi trong ao.",
+    "topic": "nature-animals",
+    "pos": "noun"
+  },
+  {
+    "word": "rabbit",
+    "meaning": "thỏ",
+    "context": "The rabbit eats a carrot.",
+    "contextVi": "Con thỏ ăn một củ cà rốt.",
+    "topic": "nature-animals",
+    "pos": "noun"
+  },
+  {
+    "word": "mouse",
+    "meaning": "chuột nhỏ",
+    "context": "A mouse runs under the chair.",
+    "contextVi": "Một con chuột chạy dưới ghế.",
+    "topic": "nature-animals",
+    "pos": "noun"
+  },
+  {
+    "word": "rat",
+    "meaning": "chuột cống",
+    "context": "A rat hides near the bin.",
+    "contextVi": "Một con chuột cống trốn gần thùng rác.",
+    "topic": "nature-animals",
+    "pos": "noun"
+  },
+  {
+    "word": "lion",
+    "meaning": "sư tử",
+    "context": "The lion rests in the shade.",
+    "contextVi": "Con sư tử nghỉ trong bóng mát.",
+    "topic": "nature-animals",
+    "pos": "noun"
+  },
+  {
+    "word": "tiger",
+    "meaning": "hổ",
+    "context": "The tiger has black stripes.",
+    "contextVi": "Con hổ có những vằn đen.",
+    "topic": "nature-animals",
+    "pos": "noun"
+  },
+  {
+    "word": "bear",
+    "meaning": "gấu",
+    "context": "The bear catches a fish.",
+    "contextVi": "Con gấu bắt một con cá.",
+    "topic": "nature-animals",
+    "pos": "noun"
+  },
+  {
+    "word": "elephant",
+    "meaning": "voi",
+    "context": "The elephant has a long trunk.",
+    "contextVi": "Con voi có một cái vòi dài.",
+    "topic": "nature-animals",
+    "pos": "noun"
+  },
+  {
+    "word": "monkey",
+    "meaning": "khỉ",
+    "context": "The monkey climbs a tree.",
+    "contextVi": "Con khỉ leo cây.",
+    "topic": "nature-animals",
+    "pos": "noun"
+  },
+  {
+    "word": "giraffe",
+    "meaning": "hươu cao cổ",
+    "context": "The giraffe eats leaves from tall trees.",
+    "contextVi": "Hươu cao cổ ăn lá trên những cây cao.",
+    "topic": "nature-animals",
+    "pos": "noun"
+  },
+  {
+    "word": "zebra",
+    "meaning": "ngựa vằn",
+    "context": "The zebra has black stripes.",
+    "contextVi": "Ngựa vằn có những sọc đen.",
+    "topic": "nature-animals",
+    "pos": "noun"
+  },
+  {
+    "word": "snake",
+    "meaning": "rắn",
+    "context": "The snake moves through grass.",
+    "contextVi": "Con rắn di chuyển qua cỏ.",
+    "topic": "nature-animals",
+    "pos": "noun"
+  },
+  {
+    "word": "frog",
+    "meaning": "ếch",
+    "context": "The frog jumps into the pond.",
+    "contextVi": "Con ếch nhảy xuống ao.",
+    "topic": "nature-animals",
+    "pos": "noun"
+  },
+  {
+    "word": "turtle",
+    "meaning": "rùa",
+    "context": "The turtle moves slowly.",
+    "contextVi": "Con rùa di chuyển chậm.",
+    "topic": "nature-animals",
+    "pos": "noun"
+  },
+  {
+    "word": "butterfly",
+    "meaning": "bướm",
+    "context": "A butterfly lands on a flower.",
+    "contextVi": "Một con bướm đậu trên hoa.",
+    "topic": "nature-animals",
+    "pos": "noun"
+  },
+  {
+    "word": "bee",
+    "meaning": "ong",
+    "context": "A bee flies past us.",
+    "contextVi": "Một con ong bay ngang chúng tôi.",
+    "topic": "nature-animals",
+    "pos": "noun"
+  },
+  {
+    "word": "ant",
+    "meaning": "kiến",
+    "context": "An ant carries a crumb.",
+    "contextVi": "Một con kiến tha một mẩu vụn.",
+    "topic": "nature-animals",
+    "pos": "noun"
+  }
+]
